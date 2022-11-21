@@ -1,0 +1,47 @@
+{{ partial "header.html" . }}
+
+<div class="container">
+<article>
+<main>
+
+
+<ul class="terms"><b>Alla taxanomier:</b> 
+    {{ range $taxonomy_term, $taxonomy := .Site.Taxonomies }}
+        {{ with $.Site.GetPage (printf "/%s" $taxonomy_term) }}
+            <li><a href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+              ({{ len $taxonomy_term }})
+            </li>
+        {{ end }}
+    {{ end }}
+</ul>
+
+  <ul class="terms"><b>Taxaonomin {{ $.Scratch.Get "Title" }}:</b> 
+    {{ range .Pages.ByWeight }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title}}</a> ({{ len .Pages }})
+    </li>
+    {{ end }}
+  </ul>
+
+  <b>Artiklar inom {{ $.Scratch.Get "Title" }}</b>
+
+<ul>
+    {{ range .Pages.ByWeight }}
+      <li><a href="{{ .Permalink }}">{{ .Title}}</a> ({{ len .Pages }})
+        <ul>
+          {{ range .Pages }}
+          <li hugo-nav="{{ .RelPermalink}}">
+            <a href="{{ .Permalink}}">{{ .LinkTitle }}</a> 
+        </li>
+          {{ end }}
+        </ul>
+      </li>
+    {{ end }}
+</ul>
+
+
+</main>
+</article>
+</div>
+
+{{ partial "footer.html" . }}

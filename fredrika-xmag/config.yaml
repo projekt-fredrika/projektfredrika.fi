@@ -1,0 +1,50 @@
+baseurl: "https://hugo.projektfredrika.fi/"
+languageCode: "sv-fi"
+title: "Projekt Fredrika r.f."
+theme: "hugo-xmag"
+googleAnalytics: "G-5QJHGK6WGX"
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: "↩"
+hasCJKLanguage: true
+enableEmoji: true
+paginate: 100
+buildDrafts: false
+
+permalinks:
+  post: "/:slug/"
+
+menu:
+  main:
+    - name: Hem
+      url: /
+      weight: 1
+    - name: Om Projekt Fredrika
+      url: /om/
+      weight: 2
+    - name: Kategorier
+      url: /categories/
+      weight: 3
+    - name: Taggar
+      url: /tags/
+      weight: 4
+
+params:
+  description: "Projekt Fredrika - det svenska Finland på Wikipedia"
+  images: ['/img/ProjektFredrika2020_Logo 200x200.png']
+  footer: "&copy; Projekt Fredrika r.f. 2019 - 2022 | [Wikipedia:Projekt Fredrika](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika) | [Twitter @projektfredrika](https://twitter.com/projektfredrika) | [Instagram @projektfredrika](https://instagram.com/projektfredrika) "
+  github_edit: "https://github.com/projekt-fredrika/projektfredrika.fi/edit/master/"
+  summary_length: 300
+  text:
+    back: "&larr; Hem"
+    edit: "Redigera sida &rarr;"
+    truncated: "&hellip;"
+  favicon: "/img/cropped-Fredrika_logo-1-32x32.png"  
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
