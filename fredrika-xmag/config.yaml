@@ -1,4 +1,4 @@
-baseurl: "https://hugo.projektfredrika.fi/"
+baseurl: "https://projektfredrika.netlify.app/"
 languageCode: "sv-fi"
 title: "Projekt Fredrika r.f."
 theme: "hugo-xmag"
