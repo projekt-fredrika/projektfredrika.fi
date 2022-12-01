@@ -21,11 +21,11 @@ _Gustav Wiklund, Ingrid Söderblom, Vivica Bandler, Birgitta Ulfsson och Lasse P
 
 Just nu håller vi på att uppdatera Svenskspråkiga teatrar i Finland. Ta en titt nedanför på våra analyser!
 
-* [Grafisk luppanalys**](http://wiki.projektfredrika.fi/filer/visual_Svenskspr%C3%A5kiga_teatrar_i_Finland.html)
-* [Numerisk luppanalys](http://wiki.projektfredrika.fi/Svenskspr%C3%A5kiga_teatrar_i_Finland)**
-* [Medarbetare**](http://wiki.projektfredrika.fi/Svenskspr%C3%A5kiga_teatrar_i_Finland:Contributors)
-* [Top 100 artiklar i kategorin**](http://wiki.projektfredrika.fi/Top/Svenskspr%C3%A5kiga_teatrar_i_Finland)
+* [Grafisk luppanalys**](https://wiki.projektfredrika.fi/filer/visual_Svenskspr%C3%A5kiga_teatrar_i_Finland.html)
+* [Numerisk luppanalys](https://wiki.projektfredrika.fi/Svenskspr%C3%A5kiga_teatrar_i_Finland)**
+* [Medarbetare**](https://wiki.projektfredrika.fi/Svenskspr%C3%A5kiga_teatrar_i_Finland:Contributors)
+* [Top 100 artiklar i kategorin**](https://wiki.projektfredrika.fi/Top/Svenskspr%C3%A5kiga_teatrar_i_Finland)
 
-![](http://test.projektfredrika.fi/wp-content/uploads/2020/05/Lilla-Teatern-1967-669x1024.jpg)
+![](/2020/05/Lilla-Teatern-1967-669x1024.jpg)
 
 _Lasse Pöysti, Bengt Ahlfors, Lisa Bergström, Elina Salo och Birgitta Ulfsson år 1967 vid Lilla Teaterns nya utrymmen vid Georgsgatan. Bild av Gustaf Wahlstén [(taget från Wikimedia Commons)](https://sv.wikipedia.org/wiki/Lilla_Teatern,_Helsingfors#/media/Fil:Lilla-Teatern-1967.jpg)_
