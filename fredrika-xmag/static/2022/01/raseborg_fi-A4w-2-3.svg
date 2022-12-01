@@ -1,0 +1,1594 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+ <svg width="210mm" height="140mm" viewBox="0 0 210 140"
+      xmlns="http://www.w3.org/2000/svg" version="1.1"
+      xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+
+ <title>Voronoi Diagram for raseborg</title>
+ <desc>voronoi.py</desc>
+ <!-- 13.01.2022 00:20 -->
+
+ <defs>
+ <style type="text/css"><![CDATA[
+    .header { font-family: Vollkorn; font-size: 3mm; }
+    .small_header { font-size: 1.5mm; }
+    text {font-family: Open Sans; font-size: 2mm;
+          fill: black; stroke: none; }
+    polyline, rect {fill: none;}
+    * { stroke: black; stroke-width: 0.2; }
+    ]]></style>
+  <marker id='mid' orient="auto"
+    markerWidth='6' markerHeight='12' refX='0.3' refY='3'>
+    <path d='M0,0 V6 L3,3 Z'/>
+  </marker>
+  
+ </defs>
+
+<!-- Parameters: Levels ['grupp1', 'grupp2', 'fi_title'] Area fi_all_time_views Quality quality Borders [{'rule': '>5', 'bg_color': 'pf_blue2_10', 'fg_color': ''}, {'rule': '>4', 'bg_color': 'pf_blue2_20', 'fg_color': ''}, {'rule': '>3', 'bg_color': 'pf_blue2_30', 'fg_color': ''}, {'rule': '>2', 'bg_color': 'pf_blue2_40', 'fg_color': ''}, {'rule': '>1', 'bg_color': 'pf_blue2_50', 'fg_color': ''}, {'rule': '>0', 'bg_color': 'pf_blue2_60', 'fg_color': ''}] -->
+
+<!-- Margins: {'inner': {'mm': {'top': 10, 'right': 10, 'bottom': 10, 'left': 10}}} -->
+
+<!-- Canvas: {'format': 'A4w-2-3', 'mm': {'width': 210, 'height': 140}, 'orientation': 'landscape', 'inner': {'mm': {'top': 10, 'right': 200, 'bottom': 130, 'left': 10, 'width': 190, 'height': 120, 'x_mid': 105.0, 'y_mid': 70.0, 'aspect_ratio': 0.631578947368421}}} -->
+
+<!-- Level grupp1, cols ['grupp1', 'grupp2', 'fi_title', 'fi_all_time_views', 'quality'] -->
+ <rect x="0" y="0" width="93.66" height="44.67"  style="fill: #338fdf; "/>
+
+<!-- person: max_point_size 40.20 textsize 21.8 -->
+ <text x="46.83" y="22.33" style="font-size: 21.8; text-anchor: middle; dominant-baseline: central; fill: black; ">person</text>
+ <rect x="93.66" y="0" width="12.63" height="34.43"  style="fill: #55a1e4; "/>
+
+<!-- natur: max_point_size 11.37 textsize 9.600000000000001 -->
+ <text x="99.98" y="17.21" style="font-size: 9.600000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 99.97621252780482 17.214175596916714)">natur</text>
+ <rect x="93.66" y="34.43" width="12.63" height="10.24"  style="fill: #bbd9f4; "/>
+
+<!-- händelse: max_point_size 9.21 textsize 2.2 -->
+ <text x="99.98" y="39.55" style="font-size: 2.2; text-anchor: middle; dominant-baseline: central; fill: black; ">händelse</text>
+ <rect x="106.29" y="0" width="80.36" height="44.67"  style="fill: #77b4e9; "/>
+
+<!-- bebyggelse: max_point_size 40.20 textsize 11.200000000000001 -->
+ <text x="146.47" y="22.33" style="font-size: 11.200000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">bebyggelse</text>
+ <rect x="186.65" y="0" width="23.35" height="44.67"  style="fill: #99c7ef; "/>
+
+<!-- organisation: max_point_size 21.01 textsize 5.2 -->
+ <text x="198.33" y="22.33" style="font-size: 5.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 198.32607043624878 22.333333333333332)">organisation</text>
+
+<!-- Level grupp1/grupp2, cols ['grupp1', 'grupp2', 'fi_title', 'fi_all_time_views', 'quality'] -->
+ <rect x="0" y="47.67" width="24.15" height="44.67"  style="fill: #338fdf; "/>
+
+<!-- författare: max_point_size 21.73 textsize 6.2 -->
+ <text x="12.07" y="70.00" style="font-size: 6.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 12.074556508109906 70.0)">författare</text>
+ <rect x="24.15" y="47.67" width="22.72" height="13.66"  style="fill: #338fdf; "/>
+
+<!-- ledare: max_point_size 12.30 textsize 5.300000000000001 -->
+ <text x="35.51" y="54.50" style="font-size: 5.300000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">ledare</text>
+ <rect x="24.15" y="61.33" width="17.67" height="9.33"  style="fill: #338fdf; "/>
+
+<!-- militär: max_point_size 8.39 textsize 3.5 -->
+ <text x="32.98" y="66.00" style="font-size: 3.5; text-anchor: middle; dominant-baseline: central; fill: black; ">militär</text>
+ <rect x="41.82" y="61.33" width="5.05" height="9.33"  style="fill: #338fdf; "/>
+
+<!-- företagare: max_point_size 4.54 textsize 1.3 -->
+ <text x="44.34" y="66.00" style="font-size: 1.3; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 44.3434080683965 65.99524719631623)">företagare</text>
+ <rect x="24.15" y="70.66" width="10.13" height="21.67"  style="fill: #338fdf; "/>
+
+<!-- skådespelare: max_point_size 9.11 textsize 2.5 -->
+ <text x="29.21" y="81.50" style="font-size: 2.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 29.211724719660907 81.49613544329011)">skådespelare</text>
+ <rect x="34.27" y="70.66" width="12.59" height="16.58"  style="fill: #338fdf; "/>
+
+<!-- idrottare: max_point_size 11.33 textsize 2.5 -->
+ <text x="40.57" y="78.95" style="font-size: 2.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 40.57067807088432 78.94691674098027)">idrottare</text>
+ <rect x="34.27" y="87.23" width="12.59" height="5.10"  style="fill: #338fdf; "/>
+
+<!-- konstnär: max_point_size 4.59 textsize 2.2 -->
+ <text x="40.57" y="89.78" style="font-size: 2.2; text-anchor: middle; dominant-baseline: central; fill: black; ">konstnär</text>
+ <rect x="46.87" y="47.67" width="23.47" height="44.67"  style="fill: #338fdf; "/>
+
+<!-- musiker: max_point_size 21.13 textsize 8.9 -->
+ <text x="58.60" y="70.00" style="font-size: 8.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 58.6043561550579 70.0)">musiker</text>
+ <rect x="70.34" y="47.67" width="23.32" height="31.99"  style="fill: #338fdf; "/>
+
+<!-- politiker: max_point_size 20.99 textsize 4.9 -->
+ <text x="82.00" y="63.66" style="font-size: 4.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 82.00107657112098 63.663052469230095)">politiker</text>
+ <rect x="70.34" y="79.66" width="13.94" height="12.67"  style="fill: #338fdf; "/>
+
+<!-- vetenskapsman: max_point_size 11.41 textsize 1.5 -->
+ <text x="77.31" y="86.00" style="font-size: 1.5; text-anchor: middle; dominant-baseline: central; fill: black; ">vetenskapsman</text>
+ <rect x="84.28" y="79.66" width="9.38" height="9.91"  style="fill: #338fdf; "/>
+
+<!-- journalist: max_point_size 8.44 textsize 1.3 -->
+ <text x="88.97" y="84.61" style="font-size: 1.3; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 88.96950614686405 84.61250454930064)">journalist</text>
+ <rect x="84.28" y="89.57" width="4.09" height="2.77"  style="fill: #338fdf; "/>
+
+<!-- arkitekt: max_point_size 2.49 textsize 0.7000000000000001 -->
+ <text x="86.32" y="90.95" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">arkitekt</text>
+ <rect x="88.37" y="89.57" width="0.87" height="2.77"  style="fill: #338fdf; "/>
+
+<!-- pedagog: max_point_size 0.79 textsize 0.5 -->
+ <text x="88.80" y="90.95" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 88.802473933271 90.94945208007054)">pedagog</text>
+ <rect x="89.24" y="89.57" width="2.26" height="2.77"  style="fill: #338fdf; "/>
+
+<!-- läkare: max_point_size 2.03 textsize 0.6000000000000001 -->
+ <text x="90.37" y="90.95" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 90.36836101404867 90.94945208007054)">läkare</text>
+ <rect x="91.50" y="89.57" width="2.16" height="2.77"  style="fill: #338fdf; "/>
+
+<!-- borgmästare: max_point_size 1.95 textsize 0.30000000000000004 -->
+ <text x="92.58" y="90.95" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 92.5787433281548 90.94945208007054)">borgmästare</text>
+ <rect x="93.66" y="47.67" width="12.63" height="12.68"  style="fill: #55a1e4; "/>
+
+<!-- sjö: max_point_size 11.37 textsize 5.9 -->
+ <text x="99.98" y="54.01" style="font-size: 5.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 99.97621252780482 54.005501242923685)">sjö</text>
+ <rect x="93.66" y="60.34" width="8.55" height="4.65"  style="fill: #55a1e4; "/>
+
+<!-- udde: max_point_size 4.18 textsize 2.9000000000000004 -->
+ <text x="97.94" y="62.67" style="font-size: 2.9000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">udde</text>
+ <rect x="102.21" y="60.34" width="4.08" height="3.47"  style="fill: #55a1e4; "/>
+
+<!-- vik: max_point_size 3.12 textsize 1.9000000000000001 -->
+ <text x="104.25" y="62.08" style="font-size: 1.9000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">vik</text>
+ <rect x="102.21" y="63.81" width="4.08" height="1.18"  style="fill: #55a1e4; "/>
+
+<!-- sten: max_point_size 1.06 textsize 1.0641016453755279 -->
+ <text x="104.25" y="64.40" style="font-size: 1.0641016453755279; text-anchor: middle; dominant-baseline: central; fill: black; ">sten</text>
+ <rect x="93.66" y="64.99" width="12.63" height="10.88"  style="fill: #55a1e4; "/>
+
+<!-- ö: max_point_size 9.79 textsize 9.788751645046066 -->
+ <text x="99.98" y="70.43" style="font-size: 9.788751645046066; text-anchor: middle; dominant-baseline: central; fill: black; ">ö</text>
+ <rect x="93.66" y="75.87" width="8.08" height="6.22"  style="fill: #55a1e4; "/>
+
+<!-- flod: max_point_size 5.60 textsize 2.8000000000000003 -->
+ <text x="97.70" y="78.98" style="font-size: 2.8000000000000003; text-anchor: middle; dominant-baseline: central; fill: black; ">flod</text>
+ <rect x="101.74" y="75.87" width="4.55" height="4.85"  style="fill: #55a1e4; "/>
+
+<!-- park: max_point_size 4.09 textsize 1.6 -->
+ <text x="104.02" y="78.30" style="font-size: 1.6; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 104.01715773877402 78.29623866200467)">park</text>
+ <rect x="101.74" y="80.72" width="4.55" height="1.37"  style="fill: #55a1e4; "/>
+
+<!-- område: max_point_size 1.24 textsize 1.0 -->
+ <text x="104.02" y="81.41" style="font-size: 1.0; text-anchor: middle; dominant-baseline: central; fill: black; ">område</text>
+ <rect x="93.66" y="82.10" width="11.45" height="10.24"  style="fill: #bbd9f4; "/>
+
+<!-- händelse: max_point_size 9.21 textsize 2.0 -->
+ <text x="99.38" y="87.21" style="font-size: 2.0; text-anchor: middle; dominant-baseline: central; fill: black; ">händelse</text>
+ <rect x="105.11" y="82.10" width="1.19" height="10.24"  style="fill: #bbd9f4; "/>
+
+<!-- evenemang: max_point_size 1.07 textsize 1.0673372189497727 -->
+ <text x="105.70" y="87.21" style="font-size: 1.0673372189497727; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.69899938317809 87.2141755969167)">evenemang</text>
+ <rect x="106.29" y="47.67" width="41.69" height="44.67"  style="fill: #77b4e9; "/>
+
+<!-- ort: max_point_size 37.52 textsize 20.8 -->
+ <text x="127.14" y="70.00" style="font-size: 20.8; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 127.13501468411344 70.0)">ort</text>
+ <rect x="147.98" y="47.67" width="19.42" height="21.51"  style="fill: #77b4e9; "/>
+
+<!-- historisk byggnad: max_point_size 17.48 textsize 1.7000000000000002 -->
+ <text x="157.69" y="58.42" style="font-size: 1.7000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 157.68751553388464 58.42032288073311)">historisk byggnad</text>
+ <rect x="147.98" y="69.17" width="19.42" height="0.83"  style="fill: #77b4e9; "/>
+
+<!-- övrig: max_point_size 0.75 textsize 0.7501248761920195 -->
+ <text x="157.69" y="69.59" style="font-size: 0.7501248761920195; text-anchor: middle; dominant-baseline: central; fill: black; ">övrig</text>
+ <rect x="167.40" y="47.67" width="19.26" height="11.18"  style="fill: #77b4e9; "/>
+
+<!-- historisk plats: max_point_size 10.07 textsize 1.7000000000000002 -->
+ <text x="177.02" y="53.26" style="font-size: 1.7000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; ">historisk plats</text>
+ <rect x="167.40" y="58.85" width="10.53" height="11.16"  style="fill: #77b4e9; "/>
+
+<!-- kyrka: max_point_size 9.47 textsize 3.1 -->
+ <text x="172.66" y="64.43" style="font-size: 3.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 172.66001664587222 64.42886567439459)">kyrka</text>
+ <rect x="177.92" y="58.85" width="7.59" height="5.48"  style="fill: #77b4e9; "/>
+
+<!-- gruva: max_point_size 4.94 textsize 2.1 -->
+ <text x="181.72" y="61.59" style="font-size: 2.1; text-anchor: middle; dominant-baseline: central; fill: black; ">gruva</text>
+ <rect x="185.52" y="58.85" width="1.13" height="5.48"  style="fill: #77b4e9; "/>
+
+<!-- byggnad: max_point_size 1.02 textsize 1.0 -->
+ <text x="186.09" y="61.59" style="font-size: 1.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 186.08503317949618 61.592029022089605)">byggnad</text>
+ <rect x="177.92" y="64.33" width="4.98" height="5.67"  style="fill: #77b4e9; "/>
+
+<!-- idrott: max_point_size 4.48 textsize 1.3 -->
+ <text x="180.41" y="67.17" style="font-size: 1.3; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 180.41412799889662 67.1706145271524)">idrott</text>
+ <rect x="182.91" y="64.33" width="3.75" height="5.67"  style="fill: #77b4e9; "/>
+
+<!-- museum: max_point_size 3.37 textsize 1.3 -->
+ <text x="184.78" y="67.17" style="font-size: 1.3; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 184.77866489145282 67.1706145271524)">museum</text>
+ <rect x="147.98" y="70.01" width="19.48" height="14.96"  style="fill: #77b4e9; "/>
+
+<!-- järnväg: max_point_size 13.46 textsize 3.8000000000000003 -->
+ <text x="157.72" y="77.49" style="font-size: 3.8000000000000003; text-anchor: middle; dominant-baseline: central; fill: black; ">järnväg</text>
+ <rect x="147.98" y="84.97" width="8.18" height="7.37"  style="fill: #77b4e9; "/>
+
+<!-- herrgård: max_point_size 6.63 textsize 1.4000000000000001 -->
+ <text x="152.07" y="88.65" style="font-size: 1.4000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">herrgård</text>
+ <rect x="156.16" y="84.97" width="1.35" height="7.37"  style="fill: #77b4e9; "/>
+
+<!-- färja: max_point_size 1.22 textsize 1.215711259580354 -->
+ <text x="156.83" y="88.65" style="font-size: 1.215711259580354; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 156.83139254255724 88.6497483935561)">färja</text>
+ <rect x="157.51" y="84.97" width="7.60" height="7.37"  style="fill: #77b4e9; "/>
+
+<!-- vapen: max_point_size 6.63 textsize 2.1 -->
+ <text x="161.31" y="88.65" style="font-size: 2.1; text-anchor: middle; dominant-baseline: central; fill: black; ">vapen</text>
+ <rect x="165.11" y="84.97" width="2.35" height="7.37"  style="fill: #77b4e9; "/>
+
+<!-- skepp: max_point_size 2.11 textsize 2.0 -->
+ <text x="166.28" y="88.65" style="font-size: 2.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 166.28236513435616 88.6497483935561)">skepp</text>
+ <rect x="167.46" y="70.01" width="19.20" height="12.55"  style="fill: #77b4e9; "/>
+
+<!-- bruk: max_point_size 11.29 textsize 6.7 -->
+ <text x="177.05" y="76.28" style="font-size: 6.7; text-anchor: middle; dominant-baseline: central; fill: black; ">bruk</text>
+ <rect x="167.46" y="82.56" width="13.49" height="9.78"  style="fill: #77b4e9; "/>
+
+<!-- väg: max_point_size 8.80 textsize 6.2 -->
+ <text x="174.20" y="87.44" style="font-size: 6.2; text-anchor: middle; dominant-baseline: central; fill: black; ">väg</text>
+ <rect x="180.95" y="82.56" width="5.70" height="5.22"  style="fill: #77b4e9; "/>
+
+<!-- fyr: max_point_size 4.70 textsize 2.6 -->
+ <text x="183.80" y="85.16" style="font-size: 2.6; text-anchor: middle; dominant-baseline: central; fill: black; ">fyr</text>
+ <rect x="180.95" y="87.77" width="5.00" height="4.56"  style="fill: #77b4e9; "/>
+
+<!-- vatten: max_point_size 4.10 textsize 1.1 -->
+ <text x="183.45" y="90.05" style="font-size: 1.1; text-anchor: middle; dominant-baseline: central; fill: black; ">vatten</text>
+ <rect x="185.95" y="87.77" width="0.70" height="4.56"  style="fill: #77b4e9; "/>
+
+<!-- konst: max_point_size 0.63 textsize 0.6305466839092418 -->
+ <text x="186.30" y="90.05" style="font-size: 0.6305466839092418; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 186.30183715921464 90.05345964969942)">konst</text>
+ <rect x="186.65" y="47.67" width="23.35" height="29.08"  style="fill: #99c7ef; "/>
+
+<!-- företag: max_point_size 21.01 textsize 5.800000000000001 -->
+ <text x="198.33" y="62.21" style="font-size: 5.800000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 198.32607043624878 62.20830387883903)">företag</text>
+ <rect x="186.65" y="76.75" width="11.64" height="11.77"  style="fill: #99c7ef; "/>
+
+<!-- militär: max_point_size 10.47 textsize 2.3000000000000003 -->
+ <text x="192.47" y="82.63" style="font-size: 2.3000000000000003; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 192.470812226754 82.63304043859873)">militär</text>
+ <rect x="186.65" y="88.52" width="8.57" height="3.82"  style="fill: #99c7ef; "/>
+
+<!-- tidning: max_point_size 3.44 textsize 1.7000000000000002 -->
+ <text x="190.94" y="90.42" style="font-size: 1.7000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; ">tidning</text>
+ <rect x="195.22" y="88.52" width="3.07" height="1.85"  style="fill: #99c7ef; "/>
+
+<!-- församling: max_point_size 1.66 textsize 0.4 -->
+ <text x="196.76" y="89.44" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">församling</text>
+ <rect x="195.22" y="90.37" width="2.67" height="1.97"  style="fill: #99c7ef; "/>
+
+<!-- organisation: max_point_size 1.77 textsize 0.30000000000000004 -->
+ <text x="196.56" y="91.35" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">organisation</text>
+ <rect x="197.90" y="90.37" width="0.39" height="1.97"  style="fill: #99c7ef; "/>
+
+<!-- admin: max_point_size 0.35 textsize 0.3541240837785779 -->
+ <text x="198.09" y="91.35" style="font-size: 0.3541240837785779; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 198.0927479789112 91.34934822536286)">admin</text>
+ <rect x="198.29" y="76.75" width="11.71" height="8.28"  style="fill: #99c7ef; "/>
+
+<!-- förening: max_point_size 7.45 textsize 2.0 -->
+ <text x="204.14" y="80.89" style="font-size: 2.0; text-anchor: middle; dominant-baseline: central; fill: black; ">förening</text>
+ <rect x="198.29" y="85.03" width="7.60" height="7.30"  style="fill: #99c7ef; "/>
+
+<!-- utbildning: max_point_size 6.57 textsize 1.0 -->
+ <text x="202.09" y="88.68" style="font-size: 1.0; text-anchor: middle; dominant-baseline: central; fill: black; ">utbildning</text>
+ <rect x="205.89" y="85.03" width="4.11" height="7.30"  style="fill: #99c7ef; "/>
+
+<!-- kultur: max_point_size 3.70 textsize 1.7000000000000002 -->
+ <text x="207.95" y="88.68" style="font-size: 1.7000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 207.94634512397602 88.68137206426908)">kultur</text>
+
+<!-- Level grupp1/grupp2/fi_title, cols ['grupp1', 'grupp2', 'fi_title', 'fi_all_time_views', 'quality'] -->
+ <rect x="0" y="95.33" width="24.15" height="28.28"  style="fill: #338fdf; "/>
+
+<!-- Jörn Donner: max_point_size 21.73 textsize 3.5 -->
+ <text x="12.07" y="109.47" style="font-size: 3.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 12.074556508109906 109.47462619051132)">Jörn Donner</text>
+ <rect x="0" y="123.62" width="15.18" height="16.38"  style="fill: #338fdf; "/>
+
+<!-- Tommy Tabermann: max_point_size 13.66 textsize 1.5 -->
+ <text x="7.59" y="131.81" style="font-size: 1.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 7.588255288397162 131.80795952384466)">Tommy Tabermann</text>
+ <rect x="15.18" y="123.62" width="8.97" height="9.00"  style="fill: #338fdf; "/>
+
+<!-- Raoul Palmgren: max_point_size 8.08 textsize 0.8 -->
+ <text x="19.66" y="128.12" style="font-size: 0.8; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 19.662811796507068 128.11546284194384)">Raoul Palmgren</text>
+ <rect x="15.18" y="132.62" width="4.52" height="4.10"  style="fill: #338fdf; "/>
+
+<!-- Ole Torvalds: max_point_size 3.69 textsize 0.5 -->
+ <text x="17.44" y="134.66" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Ole Torvalds</text>
+ <rect x="15.18" y="136.71" width="2.37" height="2.85"  style="fill: #338fdf; "/>
+
+<!-- Are Waerland: max_point_size 2.13 textsize 0.30000000000000004 -->
+ <text x="16.36" y="138.14" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 16.360700983852915 138.14131763625596)">Are Waerland</text>
+ <rect x="15.18" y="139.57" width="2.37" height="0.43"  style="fill: #338fdf; "/>
+
+<!-- Malla Silfverstolpe: max_point_size 0.39 textsize 0.1 -->
+ <text x="16.36" y="139.78" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Malla Silfverstolpe</text>
+ <rect x="17.54" y="136.71" width="2.15" height="2.12"  style="fill: #338fdf; "/>
+
+<!-- John William Nylander: max_point_size 1.90 textsize 0.1 -->
+ <text x="18.62" y="137.77" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">John William Nylander</text>
+ <rect x="17.54" y="138.83" width="2.15" height="1.17"  style="fill: #338fdf; "/>
+
+<!-- Dagny Gräsbeck: max_point_size 1.05 textsize 0.2 -->
+ <text x="18.62" y="139.42" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Dagny Gräsbeck</text>
+ <rect x="19.70" y="132.62" width="3.11" height="3.70"  style="fill: #338fdf; "/>
+
+<!-- Marianne Alopaeus: max_point_size 2.80 textsize 0.30000000000000004 -->
+ <text x="21.25" y="134.47" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 21.252721323461216 134.46552525194096)">Marianne Alopaeus</text>
+ <rect x="22.81" y="132.62" width="1.34" height="2.06"  style="fill: #338fdf; "/>
+
+<!-- Bo Stenström: max_point_size 1.21 textsize 0.2 -->
+ <text x="23.48" y="133.65" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 23.477977479264943 133.6456335520835)">Bo Stenström</text>
+ <rect x="22.81" y="134.68" width="1.34" height="1.64"  style="fill: #338fdf; "/>
+
+<!-- Ulla Olin-Nilson: max_point_size 1.21 textsize 0.1 -->
+ <text x="23.48" y="135.50" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 23.477977479264943 135.49615216782604)">Ulla Olin-Nilson</text>
+ <rect x="19.70" y="136.32" width="3.04" height="3.68"  style="fill: #338fdf; "/>
+
+<!-- Ilkka Heilä: max_point_size 2.73 textsize 0.4 -->
+ <text x="21.22" y="138.16" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 21.21697691271306 138.15802193384175)">Ilkka Heilä</text>
+ <rect x="22.74" y="136.32" width="1.41" height="3.68"  style="fill: #338fdf; "/>
+
+<!-- Henrik Cederlöf: max_point_size 1.27 textsize 0.30000000000000004 -->
+ <text x="23.44" y="138.16" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 23.442233068516792 138.15802193384175)">Henrik Cederlöf</text>
+ <rect x="24.15" y="95.33" width="20.53" height="13.66"  style="fill: #338fdf; "/>
+
+<!-- Maria Åkerblom: max_point_size 12.30 textsize 2.0 -->
+ <text x="34.42" y="102.17" style="font-size: 2.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Maria Åkerblom</text>
+ <rect x="44.68" y="95.33" width="2.18" height="7.42"  style="fill: #338fdf; "/>
+
+<!-- Hemming Gadh: max_point_size 1.97 textsize 0.8 -->
+ <text x="45.77" y="99.04" style="font-size: 0.8; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 45.774575063032074 99.04327657361732)">Hemming Gadh</text>
+ <rect x="44.68" y="102.75" width="2.18" height="2.54"  style="fill: #338fdf; "/>
+
+<!-- Kristiina Abrahamintytär: max_point_size 1.97 textsize 0.1 -->
+ <text x="45.77" y="104.02" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 45.774575063032074 104.02358205757544)">Kristiina Abrahamintytär</text>
+ <rect x="44.68" y="105.29" width="2.18" height="0.85"  style="fill: #338fdf; "/>
+
+<!-- Fredrik Lönnbeck: max_point_size 0.76 textsize 0.1 -->
+ <text x="45.77" y="105.72" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Fredrik Lönnbeck</text>
+ <rect x="44.68" y="106.14" width="2.18" height="1.01"  style="fill: #338fdf; "/>
+
+<!-- Ruben Österberg: max_point_size 0.91 textsize 0.2 -->
+ <text x="45.77" y="106.65" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Ruben Österberg</text>
+ <rect x="44.68" y="107.16" width="1.16" height="1.84"  style="fill: #338fdf; "/>
+
+<!-- Harald af Hällström: max_point_size 1.05 textsize 0.1 -->
+ <text x="45.26" y="108.08" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 45.26460749191828 108.0778177403329)">Harald af Hällström</text>
+ <rect x="45.85" y="107.16" width="1.02" height="1.84"  style="fill: #338fdf; "/>
+
+<!-- Olof af Hällström: max_point_size 0.92 textsize 0.1 -->
+ <text x="46.36" y="108.08" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 46.357052147552835 108.0778177403329)">Olof af Hällström</text>
+ <rect x="24.15" y="109.00" width="10.17" height="9.33"  style="fill: #338fdf; "/>
+
+<!-- Hans Wind: max_point_size 8.39 textsize 1.5 -->
+ <text x="29.23" y="113.66" style="font-size: 1.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Hans Wind</text>
+ <rect x="34.31" y="109.00" width="7.51" height="5.32"  style="fill: #338fdf; "/>
+
+<!-- Ernst Linder: max_point_size 4.79 textsize 0.8 -->
+ <text x="38.07" y="111.66" style="font-size: 0.8; text-anchor: middle; dominant-baseline: central; fill: black; ">Ernst Linder</text>
+ <rect x="34.31" y="114.32" width="3.56" height="4.00"  style="fill: #338fdf; "/>
+
+<!-- Johan Fredrik Aminoff: max_point_size 3.21 textsize 0.2 -->
+ <text x="36.10" y="116.32" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 36.09601951564591 116.32312768258662)">Johan Fredrik Aminoff</text>
+ <rect x="37.88" y="114.32" width="3.94" height="2.77"  style="fill: #338fdf; "/>
+
+<!-- Tor Lindblad: max_point_size 2.49 textsize 0.4 -->
+ <text x="39.85" y="115.70" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Tor Lindblad</text>
+ <rect x="37.88" y="117.09" width="3.94" height="1.24"  style="fill: #338fdf; "/>
+
+<!-- Berndt Höök: max_point_size 1.11 textsize 0.5 -->
+ <text x="39.85" y="117.71" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Berndt Höök</text>
+ <rect x="41.82" y="109.00" width="2.25" height="4.88"  style="fill: #338fdf; "/>
+
+<!-- Johan Albert Edvard von Julin: max_point_size 2.03 textsize 0.2 -->
+ <text x="42.95" y="111.44" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 42.94685507318815 111.43856529258089)">Johan Albert Edvard von Julin</text>
+ <rect x="44.07" y="109.00" width="2.79" height="2.45"  style="fill: #338fdf; "/>
+
+<!-- Johan Lindroos: max_point_size 2.21 textsize 0.2 -->
+ <text x="45.47" y="110.22" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Johan Lindroos</text>
+ <rect x="44.07" y="111.45" width="2.79" height="2.43"  style="fill: #338fdf; "/>
+
+<!-- Bruno Krook: max_point_size 2.19 textsize 0.30000000000000004 -->
+ <text x="45.47" y="112.66" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Bruno Krook</text>
+ <rect x="41.82" y="113.88" width="2.43" height="4.28"  style="fill: #338fdf; "/>
+
+<!-- August Eklöf: max_point_size 2.18 textsize 0.4 -->
+ <text x="43.03" y="116.02" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 43.03299861596793 116.01992289891172)">August Eklöf</text>
+ <rect x="41.82" y="118.16" width="2.43" height="0.16"  style="fill: #338fdf; "/>
+
+<!-- Fritiof Hultman: max_point_size 0.15 textsize 0.14819895107972345 -->
+ <text x="43.03" y="118.24" style="font-size: 0.14819895107972345; text-anchor: middle; dominant-baseline: central; fill: black; ">Fritiof Hultman</text>
+ <rect x="44.25" y="113.88" width="2.62" height="3.17"  style="fill: #338fdf; "/>
+
+<!-- Fridolf Höök: max_point_size 2.36 textsize 0.30000000000000004 -->
+ <text x="45.56" y="115.46" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 45.55661026623806 115.46243583184582)">Fridolf Höök</text>
+ <rect x="44.25" y="117.05" width="2.62" height="1.28"  style="fill: #338fdf; "/>
+
+<!-- Katarina Erikintytär Nipertz: max_point_size 1.15 textsize 0.1 -->
+ <text x="45.56" y="117.69" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Katarina Erikintytär Nipertz</text>
+ <rect x="24.15" y="118.33" width="10.13" height="15.08"  style="fill: #338fdf; "/>
+
+<!-- Nicke Lignell: max_point_size 9.11 textsize 1.6 -->
+ <text x="29.21" y="125.87" style="font-size: 1.6; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 29.211724719660907 125.86707521949864)">Nicke Lignell</text>
+ <rect x="24.15" y="133.41" width="8.16" height="6.59"  style="fill: #338fdf; "/>
+
+<!-- Henrika Andersson: max_point_size 5.93 textsize 0.6000000000000001 -->
+ <text x="28.23" y="136.70" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Henrika Andersson</text>
+ <rect x="32.31" y="133.41" width="1.96" height="6.59"  style="fill: #338fdf; "/>
+
+<!-- Christoffer Weiss: max_point_size 1.77 textsize 0.5 -->
+ <text x="33.29" y="136.70" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 33.29188050565851 136.70427310954187)">Christoffer Weiss</text>
+ <rect x="34.27" y="118.33" width="12.22" height="8.27"  style="fill: #338fdf; "/>
+
+<!-- Pauli Nevala: max_point_size 7.45 textsize 1.4000000000000001 -->
+ <text x="40.39" y="122.46" style="font-size: 1.4000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Pauli Nevala</text>
+ <rect x="46.50" y="118.33" width="0.37" height="8.27"  style="fill: #338fdf; "/>
+
+<!-- Alf Lindblad: max_point_size 0.33 textsize 0.33190481753957857 -->
+ <text x="46.68" y="122.46" style="font-size: 0.33190481753957857; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 46.68262815336686 122.46271465768304)">Alf Lindblad</text>
+ <rect x="34.27" y="126.60" width="6.36" height="7.86"  style="fill: #338fdf; "/>
+
+<!-- Reijo Ståhlberg: max_point_size 5.73 textsize 0.7000000000000001 -->
+ <text x="37.46" y="130.53" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 37.45567502849053 130.53021627977637)">Reijo Ståhlberg</text>
+ <rect x="34.27" y="134.46" width="3.72" height="0.44"  style="fill: #338fdf; "/>
+
+<!-- Rainer Åkerfelt: max_point_size 0.40 textsize 0.30000000000000004 -->
+ <text x="36.14" y="134.68" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Rainer Åkerfelt</text>
+ <rect x="38.00" y="134.46" width="2.64" height="0.44"  style="fill: #338fdf; "/>
+
+<!-- Rolf Åkerfelt: max_point_size 0.40 textsize 0.2 -->
+ <text x="39.32" y="134.68" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Rolf Åkerfelt</text>
+ <rect x="40.64" y="126.60" width="5.44" height="4.36"  style="fill: #338fdf; "/>
+
+<!-- Mikael Källman: max_point_size 3.92 textsize 0.5 -->
+ <text x="43.36" y="128.78" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Mikael Källman</text>
+ <rect x="46.08" y="126.60" width="0.79" height="4.36"  style="fill: #338fdf; "/>
+
+<!-- Greta Grönholm: max_point_size 0.71 textsize 0.4 -->
+ <text x="46.47" y="128.78" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 46.47113236643165 128.78018401121716)">Greta Grönholm</text>
+ <rect x="40.64" y="130.96" width="3.54" height="1.59"  style="fill: #338fdf; "/>
+
+<!-- Jarl Malmgren: max_point_size 1.44 textsize 0.30000000000000004 -->
+ <text x="42.41" y="131.76" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Jarl Malmgren</text>
+ <rect x="40.64" y="132.56" width="2.03" height="2.35"  style="fill: #338fdf; "/>
+
+<!-- Paul Backman: max_point_size 1.83 textsize 0.2 -->
+ <text x="41.65" y="133.73" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 41.65239607609173 133.72848566497026)">Paul Backman</text>
+ <rect x="42.67" y="132.56" width="1.51" height="2.35"  style="fill: #338fdf; "/>
+
+<!-- Yrjö Ekqvist: max_point_size 1.36 textsize 0.2 -->
+ <text x="43.42" y="133.73" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 43.42432320994188 133.72848566497026)">Yrjö Ekqvist</text>
+ <rect x="44.18" y="130.96" width="2.69" height="2.10"  style="fill: #338fdf; "/>
+
+<!-- Nils Nicklén: max_point_size 1.89 textsize 0.30000000000000004 -->
+ <text x="45.52" y="132.01" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Nils Nicklén</text>
+ <rect x="44.18" y="133.06" width="2.69" height="1.84"  style="fill: #338fdf; "/>
+
+<!-- Bengt Sjöstedt: max_point_size 1.65 textsize 0.2 -->
+ <text x="45.52" y="133.98" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Bengt Sjöstedt</text>
+ <rect x="34.27" y="134.90" width="3.38" height="4.43"  style="fill: #338fdf; "/>
+
+<!-- Bertel Gardberg: max_point_size 3.04 textsize 0.4 -->
+ <text x="35.97" y="137.12" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 35.96545098507107 137.1165132312298)">Bertel Gardberg</text>
+ <rect x="34.27" y="139.33" width="3.38" height="0.67"  style="fill: #338fdf; "/>
+
+<!-- Carl-Erik Ström: max_point_size 0.60 textsize 0.30000000000000004 -->
+ <text x="35.97" y="139.67" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Carl-Erik Ström</text>
+ <rect x="37.66" y="134.90" width="3.01" height="2.25"  style="fill: #338fdf; "/>
+
+<!-- Ragnar Ungern: max_point_size 2.03 textsize 0.30000000000000004 -->
+ <text x="39.16" y="136.03" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Ragnar Ungern</text>
+ <rect x="37.66" y="137.15" width="2.07" height="2.85"  style="fill: #338fdf; "/>
+
+<!-- Susanne Gottberg: max_point_size 1.86 textsize 0.2 -->
+ <text x="38.69" y="138.58" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 38.69263981039374 138.57648287895464)">Susanne Gottberg</text>
+ <rect x="39.73" y="137.15" width="0.93" height="2.85"  style="fill: #338fdf; "/>
+
+<!-- Johan Stålbom: max_point_size 0.84 textsize 0.30000000000000004 -->
+ <text x="40.20" y="138.58" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 40.19598760276956 138.57648287895464)">Johan Stålbom</text>
+ <rect x="40.66" y="134.90" width="2.81" height="5.10"  style="fill: #338fdf; "/>
+
+<!-- Göran Augustson: max_point_size 2.53 textsize 0.4 -->
+ <text x="42.07" y="137.45" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 42.06691742599946 137.45078129769013)">Göran Augustson</text>
+ <rect x="43.47" y="134.90" width="3.40" height="2.21"  style="fill: #338fdf; "/>
+
+<!-- Kenneth Kvarnström: max_point_size 1.98 textsize 0.2 -->
+ <text x="45.17" y="136.00" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Kenneth Kvarnström</text>
+ <rect x="43.47" y="137.11" width="1.78" height="2.89"  style="fill: #338fdf; "/>
+
+<!-- Peter Winquist: max_point_size 1.61 textsize 0.2 -->
+ <text x="44.36" y="138.55" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 44.363072709186994 138.55349080679548)">Peter Winquist</text>
+ <rect x="45.26" y="137.11" width="1.61" height="2.89"  style="fill: #338fdf; "/>
+
+<!-- Gunnar Forsström: max_point_size 1.45 textsize 0.2 -->
+ <text x="46.06" y="138.55" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 46.06129570841675 138.55349080679548)">Gunnar Forsström</text>
+ <rect x="46.87" y="95.33" width="23.47" height="42.65"  style="fill: #338fdf; "/>
+
+<!-- Jannika B: max_point_size 21.13 textsize 6.6000000000000005 -->
+ <text x="58.60" y="116.66" style="font-size: 6.6000000000000005; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 58.6043561550579 116.65810314333069)">Jannika B</text>
+ <rect x="46.87" y="137.98" width="12.59" height="2.02"  style="fill: #338fdf; "/>
+
+<!-- Peter Lindroos: max_point_size 1.82 textsize 1.2000000000000002 -->
+ <text x="53.16" y="138.99" style="font-size: 1.2000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; ">Peter Lindroos</text>
+ <rect x="59.46" y="137.98" width="8.52" height="2.02"  style="fill: #338fdf; "/>
+
+<!-- Kaija Saarikettu: max_point_size 1.82 textsize 0.7000000000000001 -->
+ <text x="63.72" y="138.99" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Kaija Saarikettu</text>
+ <rect x="67.98" y="137.98" width="2.36" height="2.02"  style="fill: #338fdf; "/>
+
+<!-- Bengt Carlson: max_point_size 1.82 textsize 0.2 -->
+ <text x="69.16" y="138.99" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Bengt Carlson</text>
+ <rect x="70.34" y="95.33" width="16.75" height="16.01"  style="fill: #338fdf; "/>
+
+<!-- Nils Torvalds: max_point_size 14.41 textsize 1.8 -->
+ <text x="78.72" y="103.34" style="font-size: 1.8; text-anchor: middle; dominant-baseline: central; fill: black; ">Nils Torvalds</text>
+ <rect x="87.09" y="95.33" width="6.57" height="6.90"  style="fill: #338fdf; "/>
+
+<!-- Thomas Blomqvist: max_point_size 5.91 textsize 0.6000000000000001 -->
+ <text x="90.38" y="98.78" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 90.3756136662532 98.78345284372296)">Thomas Blomqvist</text>
+ <rect x="87.09" y="102.23" width="3.74" height="1.02"  style="fill: #338fdf; "/>
+
+<!-- Fredrika Åkerö: max_point_size 0.92 textsize 0.30000000000000004 -->
+ <text x="88.96" y="102.75" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Fredrika Åkerö</text>
+ <rect x="90.84" y="102.23" width="2.83" height="1.02"  style="fill: #338fdf; "/>
+
+<!-- Fredrik Stjernvall (senaattori): max_point_size 0.92 textsize 0.1 -->
+ <text x="92.25" y="102.75" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Fredrik Stjernvall (senaattori)</text>
+ <rect x="87.09" y="103.26" width="3.29" height="3.09"  style="fill: #338fdf; "/>
+
+<!-- Nils Meinander: max_point_size 2.78 textsize 0.30000000000000004 -->
+ <text x="88.74" y="104.80" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Nils Meinander</text>
+ <rect x="87.09" y="106.35" width="3.29" height="0.99"  style="fill: #338fdf; "/>
+
+<!-- Lauri Metsämäki: max_point_size 0.89 textsize 0.30000000000000004 -->
+ <text x="88.74" y="106.84" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Lauri Metsämäki</text>
+ <rect x="90.38" y="103.26" width="3.28" height="2.42"  style="fill: #338fdf; "/>
+
+<!-- Kirsi Lindroos: max_point_size 2.18 textsize 0.30000000000000004 -->
+ <text x="92.02" y="104.47" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Kirsi Lindroos</text>
+ <rect x="90.38" y="105.68" width="3.28" height="1.66"  style="fill: #338fdf; "/>
+
+<!-- Johan Kvarnström: max_point_size 1.49 textsize 0.2 -->
+ <text x="92.02" y="106.51" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Johan Kvarnström</text>
+ <rect x="87.09" y="107.34" width="2.82" height="3.27"  style="fill: #338fdf; "/>
+
+<!-- John Österholm: max_point_size 2.54 textsize 0.30000000000000004 -->
+ <text x="88.50" y="108.97" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 88.50294188389103 108.96950536456353)">John Österholm</text>
+ <rect x="87.09" y="110.60" width="2.82" height="0.74"  style="fill: #338fdf; "/>
+
+<!-- Bruno Sundman: max_point_size 0.66 textsize 0.30000000000000004 -->
+ <text x="88.50" y="110.97" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Bruno Sundman</text>
+ <rect x="89.92" y="107.34" width="3.75" height="2.24"  style="fill: #338fdf; "/>
+
+<!-- Margherita Zilliacus: max_point_size 2.01 textsize 0.2 -->
+ <text x="91.79" y="108.45" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Margherita Zilliacus</text>
+ <rect x="89.92" y="109.57" width="3.75" height="1.77"  style="fill: #338fdf; "/>
+
+<!-- Sven Högström: max_point_size 1.59 textsize 0.4 -->
+ <text x="91.79" y="110.46" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Sven Högström</text>
+ <rect x="70.34" y="111.34" width="11.64" height="15.60"  style="fill: #338fdf; "/>
+
+<!-- Suvi-Anne Siimes: max_point_size 10.47 textsize 1.3 -->
+ <text x="76.16" y="119.14" style="font-size: 1.3; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 76.16068546383158 119.13805664401276)">Suvi-Anne Siimes</text>
+ <rect x="70.34" y="126.94" width="7.79" height="0.39"  style="fill: #338fdf; "/>
+
+<!-- Adolf Bredenberg: max_point_size 0.35 textsize 0.35040529485825406 -->
+ <text x="74.24" y="127.13" style="font-size: 0.35040529485825406; text-anchor: middle; dominant-baseline: central; fill: black; ">Adolf Bredenberg</text>
+ <rect x="78.13" y="126.94" width="3.19" height="0.39"  style="fill: #338fdf; "/>
+
+<!-- Gustav Tegengren: max_point_size 0.35 textsize 0.2 -->
+ <text x="79.72" y="127.13" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Gustav Tegengren</text>
+ <rect x="81.32" y="126.94" width="0.66" height="0.39"  style="fill: #338fdf; "/>
+
+<!-- Mikael Lindén: max_point_size 0.35 textsize 0.0 -->
+ <text x="81.65" y="127.13" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Mikael Lindén</text>
+ <rect x="81.98" y="111.34" width="11.68" height="14.62"  style="fill: #338fdf; "/>
+
+<!-- Maarit Feldt-Ranta: max_point_size 10.51 textsize 1.1 -->
+ <text x="87.82" y="118.65" style="font-size: 1.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 87.82006944350337 118.64695464411527)">Maarit Feldt-Ranta</text>
+ <rect x="81.98" y="125.95" width="4.12" height="1.37"  style="fill: #338fdf; "/>
+
+<!-- Ernst Linder (poliitikko): max_point_size 1.23 textsize 0.2 -->
+ <text x="84.04" y="126.64" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Ernst Linder (poliitikko)</text>
+ <rect x="86.10" y="125.95" width="1.62" height="1.37"  style="fill: #338fdf; "/>
+
+<!-- Frans Sandblom: max_point_size 1.23 textsize 0.1 -->
+ <text x="86.92" y="126.64" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Frans Sandblom</text>
+ <rect x="87.73" y="125.95" width="3.34" height="1.37"  style="fill: #338fdf; "/>
+
+<!-- Hedvig Sohlberg: max_point_size 1.23 textsize 0.30000000000000004 -->
+ <text x="89.40" y="126.64" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Hedvig Sohlberg</text>
+ <rect x="91.07" y="125.95" width="2.59" height="1.37"  style="fill: #338fdf; "/>
+
+<!-- Victor Furuhjelm: max_point_size 1.23 textsize 0.2 -->
+ <text x="92.37" y="126.64" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Victor Furuhjelm</text>
+ <rect x="70.34" y="127.33" width="5.45" height="6.27"  style="fill: #338fdf; "/>
+
+<!-- G. J. Ramstedt: max_point_size 4.91 textsize 0.6000000000000001 -->
+ <text x="73.07" y="130.46" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 73.06794638482135 130.459844823163)">G. J. Ramstedt</text>
+ <rect x="75.79" y="127.33" width="1.56" height="3.72"  style="fill: #338fdf; "/>
+
+<!-- Erik Bonsdorff: max_point_size 1.40 textsize 0.30000000000000004 -->
+ <text x="76.57" y="129.18" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 76.57357309398115 129.18389210137846)">Erik Bonsdorff</text>
+ <rect x="75.79" y="131.04" width="1.56" height="1.73"  style="fill: #338fdf; "/>
+
+<!-- Oskar Hultman: max_point_size 1.40 textsize 0.1 -->
+ <text x="76.57" y="131.91" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 76.57357309398115 131.90876002501165)">Oskar Hultman</text>
+ <rect x="75.79" y="132.78" width="1.56" height="0.82"  style="fill: #338fdf; "/>
+
+<!-- Pehr Hjalmar Olsson: max_point_size 0.74 textsize 0.1 -->
+ <text x="76.57" y="133.18" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Pehr Hjalmar Olsson</text>
+ <rect x="70.34" y="133.59" width="3.66" height="4.55"  style="fill: #338fdf; "/>
+
+<!-- Berndt Arell: max_point_size 3.30 textsize 0.5 -->
+ <text x="72.17" y="135.87" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 72.17322283655434 135.87062759985685)">Berndt Arell</text>
+ <rect x="70.34" y="138.15" width="2.40" height="1.85"  style="fill: #338fdf; "/>
+
+<!-- Ragnar Hult: max_point_size 1.67 textsize 0.30000000000000004 -->
+ <text x="71.54" y="139.07" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Ragnar Hult</text>
+ <rect x="72.74" y="138.15" width="1.27" height="1.85"  style="fill: #338fdf; "/>
+
+<!-- Caj-Gunnar Lindström: max_point_size 1.14 textsize 0.1 -->
+ <text x="73.37" y="139.07" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 73.3714960115046 139.07383524592393)">Caj-Gunnar Lindström</text>
+ <rect x="74.00" y="133.59" width="3.35" height="2.73"  style="fill: #338fdf; "/>
+
+<!-- Jonatan Reuter: max_point_size 2.46 textsize 0.30000000000000004 -->
+ <text x="75.68" y="134.96" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Jonatan Reuter</text>
+ <rect x="74.00" y="136.33" width="3.35" height="2.68"  style="fill: #338fdf; "/>
+
+<!-- Fritz Remmler: max_point_size 2.41 textsize 0.30000000000000004 -->
+ <text x="75.68" y="137.66" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Fritz Remmler</text>
+ <rect x="74.00" y="139.00" width="3.35" height="1.00"  style="fill: #338fdf; "/>
+
+<!-- Rolf Westman: max_point_size 0.90 textsize 0.30000000000000004 -->
+ <text x="75.68" y="139.50" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Rolf Westman</text>
+ <rect x="77.35" y="127.33" width="5.30" height="6.35"  style="fill: #338fdf; "/>
+
+<!-- Heidi Schauman: max_point_size 4.77 textsize 0.6000000000000001 -->
+ <text x="80.00" y="130.50" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 80.00209317948207 130.50217298324816)">Heidi Schauman</text>
+ <rect x="82.65" y="127.33" width="1.63" height="3.19"  style="fill: #338fdf; "/>
+
+<!-- Fredrik Elfving: max_point_size 1.46 textsize 0.2 -->
+ <text x="83.46" y="128.92" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 83.46489604606535 128.91929932453223)">Fredrik Elfving</text>
+ <rect x="82.65" y="130.51" width="1.63" height="1.81"  style="fill: #338fdf; "/>
+
+<!-- Alfons Takolander: max_point_size 1.46 textsize 0.1 -->
+ <text x="83.46" y="131.42" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 83.46489604606535 131.4180017370557)">Alfons Takolander</text>
+ <rect x="82.65" y="132.32" width="1.63" height="1.35"  style="fill: #338fdf; "/>
+
+<!-- Helge Nyman: max_point_size 1.22 textsize 0.2 -->
+ <text x="83.46" y="133.00" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Helge Nyman</text>
+ <rect x="77.35" y="133.68" width="5.01" height="6.32"  style="fill: #338fdf; "/>
+
+<!-- Rolf Kullberg: max_point_size 4.51 textsize 0.6000000000000001 -->
+ <text x="79.86" y="136.84" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 79.8590560754975 136.83912051401808)">Rolf Kullberg</text>
+ <rect x="82.37" y="133.68" width="1.91" height="3.26"  style="fill: #338fdf; "/>
+
+<!-- Valter Lindberg: max_point_size 1.72 textsize 0.30000000000000004 -->
+ <text x="83.32" y="135.31" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 83.32185894208078 135.30718886018644)">Valter Lindberg</text>
+ <rect x="82.37" y="136.94" width="1.91" height="1.80"  style="fill: #338fdf; "/>
+
+<!-- Charlotta Wolff: max_point_size 1.62 textsize 0.1 -->
+ <text x="83.32" y="137.84" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Charlotta Wolff</text>
+ <rect x="82.37" y="138.74" width="1.91" height="1.26"  style="fill: #338fdf; "/>
+
+<!-- Karl Lindman: max_point_size 1.14 textsize 0.2 -->
+ <text x="83.32" y="139.37" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Karl Lindman</text>
+ <rect x="84.28" y="127.33" width="9.38" height="9.65"  style="fill: #338fdf; "/>
+
+<!-- Janne Grönroos: max_point_size 8.44 textsize 0.9 -->
+ <text x="88.97" y="132.15" style="font-size: 0.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 88.96950614686405 132.15112828138234)">Janne Grönroos</text>
+ <rect x="84.28" y="136.98" width="9.38" height="0.26"  style="fill: #338fdf; "/>
+
+<!-- Torbjörn Kevin: max_point_size 0.23 textsize 0.2304772822529685 -->
+ <text x="88.97" y="137.10" style="font-size: 0.2304772822529685; text-anchor: middle; dominant-baseline: central; fill: black; ">Torbjörn Kevin</text>
+ <rect x="84.28" y="137.23" width="2.16" height="2.77"  style="fill: #338fdf; "/>
+
+<!-- Hjalmar Åberg: max_point_size 1.95 textsize 0.2 -->
+ <text x="85.36" y="138.62" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 85.35931084580125 138.61611874673721)">Hjalmar Åberg</text>
+ <rect x="86.44" y="137.23" width="1.93" height="2.03"  style="fill: #338fdf; "/>
+
+<!-- Gösta Juslén: max_point_size 1.73 textsize 0.2 -->
+ <text x="87.40" y="138.25" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 87.40266094631433 138.24833875872676)">Gösta Juslén</text>
+ <rect x="86.44" y="139.26" width="1.93" height="0.74"  style="fill: #338fdf; "/>
+
+<!-- Egil Nicklin: max_point_size 0.66 textsize 0.2 -->
+ <text x="87.40" y="139.63" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Egil Nicklin</text>
+ <rect x="88.37" y="137.23" width="0.87" height="2.77"  style="fill: #338fdf; "/>
+
+<!-- Albin Lönnbeck: max_point_size 0.79 textsize 0.2 -->
+ <text x="88.80" y="138.62" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 88.802473933271 138.61611874673721)">Albin Lönnbeck</text>
+ <rect x="89.24" y="137.23" width="2.26" height="1.94"  style="fill: #338fdf; "/>
+
+<!-- Hans Åkerblom: max_point_size 1.75 textsize 0.2 -->
+ <text x="90.37" y="138.20" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Hans Åkerblom</text>
+ <rect x="89.24" y="139.18" width="2.26" height="0.82"  style="fill: #338fdf; "/>
+
+<!-- Gustaf Hjalmar Grönroos: max_point_size 0.74 textsize 0.1 -->
+ <text x="90.37" y="139.59" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Gustaf Hjalmar Grönroos</text>
+ <rect x="91.50" y="137.23" width="2.16" height="1.97"  style="fill: #338fdf; "/>
+
+<!-- Mårten Johansson: max_point_size 1.77 textsize 0.1 -->
+ <text x="92.58" y="138.22" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Mårten Johansson</text>
+ <rect x="91.50" y="139.20" width="1.14" height="0.80"  style="fill: #338fdf; "/>
+
+<!-- Berndt Gustaf Knut Björn Waldemar Schauman: max_point_size 0.72 textsize 0.0 -->
+ <text x="92.07" y="139.60" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Berndt Gustaf Knut Björn Waldemar Schauman</text>
+ <rect x="92.64" y="139.20" width="0.73" height="0.80"  style="fill: #338fdf; "/>
+
+<!-- Fredrik Edgar Leonard Bronikowsky: max_point_size 0.66 textsize 0.0 -->
+ <text x="93.01" y="139.60" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 93.00743208373822 139.60203710047892)">Fredrik Edgar Leonard Bronikowsky</text>
+ <rect x="93.37" y="139.20" width="0.29" height="0.50"  style="fill: #338fdf; "/>
+
+<!-- Harry Winqvist: max_point_size 0.26 textsize 0.0 -->
+ <text x="93.52" y="139.45" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 93.51719410138796 139.45395788205246)">Harry Winqvist</text>
+ <rect x="93.37" y="139.70" width="0.29" height="0.30"  style="fill: #338fdf; "/>
+
+<!-- Alexander Eliel Sórdan: max_point_size 0.26 textsize 0.0 -->
+ <text x="93.52" y="139.85" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 93.51719410138796 139.85192078157354)">Alexander Eliel Sórdan</text>
+ <rect x="93.66" y="95.33" width="12.02" height="6.34"  style="fill: #55a1e4; "/>
+
+<!-- Lohjanjärvi: max_point_size 5.70 textsize 1.5 -->
+ <text x="99.67" y="98.50" style="font-size: 1.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Lohjanjärvi</text>
+ <rect x="105.68" y="95.33" width="0.61" height="1.27"  style="fill: #55a1e4; "/>
+
+<!-- Kullaanjärvi: max_point_size 0.55 textsize 0.1 -->
+ <text x="105.98" y="95.97" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.98446747221928 95.96719579703787)">Kullaanjärvi</text>
+ <rect x="105.68" y="96.60" width="0.61" height="0.28"  style="fill: #55a1e4; "/>
+
+<!-- Långsjö (Raasepori): max_point_size 0.26 textsize 0.0 -->
+ <text x="105.98" y="96.74" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Långsjö (Raasepori)</text>
+ <rect x="105.68" y="96.89" width="0.61" height="0.66"  style="fill: #55a1e4; "/>
+
+<!-- Pitkäjärvi (Raasepori): max_point_size 0.55 textsize 0.0 -->
+ <text x="105.98" y="97.22" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.98446747221928 97.21623543640123)">Pitkäjärvi (Raasepori)</text>
+ <rect x="105.68" y="97.55" width="0.61" height="0.49"  style="fill: #55a1e4; "/>
+
+<!-- Kolijärvi: max_point_size 0.44 textsize 0.0 -->
+ <text x="105.98" y="97.79" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Kolijärvi</text>
+ <rect x="105.68" y="98.04" width="0.61" height="0.44"  style="fill: #55a1e4; "/>
+
+<!-- Teinipussi: max_point_size 0.39 textsize 0.0 -->
+ <text x="105.98" y="98.26" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Teinipussi</text>
+ <rect x="105.68" y="98.48" width="0.61" height="0.87"  style="fill: #55a1e4; "/>
+
+<!-- Lähdejärvi (Raasepori): max_point_size 0.55 textsize 0.0 -->
+ <text x="105.98" y="98.91" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.98446747221928 98.90940999931269)">Lähdejärvi (Raasepori)</text>
+ <rect x="105.68" y="99.34" width="0.61" height="0.46"  style="fill: #55a1e4; "/>
+
+<!-- Långträsket (Raasepori, Hylta): max_point_size 0.41 textsize 0.0 -->
+ <text x="105.98" y="99.57" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Långträsket (Raasepori, Hylta)</text>
+ <rect x="105.68" y="99.80" width="0.61" height="0.26"  style="fill: #55a1e4; "/>
+
+<!-- Horsmajärvi: max_point_size 0.24 textsize 0.0 -->
+ <text x="105.98" y="99.93" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Horsmajärvi</text>
+ <rect x="105.68" y="100.07" width="0.61" height="0.78"  style="fill: #55a1e4; "/>
+
+<!-- Grabbskog Storträsket: max_point_size 0.55 textsize 0.0 -->
+ <text x="105.98" y="100.46" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.98446747221928 100.45741424740744)">Grabbskog Storträsket</text>
+ <rect x="105.68" y="100.85" width="0.61" height="0.51"  style="fill: #55a1e4; "/>
+
+<!-- Bonäsbåset: max_point_size 0.46 textsize 0.0 -->
+ <text x="105.98" y="101.11" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Bonäsbåset</text>
+ <rect x="105.68" y="101.36" width="0.61" height="0.31"  style="fill: #55a1e4; "/>
+
+<!-- Kjulböleträsket: max_point_size 0.28 textsize 0.0 -->
+ <text x="105.98" y="101.52" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Kjulböleträsket</text>
+ <rect x="93.66" y="101.67" width="3.13" height="2.98"  style="fill: #55a1e4; "/>
+
+<!-- Simijärvi: max_point_size 2.68 textsize 0.4 -->
+ <text x="95.23" y="103.16" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Simijärvi</text>
+ <rect x="93.66" y="104.65" width="1.57" height="0.19"  style="fill: #55a1e4; "/>
+
+<!-- Brunkom träsk: max_point_size 0.17 textsize 0.1 -->
+ <text x="94.45" y="104.75" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Brunkom träsk</text>
+ <rect x="95.23" y="104.65" width="1.56" height="0.19"  style="fill: #55a1e4; "/>
+
+<!-- Trångsundsträsket: max_point_size 0.17 textsize 0.1 -->
+ <text x="96.01" y="104.75" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Trångsundsträsket</text>
+ <rect x="96.79" y="101.67" width="1.62" height="3.18"  style="fill: #55a1e4; "/>
+
+<!-- Seljänalanen: max_point_size 1.46 textsize 0.30000000000000004 -->
+ <text x="97.60" y="103.26" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 97.60119516291991 103.26007842331344)">Seljänalanen</text>
+ <rect x="98.41" y="101.67" width="1.56" height="1.58"  style="fill: #55a1e4; "/>
+
+<!-- Saarenjärvi: max_point_size 1.41 textsize 0.2 -->
+ <text x="99.19" y="102.46" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 99.1933521343874 102.45952108364483)">Saarenjärvi</text>
+ <rect x="98.41" y="103.25" width="1.56" height="1.49"  style="fill: #55a1e4; "/>
+
+<!-- Finnsjön: max_point_size 1.34 textsize 0.2 -->
+ <text x="99.19" y="103.99" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Finnsjön</text>
+ <rect x="98.41" y="104.73" width="1.56" height="0.12"  style="fill: #55a1e4; "/>
+
+<!-- Flacksjö: max_point_size 0.10 textsize 0.10372782467406552 -->
+ <text x="99.19" y="104.79" style="font-size: 0.10372782467406552; text-anchor: middle; dominant-baseline: central; fill: black; ">Flacksjö</text>
+ <rect x="93.66" y="104.85" width="2.75" height="2.70"  style="fill: #55a1e4; "/>
+
+<!-- Lepinjärvi: max_point_size 2.43 textsize 0.30000000000000004 -->
+ <text x="95.04" y="106.20" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Lepinjärvi</text>
+ <rect x="93.66" y="107.55" width="2.27" height="0.46"  style="fill: #55a1e4; "/>
+
+<!-- Skogbyträsket: max_point_size 0.42 textsize 0.2 -->
+ <text x="94.80" y="107.78" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Skogbyträsket</text>
+ <rect x="95.94" y="107.55" width="0.48" height="0.46"  style="fill: #55a1e4; "/>
+
+<!-- Pikku-Simi: max_point_size 0.42 textsize 0.0 -->
+ <text x="96.17" y="107.78" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Pikku-Simi</text>
+ <rect x="96.41" y="104.85" width="2.10" height="3.16"  style="fill: #55a1e4; "/>
+
+<!-- Degersjön: max_point_size 1.89 textsize 0.4 -->
+ <text x="97.46" y="106.43" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 97.46282455501876 106.42960068104777)">Degersjön</text>
+ <rect x="98.51" y="104.85" width="1.46" height="3.16"  style="fill: #55a1e4; "/>
+
+<!-- Högbensjön: max_point_size 1.32 textsize 0.4 -->
+ <text x="99.24" y="106.43" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 99.2439686784243 106.42960068104777)">Högbensjön</text>
+ <rect x="99.98" y="101.67" width="3.10" height="2.48"  style="fill: #55a1e4; "/>
+
+<!-- Iso-Kisko: max_point_size 2.23 textsize 0.4 -->
+ <text x="101.53" y="102.91" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Iso-Kisko</text>
+ <rect x="99.98" y="104.15" width="3.10" height="0.71"  style="fill: #55a1e4; "/>
+
+<!-- Marsjön: max_point_size 0.63 textsize 0.6000000000000001 -->
+ <text x="101.53" y="104.50" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Marsjön</text>
+ <rect x="103.08" y="101.67" width="1.97" height="3.18"  style="fill: #55a1e4; "/>
+
+<!-- Bruksträsket: max_point_size 1.78 textsize 0.30000000000000004 -->
+ <text x="104.06" y="103.26" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 104.06369225745141 103.26231698384098)">Bruksträsket</text>
+ <rect x="105.05" y="101.67" width="1.24" height="3.18"  style="fill: #55a1e4; "/>
+
+<!-- Puontpyölinjärvi: max_point_size 1.12 textsize 0.2 -->
+ <text x="105.67" y="103.26" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.67139429673915 103.26231698384098)">Puontpyölinjärvi</text>
+ <rect x="99.98" y="104.85" width="3.02" height="2.51"  style="fill: #55a1e4; "/>
+
+<!-- Määrjärvi: max_point_size 2.26 textsize 0.4 -->
+ <text x="101.49" y="106.11" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Määrjärvi</text>
+ <rect x="99.98" y="107.36" width="0.80" height="0.65"  style="fill: #55a1e4; "/>
+
+<!-- Lammasjärvi (Raasepori): max_point_size 0.59 textsize 0.0 -->
+ <text x="100.38" y="107.68" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Lammasjärvi (Raasepori)</text>
+ <rect x="100.78" y="107.36" width="0.43" height="0.65"  style="fill: #55a1e4; "/>
+
+<!-- Munajärvi (Raasepori): max_point_size 0.39 textsize 0.0 -->
+ <text x="100.99" y="107.68" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 100.99405325114185 107.68464208203116)">Munajärvi (Raasepori)</text>
+ <rect x="101.21" y="107.36" width="0.26" height="0.65"  style="fill: #55a1e4; "/>
+
+<!-- Storträsket (Raasepori): max_point_size 0.23 textsize 0.0 -->
+ <text x="101.34" y="107.68" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 101.33803359695347 107.68464208203116)">Storträsket (Raasepori)</text>
+ <rect x="101.47" y="107.36" width="0.64" height="0.65"  style="fill: #55a1e4; "/>
+
+<!-- Tuulijärvi (Raasepori): max_point_size 0.58 textsize 0.0 -->
+ <text x="101.79" y="107.68" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 101.78764570250249 107.68464208203116)">Tuulijärvi (Raasepori)</text>
+ <rect x="102.11" y="107.36" width="0.57" height="0.65"  style="fill: #55a1e4; "/>
+
+<!-- Långträsket (Raasepori, Persböle): max_point_size 0.52 textsize 0.0 -->
+ <text x="102.39" y="107.68" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 102.39435119432768 107.68464208203116)">Långträsket (Raasepori, Persböle)</text>
+ <rect x="102.68" y="107.36" width="0.32" height="0.65"  style="fill: #55a1e4; "/>
+
+<!-- Ovanmalmträsket: max_point_size 0.29 textsize 0.0 -->
+ <text x="102.84" y="107.68" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 102.83990053988681 107.68464208203116)">Ovanmalmträsket</text>
+ <rect x="103.00" y="104.85" width="2.33" height="3.16"  style="fill: #55a1e4; "/>
+
+<!-- Gennarbyviken: max_point_size 2.10 textsize 0.30000000000000004 -->
+ <text x="104.16" y="106.43" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 104.16320466708626 106.4318392415753)">Gennarbyviken</text>
+ <rect x="105.33" y="104.85" width="0.96" height="3.16"  style="fill: #55a1e4; "/>
+
+<!-- Borgbyträsket: max_point_size 0.87 textsize 0.30000000000000004 -->
+ <text x="105.81" y="106.43" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.81001282974822 106.4318392415753)">Borgbyträsket</text>
+ <rect x="93.66" y="108.01" width="8.55" height="4.65"  style="fill: #55a1e4; "/>
+
+<!-- Hankoniemi: max_point_size 4.18 textsize 1.1 -->
+ <text x="97.94" y="110.34" style="font-size: 1.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Hankoniemi</text>
+ <rect x="102.21" y="108.01" width="4.08" height="3.47"  style="fill: #55a1e4; "/>
+
+<!-- Pohjanpitäjänlahti: max_point_size 3.12 textsize 0.30000000000000004 -->
+ <text x="104.25" y="109.74" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Pohjanpitäjänlahti</text>
+ <rect x="102.21" y="111.48" width="4.08" height="1.18"  style="fill: #55a1e4; "/>
+
+<!-- Fleminginkivi: max_point_size 1.06 textsize 0.4 -->
+ <text x="104.25" y="112.07" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Fleminginkivi</text>
+ <rect x="93.66" y="112.66" width="6.90" height="10.88"  style="fill: #55a1e4; "/>
+
+<!-- Jussaari: max_point_size 6.21 textsize 1.9000000000000001 -->
+ <text x="97.11" y="118.10" style="font-size: 1.9000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 97.10876311584335 118.09879154394102)">Jussaari</text>
+ <rect x="100.56" y="112.66" width="3.25" height="5.42"  style="fill: #55a1e4; "/>
+
+<!-- Hästö-Busö: max_point_size 2.93 textsize 0.7000000000000001 -->
+ <text x="102.18" y="115.37" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 102.18425921168897 115.36998335210421)">Hästö-Busö</text>
+ <rect x="103.81" y="112.66" width="2.48" height="3.06"  style="fill: #55a1e4; "/>
+
+<!-- Längdenin majakka: max_point_size 2.23 textsize 0.2 -->
+ <text x="105.05" y="114.19" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.05170862365046 114.19150862374848)">Längdenin majakka</text>
+ <rect x="103.81" y="115.72" width="2.36" height="2.36"  style="fill: #55a1e4; "/>
+
+<!-- Järnö: max_point_size 2.12 textsize 0.6000000000000001 -->
+ <text x="104.99" y="116.90" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Järnö</text>
+ <rect x="106.17" y="115.72" width="0.12" height="2.36"  style="fill: #55a1e4; "/>
+
+<!-- Älgö: max_point_size 0.11 textsize 0.1093615406556225 -->
+ <text x="106.23" y="116.90" style="font-size: 0.1093615406556225; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 106.23120809334151 116.9008957902706)">Älgö</text>
+ <rect x="100.56" y="118.08" width="2.90" height="3.45"  style="fill: #55a1e4; "/>
+
+<!-- Torsö (Tammisaari): max_point_size 2.61 textsize 0.2 -->
+ <text x="102.01" y="119.80" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 102.0066630734072 119.8041602327292)">Torsö (Tammisaari)</text>
+ <rect x="100.56" y="121.53" width="1.69" height="2.01"  style="fill: #55a1e4; "/>
+
+<!-- Fladalandet: max_point_size 1.52 textsize 0.2 -->
+ <text x="101.40" y="122.53" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 101.40005960942804 122.53296842456602)">Fladalandet</text>
+ <rect x="102.24" y="121.53" width="1.21" height="2.01"  style="fill: #55a1e4; "/>
+
+<!-- Degerö (Tammisaari): max_point_size 1.09 textsize 0.1 -->
+ <text x="102.85" y="122.53" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 102.84965700194134 122.53296842456602)">Degerö (Tammisaari)</text>
+ <rect x="103.46" y="118.08" width="2.84" height="3.34"  style="fill: #55a1e4; "/>
+
+<!-- Skärlandet: max_point_size 2.55 textsize 0.4 -->
+ <text x="104.87" y="119.75" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 104.87411248536867 119.7470794318462)">Skärlandet</text>
+ <rect x="103.46" y="121.41" width="2.84" height="2.12"  style="fill: #55a1e4; "/>
+
+<!-- Gullö: max_point_size 1.91 textsize 0.7000000000000001 -->
+ <text x="104.87" y="122.48" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Gullö</text>
+ <rect x="93.66" y="123.54" width="4.02" height="5.38"  style="fill: #55a1e4; "/>
+
+<!-- Mustionjoki: max_point_size 3.62 textsize 0.6000000000000001 -->
+ <text x="95.67" y="126.23" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 95.67198672851904 126.22659239562839)">Mustionjoki</text>
+ <rect x="93.66" y="128.92" width="4.02" height="0.85"  style="fill: #55a1e4; "/>
+
+<!-- Anskunjoki: max_point_size 0.76 textsize 0.5 -->
+ <text x="95.67" y="129.34" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Anskunjoki</text>
+ <rect x="97.68" y="123.54" width="4.06" height="3.69"  style="fill: #55a1e4; "/>
+
+<!-- Raaseporinjoki: max_point_size 3.32 textsize 0.4 -->
+ <text x="99.71" y="125.38" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Raaseporinjoki</text>
+ <rect x="97.68" y="127.23" width="2.86" height="2.53"  style="fill: #55a1e4; "/>
+
+<!-- Fiskarsinjoki: max_point_size 2.28 textsize 0.30000000000000004 -->
+ <text x="99.11" y="128.49" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Fiskarsinjoki</text>
+ <rect x="100.54" y="127.23" width="1.20" height="2.53"  style="fill: #55a1e4; "/>
+
+<!-- Kvarnbyån: max_point_size 1.08 textsize 0.30000000000000004 -->
+ <text x="101.14" y="128.49" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 101.14343167398965 128.49461816436937)">Kvarnbyån</text>
+ <rect x="101.74" y="123.54" width="4.55" height="4.85"  style="fill: #55a1e4; "/>
+
+<!-- Tammisaaren saariston kansallispuisto: max_point_size 4.09 textsize 0.1 -->
+ <text x="104.02" y="125.96" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 104.01715773877402 125.96290532867135)">Tammisaaren saariston kansallispuisto</text>
+ <rect x="101.74" y="128.39" width="2.47" height="1.37"  style="fill: #55a1e4; "/>
+
+<!-- Tammisaaren saaristo: max_point_size 1.24 textsize 0.1 -->
+ <text x="102.98" y="129.08" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaaren saaristo</text>
+ <rect x="104.21" y="128.39" width="2.08" height="1.37"  style="fill: #55a1e4; "/>
+
+<!-- Hangon ja Tammisaaren lintuvedet: max_point_size 1.24 textsize 0.0 -->
+ <text x="105.25" y="129.08" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Hangon ja Tammisaaren lintuvedet</text>
+ <rect x="93.66" y="129.76" width="6.89" height="10.24"  style="fill: #bbd9f4; "/>
+
+<!-- Raaseporin tasoristeysturma: max_point_size 6.20 textsize 0.5 -->
+ <text x="97.11" y="134.88" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 97.10601268742057 134.8808422635834)">Raaseporin tasoristeysturma</text>
+ <rect x="100.55" y="129.76" width="4.55" height="7.19"  style="fill: #bbd9f4; "/>
+
+<!-- Riilahden meritaistelu: max_point_size 4.10 textsize 0.4 -->
+ <text x="102.83" y="133.36" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 102.82879954279386 133.3580597491792)">Riilahden meritaistelu</text>
+ <rect x="100.55" y="136.95" width="2.29" height="3.05"  style="fill: #bbd9f4; "/>
+
+<!-- Karjaan taistelu: max_point_size 2.06 textsize 0.2 -->
+ <text x="101.70" y="138.48" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 101.69569677170256 138.47721748559582)">Karjaan taistelu</text>
+ <rect x="102.84" y="136.95" width="2.27" height="1.96"  style="fill: #bbd9f4; "/>
+
+<!-- Maasillan taistelu: max_point_size 1.76 textsize 0.1 -->
+ <text x="103.97" y="137.93" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Maasillan taistelu</text>
+ <rect x="102.84" y="138.91" width="2.27" height="1.09"  style="fill: #bbd9f4; "/>
+
+<!-- Hiihdon Suomen-mestaruuskilpailut 1928: max_point_size 0.98 textsize 0.0 -->
+ <text x="103.97" y="139.46" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Hiihdon Suomen-mestaruuskilpailut 1928</text>
+ <rect x="105.11" y="129.76" width="1.19" height="8.29"  style="fill: #bbd9f4; "/>
+
+<!-- Faces (festivaali): max_point_size 1.07 textsize 0.6000000000000001 -->
+ <text x="105.70" y="133.91" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.69899938317809 133.90888802824745)">Faces (festivaali)</text>
+ <rect x="105.11" y="138.06" width="1.19" height="1.94"  style="fill: #bbd9f4; "/>
+
+<!-- Suunnistuksen maailmanmestaruuskilpailut 1966: max_point_size 1.07 textsize 0.0 -->
+ <text x="105.70" y="139.03" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 105.69899938317809 139.02804576466406)">Suunnistuksen maailmanmestaruuskilpailut 1966</text>
+ <rect x="106.29" y="95.33" width="23.83" height="22.33"  style="fill: #77b4e9; "/>
+
+<!-- Raasepori: max_point_size 20.10 textsize 3.7 -->
+ <text x="118.21" y="106.50" style="font-size: 3.7; text-anchor: middle; dominant-baseline: central; fill: black; ">Raasepori</text>
+ <rect x="130.12" y="95.33" width="13.39" height="11.18"  style="fill: #77b4e9; "/>
+
+<!-- Fiskari: max_point_size 10.06 textsize 2.6 -->
+ <text x="136.82" y="100.92" style="font-size: 2.6; text-anchor: middle; dominant-baseline: central; fill: black; ">Fiskari</text>
+ <rect x="143.51" y="95.33" width="4.46" height="5.36"  style="fill: #77b4e9; "/>
+
+<!-- Ansku: max_point_size 4.02 textsize 1.4000000000000001 -->
+ <text x="145.75" y="98.01" style="font-size: 1.4000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 145.7462534510052 98.01174392504906)">Ansku</text>
+ <rect x="143.51" y="100.69" width="4.46" height="0.30"  style="fill: #77b4e9; "/>
+
+<!-- Alaspää (kylä): max_point_size 0.27 textsize 0.2694847418267429 -->
+ <text x="145.75" y="100.84" style="font-size: 0.2694847418267429; text-anchor: middle; dominant-baseline: central; fill: black; ">Alaspää (kylä)</text>
+ <rect x="143.51" y="100.99" width="4.46" height="3.40"  style="fill: #77b4e9; "/>
+
+<!-- Karjaan maalaiskunta: max_point_size 3.06 textsize 0.30000000000000004 -->
+ <text x="145.75" y="102.69" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Karjaan maalaiskunta</text>
+ <rect x="143.51" y="104.39" width="2.77" height="2.12"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren keskustaajama: max_point_size 1.91 textsize 0.1 -->
+ <text x="144.90" y="105.45" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaaren keskustaajama</text>
+ <rect x="146.28" y="104.39" width="1.69" height="1.77"  style="fill: #77b4e9; "/>
+
+<!-- Karjaan keskustaajama: max_point_size 1.53 textsize 0.1 -->
+ <text x="147.13" y="105.27" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 147.130826264524 105.27100583609635)">Karjaan keskustaajama</text>
+ <rect x="146.28" y="106.16" width="1.69" height="0.35"  style="fill: #77b4e9; "/>
+
+<!-- Meltolan linjavaihde: max_point_size 0.32 textsize 0.1 -->
+ <text x="147.13" y="106.33" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Meltolan linjavaihde</text>
+ <rect x="130.12" y="106.51" width="9.07" height="11.16"  style="fill: #77b4e9; "/>
+
+<!-- Bromarv: max_point_size 8.17 textsize 2.2 -->
+ <text x="134.66" y="112.09" style="font-size: 2.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 134.6582694064345 112.08661904689095)">Bromarv</text>
+ <rect x="139.19" y="106.51" width="8.78" height="7.65"  style="fill: #77b4e9; "/>
+
+<!-- Tenhola: max_point_size 6.89 textsize 1.7000000000000002 -->
+ <text x="143.59" y="110.33" style="font-size: 1.7000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; ">Tenhola</text>
+ <rect x="139.19" y="114.16" width="5.10" height="3.50"  style="fill: #77b4e9; "/>
+
+<!-- Tvärminne: max_point_size 3.15 textsize 0.7000000000000001 -->
+ <text x="141.74" y="115.91" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Tvärminne</text>
+ <rect x="144.29" y="114.16" width="2.18" height="3.50"  style="fill: #77b4e9; "/>
+
+<!-- Påminne: max_point_size 1.96 textsize 0.7000000000000001 -->
+ <text x="145.38" y="115.91" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 145.3847338939413 115.91267891004833)">Påminne</text>
+ <rect x="146.48" y="114.16" width="1.50" height="3.50"  style="fill: #77b4e9; "/>
+
+<!-- Skogbyn ruukki: max_point_size 1.35 textsize 0.30000000000000004 -->
+ <text x="147.23" y="115.91" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 147.22662697234423 115.91267891004833)">Skogbyn ruukki</text>
+ <rect x="106.29" y="117.66" width="20.87" height="18.64"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaari: max_point_size 16.78 textsize 2.9000000000000004 -->
+ <text x="116.73" y="126.99" style="font-size: 2.9000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaari</text>
+ <rect x="106.29" y="136.31" width="12.15" height="3.69"  style="fill: #77b4e9; "/>
+
+<!-- Lappohja: max_point_size 3.32 textsize 2.1 -->
+ <text x="112.37" y="138.15" style="font-size: 2.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Lappohja</text>
+ <rect x="118.45" y="136.31" width="4.66" height="3.69"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren maalaiskunta: max_point_size 3.32 textsize 0.2 -->
+ <text x="120.77" y="138.15" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaaren maalaiskunta</text>
+ <rect x="123.10" y="136.31" width="2.19" height="3.69"  style="fill: #77b4e9; "/>
+
+<!-- Kuovila: max_point_size 1.97 textsize 0.7000000000000001 -->
+ <text x="124.20" y="138.15" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 124.19693228234863 138.154317394734)">Kuovila</text>
+ <rect x="125.29" y="136.31" width="1.87" height="2.47"  style="fill: #77b4e9; "/>
+
+<!-- Backgränd: max_point_size 1.68 textsize 0.30000000000000004 -->
+ <text x="126.23" y="137.54" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 126.22591132474511 137.54161128396947)">Backgränd</text>
+ <rect x="125.29" y="138.77" width="1.87" height="1.23"  style="fill: #77b4e9; "/>
+
+<!-- Kuivasto: max_point_size 1.10 textsize 0.30000000000000004 -->
+ <text x="126.23" y="139.39" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Kuivasto</text>
+ <rect x="127.16" y="117.66" width="18.02" height="11.20"  style="fill: #77b4e9; "/>
+
+<!-- Karjaa: max_point_size 10.08 textsize 4.2 -->
+ <text x="136.17" y="123.26" style="font-size: 4.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Karjaa</text>
+ <rect x="145.18" y="117.66" width="2.80" height="7.26"  style="fill: #77b4e9; "/>
+
+<!-- Meltola (Karjaa): max_point_size 2.52 textsize 0.6000000000000001 -->
+ <text x="146.58" y="121.29" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 146.57818875442644 121.29409189569463)">Meltola (Karjaa)</text>
+ <rect x="145.18" y="124.92" width="2.80" height="3.07"  style="fill: #77b4e9; "/>
+
+<!-- Dragsvik (Tammisaari): max_point_size 2.52 textsize 0.2 -->
+ <text x="146.58" y="126.46" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 146.57818875442644 126.4587071794225)">Dragsvik (Tammisaari)</text>
+ <rect x="145.18" y="127.99" width="2.80" height="0.87"  style="fill: #77b4e9; "/>
+
+<!-- Santala (Hanko): max_point_size 0.78 textsize 0.2 -->
+ <text x="146.58" y="128.43" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Santala (Hanko)</text>
+ <rect x="127.16" y="128.86" width="10.15" height="11.14"  style="fill: #77b4e9; "/>
+
+<!-- Pohja: max_point_size 9.14 textsize 3.1 -->
+ <text x="132.24" y="134.43" style="font-size: 3.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 132.2365281869805 134.4311574824555)">Pohja</text>
+ <rect x="137.31" y="128.86" width="10.67" height="7.68"  style="fill: #77b4e9; "/>
+
+<!-- Snappertuna: max_point_size 6.91 textsize 1.3 -->
+ <text x="142.65" y="132.70" style="font-size: 1.3; text-anchor: middle; dominant-baseline: central; fill: black; ">Snappertuna</text>
+ <rect x="137.31" y="136.54" width="8.63" height="3.46"  style="fill: #77b4e9; "/>
+
+<!-- Åminnefors: max_point_size 3.12 textsize 1.2000000000000002 -->
+ <text x="141.63" y="138.27" style="font-size: 1.2000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; ">Åminnefors</text>
+ <rect x="145.94" y="136.54" width="2.04" height="3.46"  style="fill: #77b4e9; "/>
+
+<!-- Padva: max_point_size 1.83 textsize 0.9 -->
+ <text x="146.96" y="138.27" style="font-size: 0.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 146.95969767605035 138.26919506002918)">Padva</text>
+ <rect x="147.98" y="95.33" width="19.42" height="12.62"  style="fill: #77b4e9; "/>
+
+<!-- Raaseporin linna: max_point_size 11.36 textsize 1.6 -->
+ <text x="157.69" y="101.64" style="font-size: 1.6; text-anchor: middle; dominant-baseline: central; fill: black; ">Raaseporin linna</text>
+ <rect x="147.98" y="107.95" width="16.01" height="8.89"  style="fill: #77b4e9; "/>
+
+<!-- Mustion linna: max_point_size 8.00 textsize 1.7000000000000002 -->
+ <text x="155.98" y="112.40" style="font-size: 1.7000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; ">Mustion linna</text>
+ <rect x="163.99" y="107.95" width="3.41" height="5.94"  style="fill: #77b4e9; "/>
+
+<!-- Villa Billnäs: max_point_size 3.07 textsize 0.6000000000000001 -->
+ <text x="165.69" y="110.92" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 165.6910408578446 110.92424769665843)">Villa Billnäs</text>
+ <rect x="163.99" y="113.89" width="2.49" height="2.95"  style="fill: #77b4e9; "/>
+
+<!-- Villa Skeppet: max_point_size 2.24 textsize 0.30000000000000004 -->
+ <text x="165.23" y="115.37" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 165.2323071514041 115.36750513278797)">Villa Skeppet</text>
+ <rect x="166.48" y="113.89" width="0.92" height="2.95"  style="fill: #77b4e9; "/>
+
+<!-- Eden Billnäs: max_point_size 0.83 textsize 0.30000000000000004 -->
+ <text x="166.94" y="115.37" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 166.9382324979187 115.36750513278797)">Eden Billnäs</text>
+ <rect x="147.98" y="116.84" width="10.68" height="0.83"  style="fill: #77b4e9; "/>
+
+<!-- Tvärminnen eläintieteellinen asema: max_point_size 0.75 textsize 0.4 -->
+ <text x="153.32" y="117.26" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Tvärminnen eläintieteellinen asema</text>
+ <rect x="158.66" y="116.84" width="8.73" height="0.83"  style="fill: #77b4e9; "/>
+
+<!-- Calliola: max_point_size 0.75 textsize 0.7501248761920067 -->
+ <text x="163.03" y="117.26" style="font-size: 0.7501248761920067; text-anchor: middle; dominant-baseline: central; fill: black; ">Calliola</text>
+ <rect x="167.40" y="95.33" width="9.61" height="7.59"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren vankileiri: max_point_size 6.83 textsize 0.6000000000000001 -->
+ <text x="172.20" y="99.13" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaaren vankileiri</text>
+ <rect x="167.40" y="102.92" width="2.30" height="3.59"  style="fill: #77b4e9; "/>
+
+<!-- Tuna (Suomi): max_point_size 2.07 textsize 0.4 -->
+ <text x="168.55" y="104.72" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 168.5466636634767 104.72013536924317)">Tuna (Suomi)</text>
+ <rect x="169.70" y="102.92" width="2.67" height="2.03"  style="fill: #77b4e9; "/>
+
+<!-- Hangon maalaiskunta: max_point_size 1.83 textsize 0.1 -->
+ <text x="171.03" y="103.94" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Hangon maalaiskunta</text>
+ <rect x="169.70" y="104.96" width="2.67" height="1.56"  style="fill: #77b4e9; "/>
+
+<!-- Bonäsholmenin linnavuori: max_point_size 1.40 textsize 0.1 -->
+ <text x="171.03" y="105.74" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Bonäsholmenin linnavuori</text>
+ <rect x="172.37" y="102.92" width="1.78" height="3.59"  style="fill: #77b4e9; "/>
+
+<!-- Bocklintin linnavuori: max_point_size 1.61 textsize 0.2 -->
+ <text x="173.26" y="104.72" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 173.26032485497592 104.72013536924317)">Bocklintin linnavuori</text>
+ <rect x="174.15" y="102.92" width="2.86" height="2.04"  style="fill: #77b4e9; "/>
+
+<!-- Haveråkersberget: max_point_size 1.84 textsize 0.2 -->
+ <text x="175.58" y="103.95" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Haveråkersberget</text>
+ <rect x="174.15" y="104.97" width="2.86" height="1.55"  style="fill: #77b4e9; "/>
+
+<!-- Raaseporin kreivikunta: max_point_size 1.39 textsize 0.1 -->
+ <text x="175.58" y="105.74" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Raaseporin kreivikunta</text>
+ <rect x="177.01" y="95.33" width="7.59" height="4.75"  style="fill: #77b4e9; "/>
+
+<!-- Grabbacka: max_point_size 4.28 textsize 1.1 -->
+ <text x="180.80" y="97.71" style="font-size: 1.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Grabbacka</text>
+ <rect x="184.60" y="95.33" width="2.05" height="2.43"  style="fill: #77b4e9; "/>
+
+<!-- Sutarkullan linnavuori: max_point_size 1.85 textsize 0.1 -->
+ <text x="185.63" y="96.55" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 185.62559212605595 96.5496208492491)">Sutarkullan linnavuori</text>
+ <rect x="184.60" y="97.77" width="2.05" height="2.06"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren Linnanmäki: max_point_size 1.85 textsize 0.1 -->
+ <text x="185.63" y="98.80" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 185.62559212605595 98.79749239636283)">Tammisaaren Linnanmäki</text>
+ <rect x="184.60" y="99.83" width="2.05" height="0.26"  style="fill: #77b4e9; "/>
+
+<!-- Stora Näset ja Lilla Näset: max_point_size 0.23 textsize 0.1 -->
+ <text x="185.63" y="99.96" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Stora Näset ja Lilla Näset</text>
+ <rect x="177.01" y="100.08" width="5.18" height="6.43"  style="fill: #77b4e9; "/>
+
+<!-- Junkarsborg: max_point_size 4.67 textsize 0.8 -->
+ <text x="179.60" y="103.30" style="font-size: 0.8; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 179.60212466016657 103.3008832750458)">Junkarsborg</text>
+ <rect x="182.19" y="100.08" width="4.46" height="6.43"  style="fill: #77b4e9; "/>
+
+<!-- Harparskog-linja: max_point_size 4.01 textsize 0.5 -->
+ <text x="184.42" y="103.30" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 184.42307141900812 103.3008832750458)">Harparskog-linja</text>
+ <rect x="167.40" y="106.52" width="5.60" height="3.78"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren kirkko: max_point_size 3.40 textsize 0.4 -->
+ <text x="170.19" y="108.41" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaaren kirkko</text>
+ <rect x="167.40" y="110.30" width="5.60" height="2.11"  style="fill: #77b4e9; "/>
+
+<!-- Snappertunan kirkko: max_point_size 1.90 textsize 0.4 -->
+ <text x="170.19" y="111.35" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Snappertunan kirkko</text>
+ <rect x="172.99" y="106.52" width="4.93" height="3.49"  style="fill: #77b4e9; "/>
+
+<!-- Pohjan kirkko: max_point_size 3.14 textsize 0.5 -->
+ <text x="175.46" y="108.26" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Pohjan kirkko</text>
+ <rect x="172.99" y="110.01" width="4.93" height="2.40"  style="fill: #77b4e9; "/>
+
+<!-- Bromarvin kirkko: max_point_size 2.16 textsize 0.4 -->
+ <text x="175.46" y="111.21" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Bromarvin kirkko</text>
+ <rect x="167.40" y="112.41" width="3.95" height="4.74"  style="fill: #77b4e9; "/>
+
+<!-- Karjaan kirkko: max_point_size 3.56 textsize 0.4 -->
+ <text x="169.37" y="114.78" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 169.37438863412362 114.78166854644945)">Karjaan kirkko</text>
+ <rect x="167.40" y="117.15" width="3.95" height="0.52"  style="fill: #77b4e9; "/>
+
+<!-- Pyhän Olavin hautausmaa: max_point_size 0.47 textsize 0.2 -->
+ <text x="169.37" y="117.41" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Pyhän Olavin hautausmaa</text>
+ <rect x="171.35" y="112.41" width="3.35" height="5.26"  style="fill: #77b4e9; "/>
+
+<!-- Tenholan kirkko: max_point_size 3.02 textsize 0.4 -->
+ <text x="173.03" y="115.04" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 173.02896756546392 115.04228178216698)">Tenholan kirkko</text>
+ <rect x="174.71" y="112.41" width="3.22" height="5.26"  style="fill: #77b4e9; "/>
+
+<!-- Mustion kirkko: max_point_size 2.90 textsize 0.5 -->
+ <text x="176.31" y="115.04" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 176.31459557721251 115.04228178216698)">Mustion kirkko</text>
+ <rect x="177.92" y="106.52" width="4.50" height="5.48"  style="fill: #77b4e9; "/>
+
+<!-- Jussarön kaivos: max_point_size 4.05 textsize 0.5 -->
+ <text x="180.17" y="109.26" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 180.17263725675258 109.25869568875628)">Jussarön kaivos</text>
+ <rect x="182.42" y="106.52" width="3.10" height="4.32"  style="fill: #77b4e9; "/>
+
+<!-- Mustion kaivos: max_point_size 2.79 textsize 0.4 -->
+ <text x="183.97" y="108.67" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 183.97006645630736 108.67448217566083)">Mustion kaivos</text>
+ <rect x="182.42" y="110.83" width="3.10" height="1.17"  style="fill: #77b4e9; "/>
+
+<!-- Kelkkalan kaivos: max_point_size 1.05 textsize 0.2 -->
+ <text x="183.97" y="111.42" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Kelkkalan kaivos</text>
+ <rect x="185.52" y="106.52" width="1.13" height="4.86"  style="fill: #77b4e9; "/>
+
+<!-- Rödjan: max_point_size 1.02 textsize 1.0207938474025013 -->
+ <text x="186.09" y="108.95" style="font-size: 1.0207938474025013; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 186.08503317949618 108.94539749694029)">Rödjan</text>
+ <rect x="185.52" y="111.37" width="0.59" height="0.63"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren kirjasto: max_point_size 0.53 textsize 0.0 -->
+ <text x="185.81" y="111.69" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 185.8113543425751 111.6871463496981)">Tammisaaren kirjasto</text>
+ <rect x="186.10" y="111.37" width="0.55" height="0.63"  style="fill: #77b4e9; "/>
+
+<!-- Fiskarsin Tornikellorakennus: max_point_size 0.49 textsize 0.0 -->
+ <text x="186.38" y="111.69" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 186.3784620355765 111.6871463496981)">Fiskarsin Tornikellorakennus</text>
+ <rect x="177.92" y="112.00" width="4.98" height="3.00"  style="fill: #77b4e9; "/>
+
+<!-- Nordcenter: max_point_size 2.70 textsize 0.6000000000000001 -->
+ <text x="180.41" y="113.50" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Nordcenter</text>
+ <rect x="177.92" y="115.00" width="4.92" height="2.68"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren keskuskenttä: max_point_size 2.41 textsize 0.2 -->
+ <text x="180.39" y="116.34" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaaren keskuskenttä</text>
+ <rect x="182.85" y="115.00" width="0.06" height="2.68"  style="fill: #77b4e9; "/>
+
+<!-- Raaseporin jäähalli: max_point_size 0.05 textsize 0.05171684193856834 -->
+ <text x="182.88" y="116.34" style="font-size: 0.05171684193856834; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 182.8764573315533 116.33580657785608)">Raaseporin jäähalli</text>
+ <rect x="182.91" y="112.00" width="3.31" height="2.90"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren museokeskus EKTA: max_point_size 2.61 textsize 0.1 -->
+ <text x="184.56" y="113.45" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaaren museokeskus EKTA</text>
+ <rect x="186.21" y="112.00" width="0.44" height="2.90"  style="fill: #77b4e9; "/>
+
+<!-- Gillesgården: max_point_size 0.40 textsize 0.30000000000000004 -->
+ <text x="186.43" y="113.45" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 186.4323050755994 113.45200844352095)">Gillesgården</text>
+ <rect x="182.91" y="114.90" width="1.86" height="2.77"  style="fill: #77b4e9; "/>
+
+<!-- Fiskarsin museo: max_point_size 1.68 textsize 0.2 -->
+ <text x="183.84" y="116.29" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 183.83650300929594 116.28884509582592)">Fiskarsin museo</text>
+ <rect x="184.77" y="114.90" width="1.88" height="1.97"  style="fill: #77b4e9; "/>
+
+<!-- Fotocentrum Raseborg Valokuvakeskus: max_point_size 1.70 textsize 0.0 -->
+ <text x="185.71" y="115.89" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 185.7099789903407 115.88635135395128)">Fotocentrum Raseborg Valokuvakeskus</text>
+ <rect x="184.77" y="116.87" width="1.88" height="0.80"  style="fill: #77b4e9; "/>
+
+<!-- Forngården: max_point_size 0.72 textsize 0.2 -->
+ <text x="185.71" y="117.27" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Forngården</text>
+ <rect x="147.98" y="117.67" width="9.76" height="11.93"  style="fill: #77b4e9; "/>
+
+<!-- Rantarata: max_point_size 8.78 textsize 1.8 -->
+ <text x="152.86" y="123.64" style="font-size: 1.8; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 152.8581097466626 123.64108319905017)">Rantarata</text>
+ <rect x="147.98" y="129.61" width="3.35" height="3.02"  style="fill: #77b4e9; "/>
+
+<!-- Fiskarsin–Pohjankurun rautatie: max_point_size 2.72 textsize 0.1 -->
+ <text x="149.66" y="131.12" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Fiskarsin–Pohjankurun rautatie</text>
+ <rect x="151.33" y="129.61" width="1.56" height="3.02"  style="fill: #77b4e9; "/>
+
+<!-- Åminnen rautatietunneli: max_point_size 1.41 textsize 0.1 -->
+ <text x="152.11" y="131.12" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 152.11378527707492 131.12043933621092)">Åminnen rautatietunneli</text>
+ <rect x="152.90" y="129.61" width="2.49" height="3.02"  style="fill: #77b4e9; "/>
+
+<!-- Mustion rautatieasema: max_point_size 2.24 textsize 0.2 -->
+ <text x="154.14" y="131.12" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 154.13956353509678 131.12043933621092)">Mustion rautatieasema</text>
+ <rect x="155.38" y="129.61" width="2.35" height="2.19"  style="fill: #77b4e9; "/>
+
+<!-- Kuovilan rautatieasema: max_point_size 1.97 textsize 0.1 -->
+ <text x="156.56" y="130.71" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Kuovilan rautatieasema</text>
+ <rect x="155.38" y="131.80" width="2.35" height="0.83"  style="fill: #77b4e9; "/>
+
+<!-- Bäljensin rautatietunneli: max_point_size 0.75 textsize 0.1 -->
+ <text x="156.56" y="132.22" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Bäljensin rautatietunneli</text>
+ <rect x="157.74" y="117.67" width="5.08" height="5.63"  style="fill: #77b4e9; "/>
+
+<!-- Hangon rata: max_point_size 4.58 textsize 0.7000000000000001 -->
+ <text x="160.28" y="120.49" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 160.28049530899636 120.48728685444382)">Hangon rata</text>
+ <rect x="157.74" y="123.30" width="5.08" height="1.87"  style="fill: #77b4e9; "/>
+
+<!-- Dragsvikin seisake: max_point_size 1.68 textsize 0.30000000000000004 -->
+ <text x="160.28" y="124.23" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Dragsvikin seisake</text>
+ <rect x="162.82" y="117.67" width="4.63" height="4.06"  style="fill: #77b4e9; "/>
+
+<!-- Pohjankurun rautatieasema: max_point_size 3.66 textsize 0.2 -->
+ <text x="165.14" y="119.71" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Pohjankurun rautatieasema</text>
+ <rect x="162.82" y="121.74" width="3.13" height="3.43"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren rautatieasema: max_point_size 2.82 textsize 0.1 -->
+ <text x="164.39" y="123.45" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 164.38721906149266 123.45172813057775)">Tammisaaren rautatieasema</text>
+ <rect x="165.95" y="121.74" width="1.50" height="3.43"  style="fill: #77b4e9; "/>
+
+<!-- Kaunislahden rautatieasema: max_point_size 1.35 textsize 0.1 -->
+ <text x="166.70" y="123.45" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 166.70364992662365 123.45172813057775)">Kaunislahden rautatieasema</text>
+ <rect x="157.74" y="125.17" width="5.15" height="4.82"  style="fill: #77b4e9; "/>
+
+<!-- Hyvinkää–Karjaa-rata: max_point_size 4.34 textsize 0.30000000000000004 -->
+ <text x="160.31" y="127.58" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Hyvinkää–Karjaa-rata</text>
+ <rect x="157.74" y="129.99" width="3.48" height="2.64"  style="fill: #77b4e9; "/>
+
+<!-- Pohjankurun rautatietunnelit: max_point_size 2.38 textsize 0.1 -->
+ <text x="159.48" y="131.31" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Pohjankurun rautatietunnelit</text>
+ <rect x="161.22" y="129.99" width="1.67" height="2.64"  style="fill: #77b4e9; "/>
+
+<!-- Mustion sähkörata: max_point_size 1.51 textsize 0.2 -->
+ <text x="162.05" y="131.31" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 162.05434160951415 131.3123907338889)">Mustion sähkörata</text>
+ <rect x="162.89" y="125.17" width="4.56" height="5.21"  style="fill: #77b4e9; "/>
+
+<!-- Karjaan rautatieasema: max_point_size 4.11 textsize 0.30000000000000004 -->
+ <text x="165.17" y="127.77" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 165.1732496469442 127.77361235846638)">Karjaan rautatieasema</text>
+ <rect x="162.89" y="130.38" width="4.56" height="2.25"  style="fill: #77b4e9; "/>
+
+<!-- Skogbyn seisake: max_point_size 2.03 textsize 0.4 -->
+ <text x="165.17" y="131.51" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Skogbyn seisake</text>
+ <rect x="147.98" y="132.63" width="5.06" height="7.37"  style="fill: #77b4e9; "/>
+
+<!-- Riilahden kartano: max_point_size 4.55 textsize 0.6000000000000001 -->
+ <text x="150.51" y="136.32" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 150.5063872081996 136.31641506022277)">Riilahden kartano</text>
+ <rect x="153.03" y="132.63" width="3.12" height="7.37"  style="fill: #77b4e9; "/>
+
+<!-- Åminnen kartano (Raasepori): max_point_size 2.81 textsize 0.30000000000000004 -->
+ <text x="154.60" y="136.32" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 154.5953534756676 136.31641506022277)">Åminnen kartano (Raasepori)</text>
+ <rect x="156.16" y="132.63" width="1.35" height="7.37"  style="fill: #77b4e9; "/>
+
+<!-- Skåldön lossi: max_point_size 1.22 textsize 0.7000000000000001 -->
+ <text x="156.83" y="136.32" style="font-size: 0.7000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 156.83139254255724 136.31641506022277)">Skåldön lossi</text>
+ <rect x="157.51" y="132.63" width="3.68" height="3.53"  style="fill: #77b4e9; "/>
+
+<!-- Raaseporin vaakuna: max_point_size 3.18 textsize 0.2 -->
+ <text x="159.34" y="134.40" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Raaseporin vaakuna</text>
+ <rect x="157.51" y="136.17" width="3.68" height="1.56"  style="fill: #77b4e9; "/>
+
+<!-- Pohjan vaakuna: max_point_size 1.41 textsize 0.30000000000000004 -->
+ <text x="159.34" y="136.95" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Pohjan vaakuna</text>
+ <rect x="157.51" y="137.73" width="2.07" height="2.27"  style="fill: #77b4e9; "/>
+
+<!-- Tenholan vaakuna: max_point_size 1.86 textsize 0.1 -->
+ <text x="158.54" y="138.86" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 158.54015551973202 138.86359276549467)">Tenholan vaakuna</text>
+ <rect x="159.57" y="137.73" width="1.61" height="2.27"  style="fill: #77b4e9; "/>
+
+<!-- Karjaan maalaiskunnan vaakuna: max_point_size 1.45 textsize 0.1 -->
+ <text x="160.38" y="138.86" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 160.3782045895798 138.86359276549467)">Karjaan maalaiskunnan vaakuna</text>
+ <rect x="161.18" y="132.63" width="2.84" height="3.50"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren vaakuna: max_point_size 2.56 textsize 0.2 -->
+ <text x="162.61" y="134.38" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 162.6051537050788 134.38175059059952)">Tammisaaren vaakuna</text>
+ <rect x="164.03" y="132.63" width="1.08" height="3.50"  style="fill: #77b4e9; "/>
+
+<!-- Tammisaaren maalaiskunnan vaakuna: max_point_size 0.97 textsize 0.1 -->
+ <text x="164.57" y="134.38" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 164.56822706703315 134.38175059059952)">Tammisaaren maalaiskunnan vaakuna</text>
+ <rect x="161.18" y="136.13" width="1.68" height="3.87"  style="fill: #77b4e9; "/>
+
+<!-- Karjaan vaakuna: max_point_size 1.51 textsize 0.30000000000000004 -->
+ <text x="162.02" y="138.07" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 162.0228975513455 138.06533553037676)">Karjaan vaakuna</text>
+ <rect x="162.86" y="136.13" width="2.25" height="2.25"  style="fill: #77b4e9; "/>
+
+<!-- Bromarvin vaakuna: max_point_size 2.02 textsize 0.1 -->
+ <text x="163.99" y="137.26" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 163.98597091329987 137.25778233841848)">Bromarvin vaakuna</text>
+ <rect x="162.86" y="138.38" width="2.25" height="1.62"  style="fill: #77b4e9; "/>
+
+<!-- Snappertunan vaakuna: max_point_size 1.45 textsize 0.1 -->
+ <text x="163.99" y="139.19" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Snappertunan vaakuna</text>
+ <rect x="165.11" y="132.63" width="2.35" height="7.37"  style="fill: #77b4e9; "/>
+
+<!-- Hanneke Vromen holkki: max_point_size 2.11 textsize 0.4 -->
+ <text x="166.28" y="136.32" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 166.28236513435616 136.31641506022277)">Hanneke Vromen holkki</text>
+ <rect x="167.46" y="117.67" width="9.29" height="8.94"  style="fill: #77b4e9; "/>
+
+<!-- Fiskarsin ruukki: max_point_size 8.05 textsize 0.8 -->
+ <text x="172.10" y="122.14" style="font-size: 0.8; text-anchor: middle; dominant-baseline: central; fill: black; ">Fiskarsin ruukki</text>
+ <rect x="167.46" y="126.61" width="4.65" height="3.61"  style="fill: #77b4e9; "/>
+
+<!-- Antskogin ruukki: max_point_size 3.25 textsize 0.4 -->
+ <text x="169.78" y="128.42" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Antskogin ruukki</text>
+ <rect x="172.10" y="126.61" width="2.40" height="2.21"  style="fill: #77b4e9; "/>
+
+<!-- Peltokosken voimalaitos: max_point_size 1.99 textsize 0.1 -->
+ <text x="173.30" y="127.72" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Peltokosken voimalaitos</text>
+ <rect x="172.10" y="128.82" width="1.35" height="1.40"  style="fill: #77b4e9; "/>
+
+<!-- Kullan ruukki: max_point_size 1.21 textsize 0.1 -->
+ <text x="172.77" y="129.52" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 172.77464422807827 129.52126176250817)">Kullan ruukki</text>
+ <rect x="173.45" y="128.82" width="1.05" height="1.40"  style="fill: #77b4e9; "/>
+
+<!-- Joensuun ruukki: max_point_size 0.95 textsize 0.1 -->
+ <text x="173.97" y="129.52" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 173.97431256592728 129.52126176250817)">Joensuun ruukki</text>
+ <rect x="174.50" y="126.61" width="2.24" height="2.13"  style="fill: #77b4e9; "/>
+
+<!-- Trollshovdan ruukki: max_point_size 1.91 textsize 0.1 -->
+ <text x="175.62" y="127.68" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Trollshovdan ruukki</text>
+ <rect x="174.50" y="128.74" width="2.24" height="1.48"  style="fill: #77b4e9; "/>
+
+<!-- Mustionkosken voimala: max_point_size 1.33 textsize 0.1 -->
+ <text x="175.62" y="129.48" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Mustionkosken voimala</text>
+ <rect x="176.74" y="117.67" width="9.91" height="6.47"  style="fill: #77b4e9; "/>
+
+<!-- Mustio: max_point_size 5.82 textsize 2.3000000000000003 -->
+ <text x="181.70" y="120.91" style="font-size: 2.3000000000000003; text-anchor: middle; dominant-baseline: central; fill: black; ">Mustio</text>
+ <rect x="176.74" y="124.14" width="9.91" height="6.08"  style="fill: #77b4e9; "/>
+
+<!-- Pinjainen: max_point_size 5.47 textsize 1.5 -->
+ <text x="181.70" y="127.18" style="font-size: 1.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Pinjainen</text>
+ <rect x="167.46" y="130.22" width="6.74" height="7.75"  style="fill: #77b4e9; "/>
+
+<!-- Valtatie 25: max_point_size 6.07 textsize 0.9 -->
+ <text x="170.83" y="134.10" style="font-size: 0.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 170.8265065675248 134.09613713800013)">Valtatie 25</text>
+ <rect x="167.46" y="137.97" width="3.89" height="2.03"  style="fill: #77b4e9; "/>
+
+<!-- Fagervikintie: max_point_size 1.83 textsize 0.4 -->
+ <text x="169.40" y="138.99" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Fagervikintie</text>
+ <rect x="171.34" y="137.97" width="2.86" height="2.03"  style="fill: #77b4e9; "/>
+
+<!-- Seututie 111: max_point_size 1.83 textsize 0.30000000000000004 -->
+ <text x="172.77" y="138.99" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Seututie 111</text>
+ <rect x="174.20" y="130.22" width="6.75" height="5.79"  style="fill: #77b4e9; "/>
+
+<!-- Kantatie 51: max_point_size 5.21 textsize 0.8 -->
+ <text x="177.57" y="133.12" style="font-size: 0.8; text-anchor: middle; dominant-baseline: central; fill: black; ">Kantatie 51</text>
+ <rect x="174.20" y="136.02" width="5.50" height="3.98"  style="fill: #77b4e9; "/>
+
+<!-- Kantatie 52: max_point_size 3.59 textsize 0.6000000000000001 -->
+ <text x="176.95" y="138.01" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">Kantatie 52</text>
+ <rect x="179.70" y="136.02" width="1.25" height="3.98"  style="fill: #77b4e9; "/>
+
+<!-- Seututie 104: max_point_size 1.13 textsize 0.4 -->
+ <text x="180.32" y="138.01" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 180.32190283384574 138.00762440679242)">Seututie 104</text>
+ <rect x="180.95" y="130.22" width="5.70" height="5.22"  style="fill: #77b4e9; "/>
+
+<!-- Jussarön majakka: max_point_size 4.70 textsize 0.4 -->
+ <text x="183.80" y="132.83" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Jussarön majakka</text>
+ <rect x="180.95" y="135.44" width="2.48" height="4.56"  style="fill: #77b4e9; "/>
+
+<!-- Jomalvikin kanava: max_point_size 2.23 textsize 0.30000000000000004 -->
+ <text x="182.19" y="137.72" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 182.18562313368284 137.72012631636608)">Jomalvikin kanava</text>
+ <rect x="183.42" y="135.44" width="2.53" height="3.30"  style="fill: #77b4e9; "/>
+
+<!-- Grabben kanava: max_point_size 2.27 textsize 0.30000000000000004 -->
+ <text x="184.69" y="137.09" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 184.68776482009264 137.0927151507825)">Grabben kanava</text>
+ <rect x="183.42" y="138.75" width="2.53" height="1.25"  style="fill: #77b4e9; "/>
+
+<!-- Antskogin sulku: max_point_size 1.13 textsize 0.2 -->
+ <text x="184.69" y="139.37" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Antskogin sulku</text>
+ <rect x="185.95" y="135.44" width="0.70" height="2.31"  style="fill: #77b4e9; "/>
+
+<!-- Kylpevä: max_point_size 0.63 textsize 0.4 -->
+ <text x="186.30" y="136.60" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 186.30183715921464 136.59596059853664)">Kylpevä</text>
+ <rect x="185.95" y="137.75" width="0.70" height="2.25"  style="fill: #77b4e9; "/>
+
+<!-- Hope (Stuart Wreden veistos): max_point_size 0.63 textsize 0.1 -->
+ <text x="186.30" y="138.88" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 186.30183715921464 138.87583428217056)">Hope (Stuart Wreden veistos)</text>
+ <rect x="186.65" y="95.33" width="22.28" height="12.63"  style="fill: #99c7ef; "/>
+
+<!-- Sisu Auto: max_point_size 11.37 textsize 3.4000000000000004 -->
+ <text x="197.79" y="101.65" style="font-size: 3.4000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Sisu Auto</text>
+ <rect x="208.94" y="95.33" width="1.06" height="6.87"  style="fill: #99c7ef; "/>
+
+<!-- Amper: max_point_size 0.96 textsize 0.9582603333430456 -->
+ <text x="209.47" y="98.77" style="font-size: 0.9582603333430456; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 209.46763314814274 98.76872971789702)">Amper</text>
+ <rect x="208.94" y="102.20" width="1.06" height="3.04"  style="fill: #99c7ef; "/>
+
+<!-- Wikströmin linja-autoliikenne: max_point_size 0.96 textsize 0.1 -->
+ <text x="209.47" y="103.72" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 209.46763314814274 103.72423503917798)">Wikströmin linja-autoliikenne</text>
+ <rect x="208.94" y="105.24" width="1.06" height="2.72"  style="fill: #99c7ef; "/>
+
+<!-- Fiskarsin Panimo: max_point_size 0.96 textsize 0.2 -->
+ <text x="209.47" y="106.60" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 209.46763314814274 106.60422297007491)">Fiskarsin Panimo</text>
+ <rect x="186.65" y="107.96" width="16.30" height="16.45"  style="fill: #99c7ef; "/>
+
+<!-- Fiskars (yritys): max_point_size 14.67 textsize 1.4000000000000001 -->
+ <text x="194.80" y="116.19" style="font-size: 1.4000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 194.80026765693714 116.19035486096632)">Fiskars (yritys)</text>
+ <rect x="202.95" y="107.96" width="7.05" height="16.45"  style="fill: #99c7ef; "/>
+
+<!-- Toroidion: max_point_size 6.35 textsize 2.5 -->
+ <text x="206.47" y="116.19" style="font-size: 2.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 206.47419722068838 116.19035486096632)">Toroidion</text>
+ <rect x="186.65" y="124.42" width="11.64" height="11.74"  style="fill: #99c7ef; "/>
+
+<!-- Uudenmaan prikaati: max_point_size 10.47 textsize 0.9 -->
+ <text x="192.47" y="130.29" style="font-size: 0.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 192.470812226754 130.2880095726061)">Uudenmaan prikaati</text>
+ <rect x="186.65" y="136.16" width="11.64" height="0.02"  style="fill: #99c7ef; "/>
+
+<!-- Ekenäsnejdens svenska församling: max_point_size 0.02 textsize 0.02105555878673613 -->
+ <text x="192.47" y="136.17" style="font-size: 0.02105555878673613; text-anchor: middle; dominant-baseline: central; fill: black; ">Ekenäsnejdens svenska församling</text>
+ <rect x="186.65" y="136.18" width="4.21" height="3.82"  style="fill: #99c7ef; "/>
+
+<!-- Länsi-Uusimaa (sanomalehti): max_point_size 3.44 textsize 0.2 -->
+ <text x="188.76" y="138.09" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Länsi-Uusimaa (sanomalehti)</text>
+ <rect x="190.86" y="136.18" width="0.10" height="3.82"  style="fill: #99c7ef; "/>
+
+<!-- Etelä-Uusimaa: max_point_size 0.09 textsize 0.08669998627109124 -->
+ <text x="190.91" y="138.09" style="font-size: 0.08669998627109124; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 190.91303763368347 138.09140322642634)">Etelä-Uusimaa</text>
+ <rect x="190.96" y="136.18" width="3.40" height="3.82"  style="fill: #99c7ef; "/>
+
+<!-- Västra Nyland: max_point_size 3.06 textsize 0.4 -->
+ <text x="192.66" y="138.09" style="font-size: 0.4; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 192.6618578695789 138.09140322642634)">Västra Nyland</text>
+ <rect x="194.36" y="136.18" width="0.86" height="2.40"  style="fill: #99c7ef; "/>
+
+<!-- Ekenäs Tidning: max_point_size 0.77 textsize 0.2 -->
+ <text x="194.79" y="137.38" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 194.79253782064802 137.38325935082472)">Ekenäs Tidning</text>
+ <rect x="194.36" y="138.58" width="0.86" height="1.42"  style="fill: #99c7ef; "/>
+
+<!-- Vestra Nyland: max_point_size 0.77 textsize 0.1 -->
+ <text x="194.79" y="139.29" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 194.79253782064802 139.29185612439835)">Vestra Nyland</text>
+ <rect x="195.22" y="136.18" width="1.53" height="1.73"  style="fill: #99c7ef; "/>
+
+<!-- Pyhän Marian katolinen seurakunta: max_point_size 1.38 textsize 0.0 -->
+ <text x="195.99" y="137.05" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 195.98977205252476 137.0469295048183)">Pyhän Marian katolinen seurakunta</text>
+ <rect x="195.22" y="137.91" width="1.53" height="0.12"  style="fill: #99c7ef; "/>
+
+<!-- Raaseporin rovastikunta: max_point_size 0.11 textsize 0.0 -->
+ <text x="195.99" y="137.97" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Raaseporin rovastikunta</text>
+ <rect x="196.76" y="136.18" width="1.53" height="1.38"  style="fill: #99c7ef; "/>
+
+<!-- Raaseporin suomalainen seurakunta: max_point_size 1.24 textsize 0.0 -->
+ <text x="197.52" y="136.87" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Raaseporin suomalainen seurakunta</text>
+ <rect x="196.76" y="137.57" width="0.91" height="0.47"  style="fill: #99c7ef; "/>
+
+<!-- Lohjan rovastikunta: max_point_size 0.42 textsize 0.0 -->
+ <text x="197.21" y="137.80" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Lohjan rovastikunta</text>
+ <rect x="197.67" y="137.57" width="0.62" height="0.47"  style="fill: #99c7ef; "/>
+
+<!-- Karis-Pojo svenska församling: max_point_size 0.42 textsize 0.0 -->
+ <text x="197.98" y="137.80" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; ">Karis-Pojo svenska församling</text>
+ <rect x="195.22" y="138.03" width="1.54" height="1.97"  style="fill: #99c7ef; "/>
+
+<!-- Raaseporin sairaala: max_point_size 1.38 textsize 0.1 -->
+ <text x="195.99" y="139.02" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 195.9919890496464 139.01601489202955)">Raaseporin sairaala</text>
+ <rect x="196.76" y="138.03" width="1.13" height="1.97"  style="fill: #99c7ef; "/>
+
+<!-- Pojo FBK: max_point_size 1.02 textsize 0.30000000000000004 -->
+ <text x="197.33" y="139.02" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 197.32871314062183 139.01601489202955)">Pojo FBK</text>
+ <rect x="197.90" y="138.03" width="0.39" height="1.97"  style="fill: #99c7ef; "/>
+
+<!-- Raaseporin kaupunginvaltuusto: max_point_size 0.35 textsize 0.0 -->
+ <text x="198.09" y="139.02" style="font-size: 0.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 198.0927479789112 139.01601489202955)">Raaseporin kaupunginvaltuusto</text>
+ <rect x="198.29" y="124.42" width="5.51" height="6.11"  style="fill: #99c7ef; "/>
+
+<!-- Ekenäs IF (jalkapallo): max_point_size 4.96 textsize 0.30000000000000004 -->
+ <text x="201.05" y="127.47" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 201.0458098431501 127.46981654718785)">Ekenäs IF (jalkapallo)</text>
+ <rect x="198.29" y="130.52" width="3.38" height="2.17"  style="fill: #99c7ef; "/>
+
+<!-- Ekenäs Sport Club: max_point_size 1.96 textsize 0.2 -->
+ <text x="199.98" y="131.61" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Ekenäs Sport Club</text>
+ <rect x="201.66" y="130.52" width="2.14" height="2.17"  style="fill: #99c7ef; "/>
+
+<!-- IF Raseborg: max_point_size 1.92 textsize 0.2 -->
+ <text x="202.73" y="131.61" style="font-size: 0.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 202.73353086759192 131.60955139928456)">IF Raseborg</text>
+ <rect x="203.80" y="124.42" width="6.20" height="4.59"  style="fill: #99c7ef; "/>
+
+<!-- BK-46: max_point_size 4.13 textsize 1.7000000000000002 -->
+ <text x="206.90" y="126.71" style="font-size: 1.7000000000000002; text-anchor: middle; dominant-baseline: central; fill: black; ">BK-46</text>
+ <rect x="203.80" y="129.01" width="6.20" height="3.69"  style="fill: #99c7ef; "/>
+
+<!-- Ekenäs IF: max_point_size 3.32 textsize 0.9 -->
+ <text x="206.90" y="130.85" style="font-size: 0.9; text-anchor: middle; dominant-baseline: central; fill: black; ">Ekenäs IF</text>
+ <rect x="198.29" y="132.70" width="4.40" height="7.30"  style="fill: #99c7ef; "/>
+
+<!-- Yrkeshögskolan Novia: max_point_size 3.96 textsize 0.5 -->
+ <text x="200.49" y="136.35" style="font-size: 0.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 200.48873023120242 136.34803873093574)">Yrkeshögskolan Novia</text>
+ <rect x="202.69" y="132.70" width="3.20" height="1.66"  style="fill: #99c7ef; "/>
+
+<!-- Karjaan lukio: max_point_size 1.49 textsize 0.30000000000000004 -->
+ <text x="204.29" y="133.53" style="font-size: 0.30000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Karjaan lukio</text>
+ <rect x="202.69" y="134.36" width="1.87" height="1.86"  style="fill: #99c7ef; "/>
+
+<!-- Ekenäs gymnasium: max_point_size 1.67 textsize 0.1 -->
+ <text x="203.62" y="135.28" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Ekenäs gymnasium</text>
+ <rect x="204.55" y="134.36" width="1.34" height="1.86"  style="fill: #99c7ef; "/>
+
+<!-- Seminarieskolan: max_point_size 1.21 textsize 0.1 -->
+ <text x="205.22" y="135.28" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 205.22317657880194 135.2836189018331)">Seminarieskolan</text>
+ <rect x="202.69" y="136.21" width="2.01" height="1.84"  style="fill: #99c7ef; "/>
+
+<!-- Hakarinteen koulu: max_point_size 1.66 textsize 0.1 -->
+ <text x="203.69" y="137.13" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Hakarinteen koulu</text>
+ <rect x="204.69" y="136.21" width="1.20" height="1.84"  style="fill: #99c7ef; "/>
+
+<!-- Ekenäs högstadieskola: max_point_size 1.08 textsize 0.1 -->
+ <text x="205.29" y="137.13" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 205.29300586049737 137.1330449070503)">Ekenäs högstadieskola</text>
+ <rect x="202.69" y="138.05" width="1.87" height="1.95"  style="fill: #99c7ef; "/>
+
+<!-- Västra Nylands folkhögskola: max_point_size 1.68 textsize 0.1 -->
+ <text x="203.62" y="139.03" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 203.62249565017936 139.0271550305144)">Västra Nylands folkhögskola</text>
+ <rect x="204.56" y="138.05" width="1.34" height="1.95"  style="fill: #99c7ef; "/>
+
+<!-- Karis-Billnäs gymnasium: max_point_size 1.20 textsize 0.1 -->
+ <text x="205.22" y="139.03" style="font-size: 0.1; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 205.22485233345816 139.0271550305144)">Karis-Billnäs gymnasium</text>
+ <rect x="205.89" y="132.70" width="4.11" height="7.30"  style="fill: #99c7ef; "/>
+
+<!-- Country Express: max_point_size 3.70 textsize 0.6000000000000001 -->
+ <text x="207.95" y="136.35" style="font-size: 0.6000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 207.94634512397602 136.34803873093574)">Country Express</text>
+</svg>

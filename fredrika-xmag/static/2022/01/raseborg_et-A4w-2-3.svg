@@ -1,0 +1,158 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+ <svg width="210mm" height="140mm" viewBox="0 0 210 140"
+      xmlns="http://www.w3.org/2000/svg" version="1.1"
+      xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+
+ <title>Voronoi Diagram for raseborg</title>
+ <desc>voronoi.py</desc>
+ <!-- 13.01.2022 00:20 -->
+
+ <defs>
+ <style type="text/css"><![CDATA[
+    .header { font-family: Vollkorn; font-size: 3mm; }
+    .small_header { font-size: 1.5mm; }
+    text {font-family: Open Sans; font-size: 2mm;
+          fill: black; stroke: none; }
+    polyline, rect {fill: none;}
+    * { stroke: black; stroke-width: 0.2; }
+    ]]></style>
+  <marker id='mid' orient="auto"
+    markerWidth='6' markerHeight='12' refX='0.3' refY='3'>
+    <path d='M0,0 V6 L3,3 Z'/>
+  </marker>
+  
+ </defs>
+
+<!-- Parameters: Levels ['grupp1', 'grupp2', 'et_title'] Area et_all_time_views Quality quality Borders [{'rule': '>5', 'bg_color': 'pf_purple_10', 'fg_color': ''}, {'rule': '>4', 'bg_color': 'pf_purple_20', 'fg_color': ''}, {'rule': '>3', 'bg_color': 'pf_purple_30', 'fg_color': ''}, {'rule': '>2', 'bg_color': 'pf_purple_40', 'fg_color': ''}, {'rule': '>1', 'bg_color': 'pf_purple_50', 'fg_color': ''}, {'rule': '>0', 'bg_color': 'pf_purple_60', 'fg_color': ''}] -->
+
+<!-- Margins: {'inner': {'mm': {'top': 10, 'right': 10, 'bottom': 10, 'left': 10}}} -->
+
+<!-- Canvas: {'format': 'A4w-2-3', 'mm': {'width': 210, 'height': 140}, 'orientation': 'landscape', 'inner': {'mm': {'top': 10, 'right': 200, 'bottom': 130, 'left': 10, 'width': 190, 'height': 120, 'x_mid': 105.0, 'y_mid': 70.0, 'aspect_ratio': 0.631578947368421}}} -->
+
+<!-- Level grupp1, cols ['grupp1', 'grupp2', 'et_title', 'et_all_time_views', 'quality'] -->
+ <rect x="0" y="0" width="138.54" height="44.67"  style="fill: #c7a2e3; "/>
+
+<!-- bebyggelse: max_point_size 40.20 textsize 19.3 -->
+ <text x="69.27" y="22.33" style="font-size: 19.3; text-anchor: middle; dominant-baseline: central; fill: black; ">bebyggelse</text>
+ <rect x="138.54" y="0" width="48.82" height="44.67"  style="fill: #ab73d5; "/>
+
+<!-- person: max_point_size 40.20 textsize 11.3 -->
+ <text x="162.95" y="22.33" style="font-size: 11.3; text-anchor: middle; dominant-baseline: central; fill: black; ">person</text>
+ <rect x="187.36" y="0" width="22.64" height="34.83"  style="fill: #d5b9ea; "/>
+
+<!-- organisation: max_point_size 20.37 textsize 4.0 -->
+ <text x="198.68" y="17.42" style="font-size: 4.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 198.68101146305122 17.415537612335203)">organisation</text>
+ <rect x="187.36" y="34.83" width="22.64" height="9.84"  style="fill: #b98adc; "/>
+
+<!-- natur: max_point_size 8.85 textsize 6.300000000000001 -->
+ <text x="198.68" y="39.75" style="font-size: 6.300000000000001; text-anchor: middle; dominant-baseline: central; fill: black; ">natur</text>
+
+<!-- Level grupp1/grupp2, cols ['grupp1', 'grupp2', 'et_title', 'et_all_time_views', 'quality'] -->
+ <rect x="0" y="47.67" width="123.13" height="44.67"  style="fill: #c7a2e3; "/>
+
+<!-- ort: max_point_size 40.20 textsize 24 -->
+ <text x="61.56" y="70.00" style="font-size: 24; text-anchor: middle; dominant-baseline: central; fill: black; ">ort</text>
+ <rect x="123.13" y="47.67" width="15.41" height="25.35"  style="fill: #c7a2e3; "/>
+
+<!-- historisk byggnad: max_point_size 13.87 textsize 2.0 -->
+ <text x="130.83" y="60.34" style="font-size: 2.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 130.83368986324004 60.34197828709287)">historisk byggnad</text>
+ <rect x="123.13" y="73.02" width="15.41" height="19.32"  style="fill: #c7a2e3; "/>
+
+<!-- historisk plats: max_point_size 13.87 textsize 1.8 -->
+ <text x="130.83" y="82.68" style="font-size: 1.8; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 130.83368986324004 82.67531162042621)">historisk plats</text>
+ <rect x="138.54" y="47.67" width="26.85" height="44.67"  style="fill: #ab73d5; "/>
+
+<!-- författare: max_point_size 24.16 textsize 6.2 -->
+ <text x="151.96" y="70.00" style="font-size: 6.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 151.96133248749686 70.0)">författare</text>
+ <rect x="165.38" y="47.67" width="21.98" height="25.82"  style="fill: #ab73d5; "/>
+
+<!-- idrottare: max_point_size 19.78 textsize 4.0 -->
+ <text x="176.37" y="60.58" style="font-size: 4.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 176.3729843766136 60.57743633117188)">idrottare</text>
+ <rect x="165.38" y="73.49" width="21.98" height="18.85"  style="fill: #ab73d5; "/>
+
+<!-- politiker: max_point_size 16.96 textsize 3.4000000000000004 -->
+ <text x="176.37" y="82.91" style="font-size: 3.4000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">politiker</text>
+ <rect x="187.36" y="47.67" width="22.64" height="34.83"  style="fill: #d5b9ea; "/>
+
+<!-- företag: max_point_size 20.37 textsize 6.9 -->
+ <text x="198.68" y="65.08" style="font-size: 6.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 198.68101146305122 65.08220427900187)">företag</text>
+ <rect x="187.36" y="82.50" width="22.64" height="9.84"  style="fill: #b98adc; "/>
+
+<!-- ö: max_point_size 8.85 textsize 8.852032297796631 -->
+ <text x="198.68" y="87.42" style="font-size: 8.852032297796631; text-anchor: middle; dominant-baseline: central; fill: black; ">ö</text>
+
+<!-- Level grupp1/grupp2/et_title, cols ['grupp1', 'grupp2', 'et_title', 'et_all_time_views', 'quality'] -->
+ <rect x="0" y="95.33" width="31.24" height="30.32"  style="fill: #c7a2e3; "/>
+
+<!-- Raseborgi linn: max_point_size 27.29 textsize 3.1 -->
+ <text x="15.62" y="110.49" style="font-size: 3.1; text-anchor: middle; dominant-baseline: central; fill: black; ">Raseborgi linn</text>
+ <rect x="0" y="125.65" width="31.24" height="14.35"  style="fill: #c7a2e3; "/>
+
+<!-- Tammisaari vald: max_point_size 12.91 textsize 2.9000000000000004 -->
+ <text x="15.62" y="132.83" style="font-size: 2.9000000000000004; text-anchor: middle; dominant-baseline: central; fill: black; ">Tammisaari vald</text>
+ <rect x="31.24" y="95.33" width="32.38" height="22.18"  style="fill: #c7a2e3; "/>
+
+<!-- Fiskari: max_point_size 19.96 textsize 6.4 -->
+ <text x="47.43" y="106.42" style="font-size: 6.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Fiskari</text>
+ <rect x="31.24" y="117.51" width="20.87" height="22.49"  style="fill: #c7a2e3; "/>
+
+<!-- Snappertuna vald: max_point_size 18.78 textsize 1.9000000000000001 -->
+ <text x="41.67" y="128.76" style="font-size: 1.9000000000000001; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 41.67431232901138 128.75534934149687)">Snappertuna vald</text>
+ <rect x="52.11" y="117.51" width="11.51" height="22.49"  style="fill: #c7a2e3; "/>
+
+<!-- Karise linn: max_point_size 10.36 textsize 2.8000000000000003 -->
+ <text x="57.87" y="128.76" style="font-size: 2.8000000000000003; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 57.866646690134374 128.75534934149687)">Karise linn</text>
+ <rect x="63.62" y="95.33" width="27.66" height="30.65"  style="fill: #c7a2e3; "/>
+
+<!-- Ekenäsi linn: max_point_size 24.89 textsize 3.5 -->
+ <text x="77.45" y="110.66" style="font-size: 3.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 77.45149963855243 110.65919868563535)">Ekenäsi linn</text>
+ <rect x="63.62" y="125.99" width="27.66" height="14.01"  style="fill: #c7a2e3; "/>
+
+<!-- Ekenäs: max_point_size 12.61 textsize 6.4 -->
+ <text x="77.45" y="132.99" style="font-size: 6.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Ekenäs</text>
+ <rect x="91.28" y="95.33" width="31.85" height="22.92"  style="fill: #c7a2e3; "/>
+
+<!-- Pohja vald: max_point_size 20.62 textsize 4.4 -->
+ <text x="107.20" y="106.79" style="font-size: 4.4; text-anchor: middle; dominant-baseline: central; fill: black; ">Pohja vald</text>
+ <rect x="91.28" y="118.25" width="31.85" height="21.75"  style="fill: #c7a2e3; "/>
+
+<!-- Karis: max_point_size 19.58 textsize 8.9 -->
+ <text x="107.20" y="129.12" style="font-size: 8.9; text-anchor: middle; dominant-baseline: central; fill: black; ">Karis</text>
+ <rect x="123.13" y="95.33" width="15.41" height="25.35"  style="fill: #c7a2e3; "/>
+
+<!-- Raasepori linnus: max_point_size 13.87 textsize 2.2 -->
+ <text x="130.83" y="108.01" style="font-size: 2.2; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 130.83368986324004 108.00864495375954)">Raasepori linnus</text>
+ <rect x="123.13" y="120.68" width="15.41" height="19.32"  style="fill: #c7a2e3; "/>
+
+<!-- Grabbacka linnus: max_point_size 13.87 textsize 1.6 -->
+ <text x="130.83" y="130.34" style="font-size: 1.6; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 130.83368986324004 130.34197828709287)">Grabbacka linnus</text>
+ <rect x="138.54" y="95.33" width="26.85" height="27.98"  style="fill: #ab73d5; "/>
+
+<!-- Jörn Donner: max_point_size 24.16 textsize 3.5 -->
+ <text x="151.96" y="109.32" style="font-size: 3.5; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 151.96133248749686 109.32356222350452)">Jörn Donner</text>
+ <rect x="138.54" y="123.31" width="26.85" height="16.69"  style="fill: #ab73d5; "/>
+
+<!-- Tommy Tabermann: max_point_size 15.02 textsize 2.5 -->
+ <text x="151.96" y="131.66" style="font-size: 2.5; text-anchor: middle; dominant-baseline: central; fill: black; ">Tommy Tabermann</text>
+ <rect x="165.38" y="95.33" width="21.98" height="25.82"  style="fill: #ab73d5; "/>
+
+<!-- Pauli Nevala: max_point_size 19.78 textsize 3.0 -->
+ <text x="176.37" y="108.24" style="font-size: 3.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 176.3729843766136 108.24410299783855)">Pauli Nevala</text>
+ <rect x="165.38" y="121.15" width="16.07" height="18.85"  style="fill: #ab73d5; "/>
+
+<!-- Nils Torvalds: max_point_size 14.47 textsize 2.0 -->
+ <text x="173.42" y="130.58" style="font-size: 2.0; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 173.42103416151537 130.5774363311719)">Nils Torvalds</text>
+ <rect x="181.46" y="121.15" width="5.90" height="18.85"  style="fill: #ab73d5; "/>
+
+<!-- Thomas Blomqvist: max_point_size 5.31 textsize 1.6 -->
+ <text x="184.41" y="130.58" style="font-size: 1.6; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 184.41007271100418 130.5774363311719)">Thomas Blomqvist</text>
+ <rect x="187.36" y="95.33" width="22.64" height="34.83"  style="fill: #d5b9ea; "/>
+
+<!-- Fiskars: max_point_size 20.37 textsize 6.9 -->
+ <text x="198.68" y="112.75" style="font-size: 6.9; text-anchor: middle; dominant-baseline: central; fill: black; " transform="rotate(-90 198.68101146305122 112.74887094566853)">Fiskars</text>
+ <rect x="187.36" y="130.16" width="22.64" height="9.84"  style="fill: #b98adc; "/>
+
+<!-- Estland (saar): max_point_size 8.85 textsize 2.2 -->
+ <text x="198.68" y="135.08" style="font-size: 2.2; text-anchor: middle; dominant-baseline: central; fill: black; ">Estland (saar)</text>
+</svg>
