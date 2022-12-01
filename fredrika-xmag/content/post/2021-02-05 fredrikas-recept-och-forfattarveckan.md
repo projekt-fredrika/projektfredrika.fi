@@ -23,7 +23,7 @@ Kring Runebergsdagen går debatten kring vilken Runebergstårta som är godast o
 
 Projekt Fredrika kan i år komma med goda nyheter för den som är nyfiken på hur Fredrikas tårta smakade: Fredrikas originalrecept finns nu på Wikimedia Commons. Bilden från hennes receptbok fick vi av [Borgå museums bildarkiv](http://www.porvoonmuseo.fi/).
 
-![](/img/2021/02/Runebergsbakelse_i_Fredrika_Runeberg_receptbok_1850-talet-1024x811.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2021/02/Runebergsbakelse_i_Fredrika_Runeberg_receptbok_1850-talet-1024x811.jpg)
 
 Sida ur Fredrika Runebergs receptbok.
 
@@ -58,4 +58,4 @@ Vi jobbade också parallellt med Wikipedia och Wikidata. Vi satte in [Choraeuspr
 
 **Projekt Fredrika** förbättrar täckningen av det svenska i Finland på Wikipedia, främst på svenska men också på andra språk. _Läs om oss på Wikipedia (_[Projektsidan](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), [Project page](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), [Projektisivut](https://fi.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), [Projektseite](https://de.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), [Page du projet](https://fr.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), [страница проекта](https://ru.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika)) _eller följ oss på [Twitter](https://twitter.com/projektfredrika), [Facebook](https://www.facebook.com/projektfredrika/), eller [Instagram](http://instagram.com/projektfredrika)._
 
-![](/img/2021/02/image-1-1024x658.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/02/image-1-1024x658.png)

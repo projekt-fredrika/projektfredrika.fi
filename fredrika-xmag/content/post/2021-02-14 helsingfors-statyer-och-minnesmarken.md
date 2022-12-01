@@ -81,7 +81,7 @@ Hör gärna av dej om du är intresserad av att översätta Wikidata!
 
 Stockholm har en så kallad **navruta** för skulpturer - något som Helsingfors också kunde ha - så vi skapade [Mall:Skulpturer i Helsingfors](https://sv.wikipedia.org/wiki/Mall:Skulpturer_i_Helsingfors) och satt den med på alla existerande skulpturers sidor. Så här ser den ut i den nyskrivna artikeln om Tre Smeder:
 
-![](/img/2021/02/image-3-1024x290.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/02/image-3-1024x290.png)
 
 Pinfärska navrutan Skulpturer i Helsingfors i [Tre Smeders](https://sv.wikipedia.org/wiki/Tre_smeder) artikel
 

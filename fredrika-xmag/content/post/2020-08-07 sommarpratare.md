@@ -21,7 +21,7 @@ Vi på projekt Fredrika märkte att alla sommarpratare i Sverige är tydligt syn
 
 Men "en ann' är så god som en ann'!". Alltså ska vi ha det också i svenska Finland! Sagt och gjort. Efter några minuters copy&paste av Yles [Sommarpratare artikel](https://svenska.yle.fi/artikel/2020/06/08/har-ar-vegas-sommarpratare-2020), find&replace, WikiMarkup-editering samt kategorisering med [QuickCategories](https://quickcategories.toolforge.org/) kan Fredrika nu presentera: Kategorin [Sommarpratare 2020](https://sv.wikipedia.org/wiki/Kategori:Sommarpratare_2020) på svenska Wikipedia. 
 
-![](/img/2020/08/kategori-sommarpratare-1024x410.png)
+![](https://projektfredrika.fi/wp-content/uploads/2020/08/kategori-sommarpratare-1024x410.png)
 
 Kategorin “Sommarpratare 2020” syns på alla sommarpratares Wikipediasida längst nere bland andra kategorier. Kan du gissa vem denna person är baserat på kategorierna? 
 
@@ -31,7 +31,7 @@ För att få veta vem denna person är, klicka [här](https://sv.wikipedia.org/w
 
 Fredrika skapade även en sida: [Lista över sommarpratare under 2020-talet](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarpratare_under_2020-talet). Här ser man tydligt med rök länk de som inte har sida på svenska Wikipedia - men de kan ha sida på andra språk.
 
-![](/img/2020/08/sida-sommarpratare-1024x555.png)
+![](https://projektfredrika.fi/wp-content/uploads/2020/08/sida-sommarpratare-1024x555.png)
 
 [Lista över sommarpratare under 2020-talet](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarpratare_under_2020-talet)
 

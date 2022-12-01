@@ -25,13 +25,13 @@ Nytt för Fredrika år 2021 var att vi började arbeta enligt temaveckor. Det vi
 
 Vi hade flera lyckade temaveckor, bland dem [finlandssvenska professorer](https://projektfredrika.fi/utbildningsveckan/) där vi fick hjälp av universiteten och [finlandssvenska damidrottare](https://projektfredrika.fi/finlandssvenska-damidrottare-och-annat-vi-gjorde-den-har-veckan/) där vi fick hjälp av idrottare, sportjournalister och andra idrottsintresserade. 
 
-![](/img/2021/03/idrottare2-1024x1024.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2021/03/idrottare2-1024x1024.jpg)
 
 Vi fick tips om många damidrottare som saknas på Wikipedia. Flera av dem har nu fått artiklar, men inte alla.
 
 En annan rolig temavecka var [finlandssvenska författare](https://projektfredrika.fi/fredrikas-recept-och-forfattarveckan/). Den veckan publicerade vi bland annat Fredrika Runebergs originalrecept på Runebergstårtor på Wikimedia Commons och fixade till finlandssvenska litteraturpris på Wikipedia.
 
-![](/img/2021/02/Runebergsbakelse_i_Fredrika_Runeberg_receptbok_1850-talet-1024x811.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2021/02/Runebergsbakelse_i_Fredrika_Runeberg_receptbok_1850-talet-1024x811.jpg)
 
 Recept på Runebergstårta från Fredrikas kokbok.
 
@@ -44,7 +44,7 @@ Helsingfors skolor
 
 Det kanske mest lyckade temaveckan var ändå historiska skolor i Helsingfors, där vi samarbetade med HBL. Vi skrev om utgångsläget för skolorna i Helsingfors i bloggtexten **[Startskott för svenska skolor i Helsingfors](https://projektfredrika.fi/svenska-skolor-i-helsingfors/)** och den första veckans arbete i texten [**Nya artiklar och spännande gamla bilder – så här har vi jobbat med Helsingfors skolor**](https://projektfredrika.fi/skolor-i-helsingfors-nya-artiklar-och-gamla-bilder/).
 
-![](/img/2021/03/HKMS000005_00000was-1024x712.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2021/03/HKMS000005_00000was-1024x712.jpg)
 
 Vi gjorde ett djupdyk i Helsingfors historiska skolor.
 

@@ -33,7 +33,7 @@ In this post, we will open up the process and share our experience. If you want 
 
 The idea of uploading Birger Carlstedt's works to Wikimedia Commons was born in conjunction with the exhibition in Amos Rex in the fall of 2019, during discussions between Stefan Björkman, CEO of Konstsamfundet, and Kaj Arnö, Chairman of the Board of Projekt Fredrika.
 
-![](/img/2020/10/lossy-page1-624px-Skiss_för_scenografi_526-BC_-_Birger_Carlstedt.tif.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-624px-Skiss_för_scenografi_526-BC_-_Birger_Carlstedt.tif.jpg)
 
 Kaj and Stefan met while it was still okay to do so.
 
@@ -43,7 +43,7 @@ Our next step was to determine the best way to transfer the images as well as th
 
 Lina Winqvist contacted Wikimedia Suomi, and began to investigate how it could be executed together with Lajos Parkatti, Susanna Ånäs, Tove Ørsted and Kimmo Virtanen. 
 
-![](/img/2020/10/lossy-page1-596px-Picnic_17-BC_-_Birger_Carlstedt.tif-3.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-596px-Picnic_17-BC_-_Birger_Carlstedt.tif-3.jpg)
 
 We met several times, under more professional circumstances than the characters in Birger's picnic.
 
@@ -53,7 +53,7 @@ Susanna Ånäs was indispensable in the technical part of the process. She showe
 
 Before the transfer could be completed, the metadata had to be correctly processed in spreadsheets and coded. Susanna also helped us to link the images to Wikidata by creating Q codes for the artworks in question. Robert Silén, Lajos Parkatti, Lina Winqvist, Tove Ørsted and Kimmo Virtanen contributed in various ways to this part of the process.
 
-![](/img/2020/10/image-1-1024x606.png)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/image-1-1024x606.png)
 
 Cells waiting for the relevant data
 
@@ -61,7 +61,7 @@ Wikipedia has a process in place in order to ensure, to the extent it is possibl
 
 OTRS stands for Open-source Ticket Request System and is a system for managing license permissions for files uploaded by anyone other than the copyright owner on Wikimedia Commons. In order for a file to be approved, the owner (in this case Konstsamfundet) must send a written consent following a specific template to permissions-sv@wikimedia.org.
 
-![](/img/2020/10/lossy-page1-447px-Skräck_birger_Carlstedt.tif.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-447px-Skräck_birger_Carlstedt.tif.jpg)
 
 Some parts of the project were more frightening than others.
 
@@ -71,7 +71,7 @@ The fact that Wikipedia is a collaborative project became very clear in the proc
 
 In addition, we received helpful tips and advice when we openly asked for help on Wikipedia. Although we received a lot of help along the way and Wikipedia has tools and processes that facilitate these types of projects, there were a lot of setbacks, fruitless attempts and mistakes before the project was completed.
 
-![](/img/2020/10/lossy-page1-390px-Tvättinrättningen_12-BC_-_Birger_Carlstedt.tif-1.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-390px-Tvättinrättningen_12-BC_-_Birger_Carlstedt.tif-1.jpg)
 
 Many people helped in many ways to reach this goal.
 

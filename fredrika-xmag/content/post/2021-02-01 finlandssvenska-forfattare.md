@@ -50,7 +50,7 @@ För att jämföra vilken författare läses om mest på olika språk behövs en
 
 Ett alternativt sätt att söka på finlandssvenska författare är att begränsa sig till alla finlandssvenskar som fått utmärkelsen ([P166](https://www.wikidata.org/wiki/Property:P166)) litteraturpris ([Q378427](https://www.wikidata.org/wiki/Q378427)). Totalt 157 finlandssvenska författare har fått något litteraturpris - se [listan på författarna](https://query.wikidata.org/#%23%20finlandssvenska%20f%C3%B6rfattare%20eller%20dess%20underklass%20Q482980%0ASELECT%20DISTINCT%20%3Fperson%20%3FpersonLabel%20%3FpersonDescription%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Flife%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Flevands%C3%A5r%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fp106label%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Foccupations%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fp166label%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Flitteraturpris%29%20%0A%0AWHERE%20%0A%7B%0A%20%20hint%3AQuery%20hint%3Aoptimizer%20%22None%22%20.%0A%20%20%3Fperson%20wdt%3AP172%20wd%3AQ726673%3B%20%0A%20%20%20%20%20%20%20%20wdt%3AP106%20%3Fp106.%20%0A%20%20%3Fp106%20wdt%3AP279%2a%20wd%3AQ482980.%20%3Fp106%20rdfs%3Alabel%20%3Fp106label%20.%20FILTER%28lang%28%3Fp106label%29%3D%27sv%27%29%0A%20%20%3Fperson%20wdt%3AP166%20%3Fp166%20.%20%3Fp166%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ378427.%20%3Fp166%20rdfs%3Alabel%20%3Fp166label%20.%20FILTER%28lang%28%3Fp166label%29%3D%27sv%27%29%0A%20%20OPTIONAL%20%7B%20%3Fperson%20wdt%3AP569%20%3Fp569%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fperson%20wdt%3AP570%20%3Fp570%20.%20%7D%0A%20%20BIND%28CONCAT%28SUBSTR%28STR%28COALESCE%28%3Fp569%2C%22%22%29%29%2C1%2C4%29%2C%22-%22%2CSUBSTR%28STR%28COALESCE%28%3Fp570%2C%22%22%29%29%2C1%2C4%29%29%20AS%20%3Flife%29%0A%20%20OPTIONAL%20%7B%20%3Fperson%20wdt%3AP19%20%3Fp19%20.%20%3Fp19%20rdfs%3Alabel%20%3Fp19label%20.%20FILTER%28lang%28%3Fp19label%29%3D%27sv%27%29%20%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22sv%2Cfi%2Cen%22.%20%7D%0A%7DGROUP%20BY%20%3Fperson%20%3FpersonLabel%20%3FpersonDescription%20%0AORDER%20BY%20%3FpersonLabel%20).
 
-![](/img/2021/01/image-28-1024x272.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-28-1024x272.png)
 
 [Mia Francks](https://sv.wikipedia.org/wiki/Mia_Franck) utmärkelse Solveig von Shoultz-priset är nu med i Wikidata, och det syns i hennes infobox
 
@@ -65,7 +65,7 @@ Vi märkte att många litteraturpris inte finns i Wikidata ännu och började me
 
 Vi granskade prisbelönta finlandssvenska författare på 15 olika språk ([se sökning](https://query.wikidata.org/#%23%20finlandssvenska%20f%C3%B6rfattare%20eller%20dess%20underklass%20Q482980%0ASELECT%20DISTINCT%20%3Fperson%20%3FpersonLabel%20%3FpersonDescription%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Flife%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Flevands%C3%A5r%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fp106label%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Foccupations%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fp166label%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Flitteraturpris%29%20%0A%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpsv_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fsv_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpfi_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Ffi_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpno_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fno_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpda_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fda_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpen_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fen_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpde_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fde_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpfr_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Ffr_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpes_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fes_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwppt_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fpt_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpet_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fet_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpso_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fso_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpru_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fru_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpar_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Far_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpzh_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fzh_title%29%20%0A%20%20%28GROUP_CONCAT%28DISTINCT%20%3Fwpja_title%3BSEPARATOR%3D%22%2C%20%22%29%20AS%20%3Fja_title%29%20%0A%0AWHERE%20%0A%7B%0A%20%20hint%3AQuery%20hint%3Aoptimizer%20%22None%22%20.%0A%20%20%3Fperson%20wdt%3AP172%20wd%3AQ726673%3B%20%0A%20%20%20%20%20%20%20%20wdt%3AP106%20%3Fp106.%20%0A%20%20%3Fp106%20wdt%3AP279%2a%20wd%3AQ482980.%20%3Fp106%20rdfs%3Alabel%20%3Fp106label%20.%20FILTER%28lang%28%3Fp106label%29%3D%27sv%27%29%0A%20%20%3Fperson%20wdt%3AP166%20%3Fp166%20.%20%3Fp166%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ378427.%20%3Fp166%20rdfs%3Alabel%20%3Fp166label%20.%20FILTER%28lang%28%3Fp166label%29%3D%27sv%27%29%0A%20%20OPTIONAL%20%7B%20%3Fperson%20wdt%3AP569%20%3Fp569%20.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fperson%20wdt%3AP570%20%3Fp570%20.%20%7D%0A%20%20BIND%28CONCAT%28SUBSTR%28STR%28COALESCE%28%3Fp569%2C%22%22%29%29%2C1%2C4%29%2C%22-%22%2CSUBSTR%28STR%28COALESCE%28%3Fp570%2C%22%22%29%29%2C1%2C4%29%29%20AS%20%3Flife%29%0A%20%20OPTIONAL%20%7B%20%3Fperson%20wdt%3AP19%20%3Fp19%20.%20%3Fp19%20rdfs%3Alabel%20%3Fp19label%20.%20FILTER%28lang%28%3Fp19label%29%3D%27sv%27%29%20%7D%0A%20%20%0A%20%20OPTIONAL%20%7B%20%3Fwpsv%20schema%3Aabout%20%3Fperson%20.%20%3Fwpsv%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fsv.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpsv_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpfi%20schema%3Aabout%20%3Fperson%20.%20%3Fwpfi%20schema%3AisPartOf%20%3Chttps%3A%2F%2Ffi.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpfi_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpno%20schema%3Aabout%20%3Fperson%20.%20%3Fwpno%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fno.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpno_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpda%20schema%3Aabout%20%3Fperson%20.%20%3Fwpda%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fda.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpda_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpen%20schema%3Aabout%20%3Fperson%20.%20%3Fwpen%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpen_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpde%20schema%3Aabout%20%3Fperson%20.%20%3Fwpde%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fde.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpde_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpfr%20schema%3Aabout%20%3Fperson%20.%20%3Fwpfr%20schema%3AisPartOf%20%3Chttps%3A%2F%2Ffr.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpfr_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpes%20schema%3Aabout%20%3Fperson%20.%20%3Fwpes%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fes.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpes_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwppt%20schema%3Aabout%20%3Fperson%20.%20%3Fwppt%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fpt.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwppt_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpet%20schema%3Aabout%20%3Fperson%20.%20%3Fwpet%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fet.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpet_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpso%20schema%3Aabout%20%3Fperson%20.%20%3Fwpso%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fso.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpso_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpru%20schema%3Aabout%20%3Fperson%20.%20%3Fwpru%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fru.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpru_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpar%20schema%3Aabout%20%3Fperson%20.%20%3Fwpar%20schema%3AisPartOf%20%3Chttps%3A%2F%2Far.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpar_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpzh%20schema%3Aabout%20%3Fperson%20.%20%3Fwpzh%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fzh.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpzh_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpja%20schema%3Aabout%20%3Fperson%20.%20%3Fwpja%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fja.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpja_title.%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22sv%2Cfi%2Cen%22.%20%7D%0A%7DGROUP%20BY%20%3Fperson%20%3FpersonLabel%20%3FpersonDescription%20%0AORDER%20BY%20%3FpersonLabel%20)).
 
-![](/img/2021/01/image-46-1024x632.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-46-1024x632.png)
 
 _Finlandssvenska författare med litteraturpris har totalt mest läsningar på finska och flest artiklar på svenska._
 
@@ -77,90 +77,90 @@ _[Erik Heinrichs](https://sv.wikipedia.org/wiki/Erik_Heinrichs)_ är stor på ja
 
 ### Finska
 
-![](/img/2021/01/image-31-1024x344.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-31-1024x344.png)
 
 Topp fem mest lästa författares artiklar på finska: Tove Jansson, Jörn Donner, Erik Heinrichs, Kjell Westö, Märta Tikkanen.
 
 ### Svenska
 
-![](/img/2021/01/image-32-1024x343.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-32-1024x343.png)
 
 Topp fem mest lästa författares artiklar på svenska: Jörn Donner, Tove Jansson, Karin Smirnoff, Kjell Westö, Märta Tikkanen.
 
 ### Engelska
 
-![](/img/2021/01/image-33-1024x340.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-33-1024x340.png)
 
 Topp fem mest lästa författares artiklar på engelska: Tove Jansson, Jörn Donner, Ole Torvalds, Georg Henrik von Wright, Erik Heinrichs.
 
 ### Ryska
 
-![](/img/2021/01/image-34-1024x343.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-34-1024x343.png)
 
 Topp fem mest lästa författares artiklar på ryska: Tove Jansson, Erik Heinrichs, Georg Henrik von Wright, Jörn Donner, Karin Smirnoff.
 
 ### Japanska
 
-![](/img/2021/01/image-35-1024x343.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-35-1024x343.png)
 
 Topp fem mest lästa författares artiklar på japanska: Tove Jansson, Erik Heinrichs, Georg Henrik von Wright, Erik Tawaststjerna, Bo Carpelan.
 
 ### Tyska
 
-![](/img/2021/01/image-36-1024x346.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-36-1024x346.png)
 
 Topp fem mest lästa författares artiklar på tyska: Tove Jansson, Kjell Westö, Monika Fagerholm, Frans Michael Franzén, Erik Allardt.
 
 ### Franska
 
-![](/img/2021/01/image-37-1024x343.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-37-1024x343.png)
 
 Topp fem mest lästa författares artiklar på franska: Tove Jansson, Georg Henrik von Wright, Jörn Donner, Kjell Westö, Ole Torvalds.
 
 ### Norska
 
-![](/img/2021/01/image-38-1024x341.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-38-1024x341.png)
 
 Topp fem mest lästa författares artiklar på norska: Tove Jansson, Kjell Westö, Monika Fagerholm, Märta Tikkanen, Jörn Donner.
 
 ### Spanska
 
-![](/img/2021/01/image-39-1024x344.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-39-1024x344.png)
 
 Topp fem mest lästa författares artiklar på spanska: Tove Jansson, Georg Henrik von Wright, Sally Salminen, Jörn Donner, Erik Allardt.
 
 ### Danska
 
-![](/img/2021/01/image-40-1024x343.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-40-1024x343.png)
 
 Topp fem mest lästa författares artiklar på danska: Tove Jansson, Kjell Westö, Monika Fagerholm, Frans Michael Franzén, Erik Allardt.
 
 ### Kinesiska
 
-![](/img/2021/01/image-41-1024x342.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-41-1024x342.png)
 
 _Topp fem mest lästa_ artiklar på kinesiska: Tove Jansson, Tua Forsström, Ulla-Lena Lundberg, Hagar Olsson, Monika Fagerholm.
 
 ### Estniska
 
-![](/img/2021/01/image-42-1024x341.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-42-1024x341.png)
 
 _Topp fem mest lästa_ författares artiklar på estniska: Tove Jansson, Monika Fagerholm, Kjell Westö, Jörn Donner, Ulla-Lena Lundberg.
 
 ### Arabiska
 
-![](/img/2021/01/image-43-1024x342.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-43-1024x342.png)
 
 _Topp fem mest lästa_ författares artiklar på arabiska: Tove Jansson, Georg Henrik von Wright, Jörn Donner, Karin Smirnoff Bo Carpelan.
 
 ### Portugisiska
 
-![](/img/2021/01/image-44-1024x343.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-44-1024x343.png)
 
 _Topp fem mest lästa f_örfattares artiklar på portugisiska: Tove Jansson, Georg Henrik von Wright, Frans Michael Franzén, Ole Torvalds, Bo Carpelan.
 
 ## 15 språk totalt
 
-![](/img/2021/01/image-45-1024x340.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-45-1024x340.png)
 
 15 språk ihop summerade, topp 5: Tove Jansson, Jörn Donner, Kjell Westö, Erik Heinrichs, Georg Henrik von Wright.

@@ -43,7 +43,7 @@ Vi vore mycket intresserad av språkkunniga personers kommentarer om artikelns i
 
 Vi lyfter fram Helsingfors stadsdelar eftersom de är väsentliga spår av det svenska i Helsingfors. T.ex. Wikipedia på svenska förklarar etymologin bakom [Kronohagens (Kruunuhaka)](https://sv.wikipedia.org/wiki/Kronohagen) namn: “kommer från en äng där kronans hästar betade”. Visste du det? Hur beskrivs resten av stadsdelarna på andra språk?
 
-![](/img/2021/01/stadsdelarhfors-1024x485.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/stadsdelarhfors-1024x485.png)
 
 Skärmdump av [Helsingfors stadsdelar som sorterbar lista](https://wiki.projektfredrika.fi/Helsingfors-stadsdelar)
 
@@ -56,7 +56,7 @@ Kategori:Helsingfors på 69 språk
 
 Med Fredrikas Lupp undersökte vi vilka de mest lästa sidorna är på svenska.
 
-![](/img/2021/01/lupphfors-1024x789.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/lupphfors-1024x789.png)
 
 Undersök själv den [sorterbara Fredrikas Lupp-körningen på de mest lästa artiklarna inom Kategori:Helsingfors](https://wiki.projektfredrika.fi/Top/Helsingfors)
 
@@ -90,7 +90,7 @@ Se mer i [Luppkörningen för topp 100 i Helsingfors](https://wiki.projektfredri
 
 På Wikidata identifierade vi i november 10485 objekt som är relaterade till Helsingfors med denna sökning. Av dessa har 686 artiklar på svenska, 1309 på finska, 480 på engelska och 150 på tyska.
 
-![](/img/2021/01/3-1-A-orter-sv_pageviews-1.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/01/3-1-A-orter-sv_pageviews-1.png)
 
 Uppdelningen av 686 Wikipediasidor inom Helsingfors enligt stordistrikt (Wikidata P131\*, P1269, P740, P159, P276, P740) och därefeter instans av (P31). Area visar antalet visningar, mörkare färg betyder relativt längre artiklar.
 

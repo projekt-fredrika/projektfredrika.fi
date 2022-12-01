@@ -29,7 +29,7 @@ It is the first time an art museum opens up a collection this way while the copy
 
 "_Konstsamfundet has made Carlstedt's artwork available without restrictions, which means that anyone can download the images and use them freely. This makes Konstsamfundet and the Amos Rex Museum front runners in openness. Never before has an art museum opened a collection in a similar way when the copyright is still in place and less than 70 years has passed since the artist's death_." says Tove Ørsted, who is a [member of Wikimedia Suomi's board](https://meta.wikimedia.org/wiki/Wikimedia_Suomi) and has many years of experience with the Wikimedia network GLAM ([Galleries, Libraries, Archives and Museums)](https://meta.wikimedia.org/wiki/GLAM)
 
-![](/img/2020/10/lossy-page1-619px-Composition_tournant_77-BC_-_Birger_Carlstedt.tif.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-619px-Composition_tournant_77-BC_-_Birger_Carlstedt.tif.jpg)
 
 Composition tournant
 
@@ -39,7 +39,7 @@ Birger Carlstedt passed away on October 3, 1975, almost 45 years ago. He had no 
 
 As the artwork is now available on Wikimedia Commons, Konstsamfundet disclaims the copyright and makes Birger Carlstedt's heritage digitally available to the public.
 
-![](/img/2020/10/lossy-page1-296px-Serenata_1-12-75_-_Birger_Carlstedt.tif-1.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-296px-Serenata_1-12-75_-_Birger_Carlstedt.tif-1.jpg)
 
 Serenata
 
@@ -47,7 +47,7 @@ Serenata
 
 John Birger Jarl Carlstedt (12 July 1907 in Helsinki – 3 October 1975 in Helsinki) was a Finnish-Swedish painter and a pioneer of Modern Art in Finland. His painting style went through various changes, with influences from Impressionism, Expressionism, Futurism and abstract art. This is the start of the [article about Birger Carlstedt in English Wikipedia](https://en.wikipedia.org/wiki/Birger_Carlstedt). statistik för engelska?
 
-![](/img/2020/10/Birger-Carlstedt-1960-1.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/Birger-Carlstedt-1960-1.jpg)
 
 Birger Carlstedt
 
@@ -59,7 +59,7 @@ When we uploaded the artwork to Wikimedia Commons, we also transferred valuable 
 
 In addition, the artwork is linked to relevant categories and instances of Wikidata. This improves searchability, and links the work of art to both the artist and the current owner.
 
-![](/img/2020/10/lossy-page1-640px-Skiss_för_Le_Chat_Doré_3_11-13-82_3_-_Birger_Carlstedt.tif.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-640px-Skiss_för_Le_Chat_Doré_3_11-13-82_3_-_Birger_Carlstedt.tif.jpg)
 
 Drawing for Le chat Doré
 
@@ -67,7 +67,7 @@ Susanna Ånäs, who is the [GLAM](https://meta.wikimedia.org/wiki/GLAM) coordina
 
 Robert Silén, Wikidata- expert for Projekt Fredrika, has made the above search available as a Wikidata request at [https://w.wiki/UQo](https://w.wiki/UQo). According to this request, Birger Carlstedt’s Moroccan Woman is now one of 803 drawings made with black chalk that are available on Wikimedia Commons.
 
-![](/img/2020/10/lossy-page1-390px-Marockanska_513-BC_-_Birger_Carlstedt.tif.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-390px-Marockanska_513-BC_-_Birger_Carlstedt.tif.jpg)
 
 Moroccan Woman
 

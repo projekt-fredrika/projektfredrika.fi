@@ -60,7 +60,7 @@ En ännu mera avancerad formell för "fisveness" skulle säkert lyfta fram intre
 
 Vi skapade 27.5.2020 kategorin [Finlandssvenska arkitekter](https://sv.wikipedia.org/wiki/Kategori:Finlandssvenska_arkitekter) som idag innehåller 21 personer. Wikidata hittar ytterligare 22 finlandssvenska arkitekter som kunde läggas till i kategorin.
 
-![](/img/2021/02/image-4-1024x646.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/02/image-4-1024x646.png)
 
 Exempel på objekt i Helsingfors med arkitekt (P84) finlandssvensk
 

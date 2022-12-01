@@ -37,7 +37,7 @@ Vi piffade också upp flera av de finlandssvenska mediernas artiklar på Wikiped
 
 Vi märkte att det finns en infobox som heter {{Publikation}} som hämtar mycket info som specifikt är relevant för en tidning från Wikidata. Genom att lägga in infoboxen i finlandssvenska medier kunde vi med enkla medel förbättra ett stort antal tidningars sidor. För Finlands första tidning, [Tidningar Utgifne Af et Sällskap i Åbo](https://sv.wikipedia.org/wiki/Tidningar_Utgifne_Af_et_S%C3%A4llskap_i_%C3%85bo), innebar det att artikeln fick en bild.
 
-![](/img/2021/02/image-2-1024x551.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/02/image-2-1024x551.png)
 
 Vi gick också igenom den [finska kategorin för svenskspråkiga tidningar](https://fi.wikipedia.org/wiki/Luokka:Suomalaiset_ruotsinkieliset_lehdet) och markerade dem rätt som svenskspråkiga i Wikidata. Det betyder att de dyker upp i framtida sökningar. På det här sättet hittade vi också fem tidningar som hade artikel på svenska men saknades i [kategorin Finlandssvenska tidningar](https://sv.wikipedia.org/wiki/Kategori:Finlandssvenska_tidningar) och kunde lägga till dem.
 

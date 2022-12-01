@@ -35,7 +35,7 @@ Kartans punkter är hämtade från Wikidata - den strukturerade relationsdatabas
 
 Öppna alternativet till Google Maps är OpenStreetMap. Det går att visa punkterna på OSM med t.ex. franska gratistjänsten uMap (se exemplet nedan), men vi valda att utnyttja Google Maps denna gång.
 
-![](/img/2022/10/Screenshot-2022-10-24-at-22.37.25-1024x300.png)
+![](https://projektfredrika.fi/wp-content/uploads/2022/10/Screenshot-2022-10-24-at-22.37.25-1024x300.png)
 
 OSM karta av skolor och vandringsrutt i uMap
 

@@ -25,7 +25,7 @@ Vad har svenska skolor att göra med Helsingfors ansikte utåt? Många skolor ha
 
 Vilken skola i Helsingfors gick marskalk Mannerheim? Programmeraren Linus Torvalds, eller Michael Widenius? Ishockeyspelaren Anton Lundell? Svaret är Bööks, Norsen, Lönkan och Brändö. Dessa personer och många fler har vi fyllt på i flera av skolornas artiklars alumnlistor.
 
-![](/img/2021/03/HKMS000005_km0037aq-1024x637.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2021/03/HKMS000005_km0037aq-1024x637.jpg)
 
 Svenska normallyceum eller Norsen år 1890, fotograf Daniel Nyblin.
 
@@ -33,7 +33,7 @@ Svenska normallyceum eller Norsen år 1890, fotograf Daniel Nyblin.
 
 Vad fanns i den ståtliga byggnaden på Bulevarden 18? Jo, den enda skolan på engelska Wikipedia: före detta [Bullan](https://sv.wikipedia.org/wiki/Svenska_fruntimmersskolan_i_Helsingfors), Svenska fruntimmersskolan i Helsingfors (1844-1974). Kanske artikeln finns på engelska för att dess skolbyggnad nuförtiden inhyser European School in Helsinki. Vi lade till alumner i både den [engelska](https://en.wikipedia.org/wiki/Svenska_fruntimmersskolan_i_Helsingfors) och den [svenska](https://sv.wikipedia.org/wiki/Svenska_fruntimmersskolan_i_Helsingfors) artikeln och satte Wikidata-objekten att peka på varandra ([Q20083717](https://www.wikidata.org/wiki/Q20083717) och [Q26254586](https://www.wikidata.org/wiki/Q26254586)).
 
-![](/img/2021/03/Swedish_school_for_girls_in_Helsinki.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2021/03/Swedish_school_for_girls_in_Helsinki.jpg)
 
 Svenska fruntimmersskolan i Helsingfors på Bulevarden 18 år 1892.
 
@@ -43,7 +43,7 @@ Det är inte precis lätt att snabbt förstå helheten av utbildning och skolor 
 
 I egenskap av en person född på 80-talet som själv gått i en "yhteiskoulu" trodde jag länge att samskola syftade på att skolan i fråga inhyste högstadium och gymnasium - inte att det är för pojkar _**och** flickor._
 
-![](/img/2021/03/HKMS000005_00000wat.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2021/03/HKMS000005_00000wat.jpg)
 
 Fysiklektion i Läroverket för gossar och flickor (Broban) år 1927. Skolan var den första i Finland som riktade sig till både gossar och flickor.
 
@@ -51,13 +51,13 @@ Under detta projekt lärde jag mig att 70-talet verkar ha varit turbulent med av
 
 Vi tog ett första steg för att göra det hela mera överskådligt på Wikipedia genom att skapa navigationsrutan "Svenska lärdomsskolor i Helsingfors fram till 1977" som nu finns med i de åtta artiklarna som finns hittills - de blåa länkarna.
 
-![](/img/2021/03/image-1024x163.png)
+![](https://projektfredrika.fi/wp-content/uploads/2021/03/image-1024x163.png)
 
 _Skärmdump 19.3.2021 av navrutan_ Svenska lärdomsskolor i Helsingfors fram till 1977 _från Bullans sida_
 
 Navrutan är knappast komplett och färdig. Hade Östra svenska läroverket något smeknamn? Vi välkomnar förbättringar!
 
-![](/img/2021/03/HKMS000005_km003yq8-1024x788.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2021/03/HKMS000005_km003yq8-1024x788.jpg)
 
 Svenska Lyceum, eller "Revan", år 1961. Skolbyggnaden på Elisabethsgatan 13 ritades av Theodor Decker och stod klar 1901.
 

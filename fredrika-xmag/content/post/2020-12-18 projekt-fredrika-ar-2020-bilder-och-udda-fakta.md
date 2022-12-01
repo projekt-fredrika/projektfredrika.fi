@@ -24,7 +24,7 @@ Fredrika bland folket
 
 I januari 2020 körde vi igång med kurser och föreläsningar. Först Borgå i januari, Korsholm i februari och Vasa i början av mars. Därefter var det meningen att vi skulle till Åbo och Helsingfors senare samma månad. 
 
-![](/img/2020/12/IMG_20200128_200344_009-1024x768.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/12/IMG_20200128_200344_009-1024x768.jpg)
 
 Projekt Fredrika i Borgå i januari 2020.
 
@@ -42,7 +42,7 @@ Vad gör Projekt Fredrika, och vad är skillnaden på Wikipedia, Wikimedia och W
 
 Sedan tidigare hade vi ju främst jobbat på nätet, och nu blev det fullt fokus på nätet igen.
 
-![](/img/2020/12/Meme_Template_with_White_Impact_Text_on_Top_and_Bottom-2-1024x1024.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/12/Meme_Template_with_White_Impact_Text_on_Top_and_Bottom-2-1024x1024.jpg)
 
 Minns ni då toapappret plötsligt gick åt som smör i solsken? Den här  
 bilden delade Projekt Fredrika på sociala medier i slutet av mars 2020.
@@ -54,7 +54,7 @@ Ett av årets mest spännande projekt var arbetet med att överföra 40 av konst
 
 I bloggtexten [Birger Carlstedts verk finns nu på Wikimedia Commons](https://projektfredrika.fi/birger/) berättar vi mer om varför det är så häftigt, kryddat med kommentarer av Konstsamfundet och Wikimedia Suomi. I texten [Hur Birger Carlstedts verk kom till Wikimedia Commons](https://projektfredrika.fi/the-making-of-birger/) går vi mer i detalj in på hur processen såg ut från idéstadiet till stunden då de sista licenserna godkändes.
 
-![](/img/2020/10/lossy-page1-596px-Picnic_17-BC_-_Birger_Carlstedt.tif-1.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-596px-Picnic_17-BC_-_Birger_Carlstedt.tif-1.jpg)
 
 Birger Carlstedts tavlor chillar nu på nätet som öppen data.
 

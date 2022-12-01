@@ -19,12 +19,12 @@ _build:
 
 Projekt Fredrika samlades till sommarträff hos Kaj i Nagu med glada miner och ivriga armbågshälsningar. Vi hade två mycket trevliga och samtidigt även väldigt produktiva dagar.
 
-![](/img/2020/08/IMG-20200825-WA0001-1024x768.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/08/IMG-20200825-WA0001-1024x768.jpg)
 
 Kaj, Lina, Micha och Tobias hos Kaj i Nagu. Robert bakom kameran.
 
 Förutom Kaj deltog Robert, Tobias, Micha och Lina i träffen. Därtill möttes vi virtuellt med flera andra samarbetsparter. Vi varvade möten och telefonkonferenser med rekreation i form av promenader och en båtutflykt till Älveskär. På Älveskär fick vi förstärkning av Roberts kusin, skådespelaren Riko Eklund.
 
-![](/img/2020/08/IMG-20200825-WA0002-1024x768.jpg)
+![](https://projektfredrika.fi/wp-content/uploads/2020/08/IMG-20200825-WA0002-1024x768.jpg)
 
 Projekt Fredrika förbättrar världen i badbaljan på kvällskvisten.
