@@ -19,7 +19,7 @@
   <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
   <div class="date-author">
     {{ if .Params.author }}<span class="author">{{ partial "author_names.html" . }}</span> / {{ end }}
-    <span class="date">{{ .Date.Format "2006-01-02" }}</span>
+    <span class="date">{{ .Date.Format "02.01.2006" }}</span>
   </div>
   <div class="summary">
     <a href="{{ .RelPermalink }}">
