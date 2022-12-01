@@ -55,7 +55,7 @@ Vi tror att det finns flera orsaker till att vi fick så mycket respons av Hbl-l
 
 Vi har samtidigt också lärt oss mycket om Wikipedia-arbete. Det blev mycket tydligt i och med arbetet med skolorna hur avgörande tillgången på källor är. En källa som vi inte hade klarat oss utan var **[Helsingfors skolregister](https://koulurekisteri.hel.fi/#/etsi-koulua)** som vi fick tips om på Twitter.
 
-{{< tweet user="K_KM_K" id="1375006467359715328" >}}
+{{< tweet user="K_KM_K" id=1375006467359715328 >}}
 
 Då det gällde privata skolor hade vi otroligt stor nytta av [**yksityiskoulut.fi**](http://www.yksityiskoulut.fi/yksityiskoulujenmatrikkeli/index3.htm) där Jari Salminen och Yksityiskoulujen Liitto har samlat de finländska privatskolornas matriklar på ett otroligt överskådligt sätt.
 
