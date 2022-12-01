@@ -27,7 +27,7 @@ Rörande källor gäller också det spegelvända. Inte bara är källor grunden 
 
 Projekt Fredrika har valt Vinterkriget och dess användning av källor som ett stickprov för att bli klokare på hur läget ser ut framför vår egen dörr:
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/03/Screenshot-2022-03-08-at-10.18.45-1-1024x663.png)
+![](/img/2022/03/Screenshot-2022-03-08-at-10.18.45-1-1024x663.png)
 
 [Vinterkriget](https://sv.wikipedia.org/wiki/Vinterkriget)\-artikelns källor är en bra utgångspunkt för att fördjupa sig vidare i ämnet. Kolla även [Talvisota](http://fi.wikipedia.org/wiki/Talvisota).
 
@@ -35,7 +35,7 @@ Projekt Fredrika jobbar för det svenska Finland på Wikipedia över språkgrän
 
 Omvänt kan man tittade på en enskild författares publikationer inom Wikipedia:
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/03/Screenshot-2022-03-08-at-11.46.46-1024x741.png)
+![](/img/2022/03/Screenshot-2022-03-08-at-11.46.46-1024x741.png)
 
 Wikipedia artiklar med ISBN-referens till en av historiker Henrik Meinanders böcker.
 
