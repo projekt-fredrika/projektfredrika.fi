@@ -33,36 +33,36 @@ Vår projektfotograf Sofia tog kameran och gick ut och knäppte bilder av många
 
 #### **Här kommer ett bildsvep:**
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/02/Johan-Ludvig-Runeberg-1024x1024.jpg)
+![](/2021/02/Johan-Ludvig-Runeberg-1024x1024.jpg)
 
 Johan Ludvig Runeberg, Walter Runeberg, 1885, Esplanadparken
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/02/Moderskärlek-1024x1024.jpg)
+![](/2021/02/Moderskärlek-1024x1024.jpg)
 
 Moderskärlek, Emil Cedercreutz 1928, Fölskvären
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/02/vattennymfer-1024x1024.jpg)
+![](/2021/02/vattennymfer-1024x1024.jpg)
 
 Vattennymfer, Lek II, Viktor Jansson 1942, Esplanadparken.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/02/Topelius-och-barnen-1024x1024.jpg)
+![](/2021/02/Topelius-och-barnen-1024x1024.jpg)
 
 Topelius och barnen, Ville Vallgren 1932, _Bangatan 2_
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/02/de-skeppsbrutna-1024x1024.jpg)
+![](/2021/02/de-skeppsbrutna-1024x1024.jpg)
 
 _De skeppsbrutna, Robert Stigell, 1898, Observatoriebacken_
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/02/Untitled-7-1024x1024.jpg)
+![](/2021/02/Untitled-7-1024x1024.jpg)
 
 Minnesmärke till Tove Jansson, Ulrikasborgsgatan 1 där Toves ateljé låg.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/02/Jean_Sibelius_Finlandia_1899_Svenska_Teatern_Helsingfors.jpg)
+![](/2021/02/Jean_Sibelius_Finlandia_1899_Svenska_Teatern_Helsingfors.jpg)
 
   
 Minnesplakett på Svenska Teaterns fasad över första spelningen av Jean Sibelius Finlandia.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/02/Skyddskårshuset_Suojeluskuntatalo_1941-1944_minnesplakett_Norra_Hesperiaparken_15_Helsingfors-1024x768.jpg)
+![](/2021/02/Skyddskårshuset_Suojeluskuntatalo_1941-1944_minnesplakett_Norra_Hesperiaparken_15_Helsingfors-1024x768.jpg)
 
 Minnesplakett för skyddskårshuset som fungerade 1941-1944 på Hesperiaparken 15, Helsingfors
 

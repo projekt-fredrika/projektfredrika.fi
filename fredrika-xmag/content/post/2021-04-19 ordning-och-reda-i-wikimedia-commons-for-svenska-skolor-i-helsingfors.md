@@ -38,7 +38,7 @@ Med en systematisk överblick satt vi ordning och reda på bilderna i Commons oc
 6.  För att öka sannolikheten att man hittar en skola ifall man söker på dess smeknamn, så skapade vi omdirigeringar för kategorierna [Norsen](https://commons.wikimedia.org/wiki/Category:Norsen), [Broban](https://commons.wikimedia.org/wiki/Category:Broban), och [Lönkan](https://commons.wikimedia.org/wiki/Category:L%C3%B6nkan). [Lärkan](https://commons.wikimedia.org/wiki/Category:L%C3%A4rkan) existerar från tidigare som ett kvarter i Helsingfors. 
 7.  Kategorier kan preciseras noggrannare med beskrivningar - vi skrev på svenska, finska och engelska för de mest prominenta skolorna med internationellt intresse (Broban, Norsen, Lönkan, Lärkan). 
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/04/image-1-1024x672.png)
+![](/2021/04/image-1-1024x672.png)
 
 [Category:Nya svenska samskolan](https://commons.wikimedia.org/wiki/Category:Nya_svenska_samskolan) med löptext-beskrivning på tre språk samt Wikidatabaserad infobox till höger.
 

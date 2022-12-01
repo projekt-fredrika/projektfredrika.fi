@@ -25,7 +25,7 @@ Som ett första steg analyserade vi hur finlandssvenska vetenskapspersoner är r
 
 Vilken **enskild** biografisk artikel som läses mest varierar mellan språken, likaså vilken **yrkesgrupp**. På svenska, finska, engelska och kinesiska är artiklar om nationalekonomer populärast bland de finlandssvenska vetenskapspersonerna, men på ryska och japanska är det geologer. Mer om den analysen finns i [blogg](https://projektfredrika.fi/vetenskapspersoner/)
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-11.png)
+![](/2021/01/image-11.png)
 
 Så här ser det ut på japanska. Rutfönstret ovan visar yrkesgrupper bland finlandssvenska vetenskapspersoner och det nedan visar enskilda artiklar. Rutornas storlek anger hur lästa artiklarna är (störst ruta = mest läst) och färgen anger hur långa artiklarna är (mörkare färg = längre artikel)
 
@@ -61,17 +61,17 @@ https://twitter.com/eftersnack/status/1350054183643324416
 
 Roligt med trevlig respons!
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-13-1024x653.png)
+![](/2021/01/image-13-1024x653.png)
 
 [Ett inlägg delat av Projekt Fredrika (@projektfredrika)](https://www.instagram.com/p/CJ6AfMWM4oD/?utm_source=ig_embed&utm_campaign=loading)
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-14-1024x657.png)
+![](/2021/01/image-14-1024x657.png)
 
 [https://www.instagram.com/p/CJ\_IvQrAj\_b/?utm\_source=ig\_web\_copy\_link](https://www.instagram.com/p/CJ_IvQrAj_b/?utm_source=ig_web_copy_link)
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-15-1024x661.png)
+![](/2021/01/image-15-1024x661.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-16-1024x650.png)
+![](/2021/01/image-16-1024x650.png)
 
   
   

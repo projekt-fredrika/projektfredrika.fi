@@ -33,7 +33,7 @@ I den här texten vill vi dela med oss av våra erfarenheter och öppna upp proc
 
 Tanken på att överföra Birger Carlstedts verk till Wikimedia Commons föddes i samband med utställningen i Amos Rex hösten 2019, under diskussioner mellan Konstsamfundets vd Stefan Björkman och Projekt Fredrikas styrelseordförande Kaj Arnö.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-585px-Skiss_för_Le_Chat_Doré_2_11-13-82_2_-_Birger_Carlstedt.tif-1.jpg)
+![](/2020/10/lossy-page1-585px-Skiss_för_Le_Chat_Doré_2_11-13-82_2_-_Birger_Carlstedt.tif-1.jpg)
 
 Skiss för Le chat Doré
 
@@ -43,7 +43,7 @@ Nästa steg var att fundera hur vi konkret skulle överföra bilderna inklusive 
 
 Lina Winqvist kopplade in Wikimedia Suomi, och började tillsammans med Lajos Parkatti, Susanna Ånäs, Tove Ørsted och Kimmo Virtanen utreda hur det bäst kunde göras. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-596px-Picnic_17-BC_-_Birger_Carlstedt.tif-2.jpg)
+![](/2020/10/lossy-page1-596px-Picnic_17-BC_-_Birger_Carlstedt.tif-2.jpg)
 
 Vi träffades flera gånger, dock under mer professionella omständigheter än personerna på Birgers picknick.
 
@@ -53,7 +53,7 @@ I den tekniska delen av processen var Susanna Ånäs oumbärlig. Hon visade oss 
 
 Innan överföringen kunde ske måste informationen bearbetas i kalkylblad och kodas på rätt sätt. Susanna hjälpte oss dessutom att koppla bilderna till Wikidata genom att skapa Q-koder för konstverken i fråga. Robert Silén hade en central roll här, och även Lajos Parkatti, Lina Winqvist, Tove Ørsted och Kimmo Virtanen bidrog på olika sätt till den här delen av processen.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/10/image-1024x606.png)
+![](/2020/10/image-1024x606.png)
 
 Templat som väntar på att befolkas av data
 
@@ -63,7 +63,7 @@ Wikipedia har en process för att så långt det går kunna säkerställa att de
 
 OTRS står för _Open-source Ticket Request System_ och [hanterar licensmedgivanden](https://commons.wikimedia.org/wiki/Commons:OTRS/sv#Mallar_att_anv%C3%A4nda_p%C3%A5_filbeskrivningssidor) för filer som läggs upp av någon annan än upphovsrättsinnehavaren på Wikimedia Commons. För att en fil ska godkännas måste ägaren (i det här fallet Konstsamfundet) skicka ett skriftligt medgivande [som följer en viss mall](https://commons.wikimedia.org/wiki/Template:Email_templates/Consent/sv) till [permissions-sv@wikimedia.org](mailto:permissions-sv@wikimedia.org).
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-447px-Skräck_birger_Carlstedt.tif.jpg)
+![](/2020/10/lossy-page1-447px-Skräck_birger_Carlstedt.tif.jpg)
 
 Delar av processen förde tankarna till "Skräck" av Birger Carlstedt.
 
@@ -73,7 +73,7 @@ Att Wikipedia är ett samarbetsprojekt blev mycket tydligt i arbetet med att öv
 
 Vi har dessutom fått nyttiga tips och råd då vi öppet bett om hjälp på Wikipedia. Trots att vi fick en massa hjälp på vägen och Wikipedia har verktyg och processer som underlättar blev det en hel del motgångar, försök och misstag innan projektet var i hamn. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/10/lossy-page1-390px-Tvättinrättningen_12-BC_-_Birger_Carlstedt.tif.jpg)
+![](/2020/10/lossy-page1-390px-Tvättinrättningen_12-BC_-_Birger_Carlstedt.tif.jpg)
 
 Mångas arbetsinsats ligger bakom att bilderna nu är på Wikimedia Commons.
 

@@ -57,7 +57,7 @@ Så fort vi fick in namn började vi kolla upp dem. En del av dem vi fick tips o
 
 **Här har vi samlat alla de tips vi fick:**
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/03/Untitled-10-1024x1024.jpg)
+![](/2021/03/Untitled-10-1024x1024.jpg)
 
 Nästa steg var att börja skriva! Det är inte första gången Projekt Fredrika tittar på finlandssvenska idrottare. I maj ifjol granskade vi [kategorin finlandssvenska idrottare på svenska Wikipedia](https://projektfredrika.fi/idrottare/), i och med [Svenska Yles satsning på Svenskfinlands 50 största idrottshjältar](https://svenska.yle.fi/artikel/2020/04/20/rankning-svenskfinlands-50-storsta-idrottshjaltar-genom-tiderna).
 

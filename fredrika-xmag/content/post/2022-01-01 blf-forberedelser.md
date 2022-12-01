@@ -109,7 +109,7 @@ Tittar vi på utrikiska språk är ordningsföljden kanske inte den väntade. F�
 
 ###  Venn-diagram över saknade artiklar
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/venn-diagram-04-2022-1024x738.png)
+![](/2022/04/venn-diagram-04-2022-1024x738.png)
 
 Venn-diagram över vilka språk BLFs 1637 artiklar har motsvarande Wikipedia artikel på. T.ex. finns det 1538 BLF:are på svenska Wikipedia, av vilka 959 också finns på finska och engelska, men 26 har inte alls artikel på svenska, finska eller engelska. Diagrammen jämför svenska-finska-engelska, svenska-norska-danska, svenska-franska-tyska samt svenska-ukrainska-ryska.
 
@@ -135,7 +135,7 @@ Det _svenska kulturarvet i Finland_ kan man vilja _förmedla_ även till en utl�
 
 Men enbart **antalet** artiklar ger begränsad insikt. Endel artiklar läses ju mycket, andra mindre. Vi har tittat på **lässtatistiken** från 10.3.2021 - 9.3.2022. Dessa läsningar har vi åskådliggjort enligt Voronojs metodik att dela in rektanglar rekursivt.
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-724x1024.png)
+![](/2022/04/blf-all-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar kopplade till BLFs artiklar i Wikidata (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
@@ -153,7 +153,7 @@ Voronoj ger oss chansen att iaktta små nyansskillnader mellan språken: På eng
 
 Här har vi samma bild, utan regenter:
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-724x1024.png)
+![](/2022/04/blf-all-ur-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
@@ -165,11 +165,11 @@ Punkten där vi kan behöva hjälp gäller den relativa satsningen på olika spr
 
 Vi började med att göra denna uppmärksamhetsstatistik **enbart för svenska**. Där rankar Tove Jansson etta. Hennes artikel är ungefär lika lång på BLF och svenska Wikipedia, men hon har så förbålt många läsningar att hon platsar före – vem annan än – Atos Wirtanen; en händelse som ser ut som en tanke. Atos har bara 30.000 visningar mot Toves 160.000, men Atos' artikel på BLF är nästan fyra gånger längre än på svenska Wikipedia. Trea på listan är Gustaf Mannerheim, som är både välläst och försedd med en bättre BLF-artikel än svenska Wikipedia. Efter dessa kommer diverse kungligheter (tsar Nikolaj II, Gustav IV Adolf, Adolf Fredrik), för vilka nyckeltalet indikerar högt intresse, men deras koppling till det svenska Finland är förstås inte lika intim som topp-tre-personernas. Nåväl, rankinglistan är intressant läsning för alla och envar; en form av skvallerkalender för Wikipedia. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-sv-1024x569.png)
+![](/2022/04/blf-index-sv-1024x569.png)
 
 Jämförelse av BLF artikelns längd med längden och visningar på svenska Wikipedia. Indexet ger en idé om vilka artiklar är både synliga och har potential för att förbättras med BLFs innehåll. Indexet = visningar \* (BLF längd/wpsv längd)
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-sv-724x1024.png)
+![](/2022/04/blf-all-ur-sv-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar **på svenska** kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
@@ -177,9 +177,9 @@ Voronoi-diagram över visningar av Wikipedia artiklar **på svenska** kopplade t
 
 På finska är ordningen lite annorlunda. Runeberg, Snellman, Topelius, Sibelius är topp fyra. Tove Jansson som femma är inte heller överraskande. Första överraskningen är sexan, Sandels. Han är inte speciellt populär, men hans artikel är mycket kort på finska.
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-fi-1-1024x401.png)
+![](/2022/04/blf-index-fi-1-1024x401.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-fi-724x1024.png)
+![](/2022/04/blf-all-ur-fi-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar **på finska** kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
@@ -189,9 +189,9 @@ På utrikiska rankar kungligheterna först. För dem är det säkert mest SLS-re
 
 Av personer med finländsk bakgrund är ordningen på engelska Gustaf Mannerheim - Tove Jansson - Linus Torvalds, i sjunkande ordning enligt vårt mått på editeransvärdhet. På första sidan finns här en del överraskningsnamn, Aleksandr Kerenskij och Fredrik Idestam.   
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-en-1-1024x400.png)
+![](/2022/04/blf-index-en-1-1024x400.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-en-724x1024.png)
+![](/2022/04/blf-all-ur-en-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar **på engelska** kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
@@ -201,47 +201,47 @@ Vi vill inte dränka dig i siffror och bilder, men nog visa på Voronoj-bilder f
 
 **Tyska**
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-de-2-1024x402.png)
+![](/2022/04/blf-index-de-2-1024x402.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-de-724x1024.png)
+![](/2022/04/blf-all-ur-de-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar **på tyska** kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
 **Franska**
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-fr-1-1024x401.png)
+![](/2022/04/blf-index-fr-1-1024x401.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-fr-1-724x1024.png)
+![](/2022/04/blf-all-ur-fr-1-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar **på franska** kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
 **Norska**
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-no-1-1024x399.png)
+![](/2022/04/blf-index-no-1-1024x399.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-no-724x1024.png)
+![](/2022/04/blf-all-ur-no-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar **på norska** kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
 **Danska**
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-da-1024x400.png)
+![](/2022/04/blf-index-da-1024x400.png)
 
 _\[Voronoi-diagram för danska Wikipedia saknas för tillfället\]_
 
 **Ukrainska**
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-uk-1-1024x399.png)
+![](/2022/04/blf-index-uk-1-1024x399.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-uk-1-724x1024.png)
+![](/2022/04/blf-all-ur-uk-1-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar **på ukrainska** kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 
 **Ryska**
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-index-ru-1024x401.png)
+![](/2022/04/blf-index-ru-1024x401.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2022/04/blf-all-ur-ru-724x1024.png)
+![](/2022/04/blf-all-ur-ru-724x1024.png)
 
 Voronoi-diagram över visningar av Wikipedia artiklar **på ryska** kopplade till BLFs artiklar i Wikidata, **exklusive regenter av Ryssland, Sverige och Danmark** (arean är relativa mängden visningar för 1607 artiklar under 12 månader på sju olika språk)
 

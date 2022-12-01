@@ -30,9 +30,9 @@ Vi är nyfikna vad du tycker om listan: **vem saknas? vem borde ha bättre sida?
 Listan
 ------
 
-Hela listan finns som en [sorterbar lista på Projekt Fredrikas projektsida med statistik på svenska, finska och engelska](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Finlandssvenska_vetenskapspersoner). Alternativt kan man [ladda ner listan som PDF med statistik på 13 språk](https://projektfredrika.fi/wp-content/uploads/2021/01/Finlandssvenska-vetenskapspersoner-080121-v4.pdf).
+Hela listan finns som en [sorterbar lista på Projekt Fredrikas projektsida med statistik på svenska, finska och engelska](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Finlandssvenska_vetenskapspersoner). Alternativt kan man [ladda ner listan som PDF med statistik på 13 språk](/2021/01/Finlandssvenska-vetenskapspersoner-080121-v4.pdf).
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-8-1024x735.png)
+![](/2021/01/image-8-1024x735.png)
 
 Skärmdump av [sorterbar lista på finlandssvenska vetenskapspersoner](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Finlandssvenska_vetenskapspersoner) sorterad enligt antalet visningar på finska Wikipedia
 
@@ -56,7 +56,7 @@ _Följande voronoidiagram_ är ett plock av läs- och längdstatistik på finlan
 
 ### Svenska
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-1024x699.png)
+![](/2021/01/image-1024x699.png)
 
 Svenska Wikipedia: Area är visningar, färg är längden på artikeln.
 
@@ -74,7 +74,7 @@ Topplästa på svenska
 
 ### Finska
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-1-1024x698.png)
+![](/2021/01/image-1-1024x698.png)
 
 Finska Wikipedia: Area är visningar, färg är längden på artikeln.
 
@@ -92,7 +92,7 @@ Topplästa på finska
 
 ### Engelska
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-2-1024x698.png)
+![](/2021/01/image-2-1024x698.png)
 
 Engelska Wikipedia: Area är visningar, färg är längden på artikeln.
 
@@ -110,7 +110,7 @@ Topp lästa på engelska
 
 ### Ryska
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-3-1024x698.png)
+![](/2021/01/image-3-1024x698.png)
 
 Ryska Wikipedia: Area är visningar, färg är längden på artikeln.
 
@@ -128,7 +128,7 @@ Topp lästa på ryska:
 
 ### Arabiska
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-4-1024x704.png)
+![](/2021/01/image-4-1024x704.png)
 
 Arabiska Wikipedia: Area är visningar, färg är längden på artikeln.
 
@@ -146,7 +146,7 @@ Topp lästa på arabiska:
 
 ### Japanska
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-11.png)
+![](/2021/01/image-11.png)
 
 _Japanska Wikipedia: Area är visningar, färg är längden på artikeln._
 
@@ -164,7 +164,7 @@ Topp lästa på japanska:
 
 ### Kinesiska
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-5-1024x697.png)
+![](/2021/01/image-5-1024x697.png)
 
 Kinesiska Wikipedia: Area är visningar, färg är längden på artikeln.
 

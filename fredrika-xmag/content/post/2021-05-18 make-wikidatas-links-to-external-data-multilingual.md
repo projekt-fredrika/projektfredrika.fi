@@ -29,7 +29,7 @@ One of Wikidata’s strengths is for objects to be linked through IDs to externa
 
 The external data sources may exist in several language versions. The Wikidata user interface even allows separate entries for each P407 "**_language of work or name_**", but the onward pointers lead to one language only. In other words: all the language versions in wikidata.org point at only one of the available language versions, even though several languages have been entered into the **Identifiers** section of the Wikidata object and even though the underlying identifier (eg. P8309 '**_Yle topic ID_**') has well-defined language specific P1630 **_'formatter URL_**' properties, for each P407 '**_language of work or name_**'.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/05/Yle_topic_ID-1024x608.jpeg)
+![](/2021/05/Yle_topic_ID-1024x608.jpeg)
 
 Both of Q6348774 [Kaj Arnö](https://www.wikidata.org/wiki/Q6348774)'s ID-links go the the Finnish language URL, even though both Swedish and Finnish URL formats are available in the Yle Topic ID ([P8309](https://www.wikidata.org/wiki/Property:P8309))
 
@@ -43,7 +43,7 @@ One example: One of the many external sources that has an entry about the countr
 
 However, when you scroll down on Finland’s Wikidata object, [Q33](https://www.wikidata.org/wiki/Q33) at [wikidata.org](http://wikidata.org/) to the entry for HDS-ID, you will only find one ID entry 003353 which will have a link to the article solely in German. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/05/HDS-ID.jpeg)
+![](/2021/05/HDS-ID.jpeg)
 
 Finland ([Q33](https://www.wikidata.org/wiki/Q33)) has the HDS ID 007396 shown as one link to the German page with no direct link to the French nor Italian page.
 
@@ -60,7 +60,7 @@ On Finland [Q33](https://www.wikidata.org/wiki/Q33), clicking [003353](https://h
 
 In the above Swiss HDS-ID case, it is still somewhat understandable that there are no links to other languages than German: There is only one line entered for Finland, without an entry for P407 '**_language of work or name_**' – which makes it acceptable to default to German for HDS [003353](https://hls-dhs-dss.ch/de/articles/003353), but somewhat strange for Q834 known in English as **_Canton of Valais_**, which is reasonable considering its French speaking majority. But the HDS link points to [007396](https://hls-dhs-dss.ch/de/articles/007396), **_Wallis_**, which is the name used by the (sizeable) German minority. An **ideal solution** would thus 'automatically' improve upon the UI within the **_Identifiers_** section of Wikidata objects with properties having several P1630 **_'formatter URL_**' properties, one for each P407 '**_language of work or name_**'. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/05/HDS-Wallis-1024x397.jpeg)
+![](/2021/05/HDS-Wallis-1024x397.jpeg)
 
 The article about Wallis on HDS is available in German, French and Italian, but the Wikidata user interface only shows a link to the German page.
 
@@ -70,7 +70,7 @@ However, there is also a **minimal solution**, not requiring any changes in the 
 
 Case in point: [P8309](https://www.wikidata.org/wiki/Property:P8309) '**_Yle topic ID_**'. For Yle topic ID, it is often the case that topics will only exist in one language. So when clicking through from Q6348774 [Kaj Arnö](https://www.wikidata.org/wiki/Q6348774) to his Yle topic ID [18-284310](https://yle.fi/aihe/t/18-284310) on the line with P407 '**_language of work or name_**' being Q9027 **_Swedish_**, the user will land on the Q1412 Finnish language page [https://yle.fi/aihe/t/18-284310](https://yle.fi/aihe/t/18-284310) instead of the correct Q9027 Swedish language page [https://svenska.yle.fi/t/18-284310](https://svenska.yle.fi/t/18-284310), even though P1630 **_'formatter URL_**' has been properly entered for Swedish for [P8309](https://www.wikidata.org/wiki/Property:P8309) '**_Yle topic ID_**'.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/05/Yle_topic_ID-URL-format-1024x577.jpeg)
+![](/2021/05/Yle_topic_ID-URL-format-1024x577.jpeg)
 
 Yle Topic ID ([P8309](https://www.wikidata.org/wiki/Property:P8309)) has the URL-format entered for Finnish and Swedish
 

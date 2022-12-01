@@ -27,7 +27,7 @@ Let me start by telling the audience that this interview wasn't originally meant
 
 **Gideon**: Of course! But my situation is more complicated than yours. The overall Jewish attitude towards Finland Swedish, linguistically East-Swedish, is a non-trivial topic. And I suppose that is part of what makes you curious enough to ask for this interview, right?
 
-![Gideon Bolotowsky på Helsingfors Bokmässa 2011 https://commons.wikimedia.org/wiki/File:Gideon_Bolotowsky.jpg](https://projektfredrika.fi/wp-content/uploads/2020/11/Gideon_Bolotowsky-989x1024.jpg)
+![Gideon Bolotowsky på Helsingfors Bokmässa 2011 https://commons.wikimedia.org/wiki/File:Gideon_Bolotowsky.jpg](/2020/11/Gideon_Bolotowsky-989x1024.jpg)
 
 Gideon Bolotowsky at the Helsinki Book Fair in 2011. Gideon was the chairman of the Jewish Community of Helsinki from 1989 to 2007. Photo: [Wikimedia Commons CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Gideon_Bolotowsky.jpg)
 
@@ -53,7 +53,7 @@ Gideon Bolotowsky at the Helsinki Book Fair in 2011. Gideon was the chairman of 
 
 **Gideon**: As I told you, well into the 20th century the administration, the academia and the intellectuals were mostly Swedish speaking. The native language of the architect of the synagogue, Bruno Sohlberg, was definitely Swedish. Besides, linguistically Wiborg, which was seized by Stalin post WWII, was the most international city in Finland. The majority spoke Finnish, but the city housed also important minorities, who spoke Swedish, German, Russian and Yiddish. All the minutes and protocols of the meetings within the Jewish Community of Wiborg were written in Yiddish.
 
-![Ritning till Synagoga och skola för Wiborgs judiska församling. https://commons.wikimedia.org/wiki/File:Vyborg_Synagogue.JPG](https://projektfredrika.fi/wp-content/uploads/2020/11/Vyborg_Synagogue.jpeg)
+![Ritning till Synagoga och skola för Wiborgs judiska församling. https://commons.wikimedia.org/wiki/File:Vyborg_Synagogue.JPG](/2020/11/Vyborg_Synagogue.jpeg)
 
 ”Ritning till Synagoga och skola för Wiborgs judiska församling ”by architect Bruno Gerhard Sohlberg in 1905. From [Wikimedia Commons Public Domain](https://commons.wikimedia.org/wiki/File:Vyborg_Synagogue.JPG)
 

@@ -21,7 +21,7 @@ För öars **metadata** synkroniserade vi kategorin [Öar i Helsingfors](https:/
 
 Det finns nästan 200 öar i Helsingfors och de har alla en artikel på svenska Wikipedia. Den del öar har artikel på finska. Länkarna mellan svenska och finska var bristfällig, så vi satt länkarna i skick så att båda språkversionerna hittas lättare i Wikipedia.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/06/öar-hfors-1024x518.png)
+![](/2021/06/öar-hfors-1024x518.png)
 
 Öar i Helsingfors på Wikidata
 

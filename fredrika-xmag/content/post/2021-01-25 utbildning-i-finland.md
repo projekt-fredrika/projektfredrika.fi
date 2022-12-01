@@ -25,7 +25,7 @@ De topp tre mest lästa svenska artiklarna i [Kategorin Utbildning i Finland](ht
 
 Platserna 4-10 är mera Finlandsbetonade: [Obligatorisk svenskundervisning i Finland](https://sv.wikipedia.org/wiki/Obligatorisk_svenskundervisning_i_Finland), [Sameskola](https://sv.wikipedia.org/wiki/Sameskola), utbildningsminister [Li Andersson](https://sv.wikipedia.org/wiki/Li_Andersson), [Lågstadium](https://sv.wikipedia.org/wiki/L%C3%A5gstadium), [Åbo Akademi](https://sv.wikipedia.org/wiki/%C3%85bo_Akademi), [Grundskolan i Finland](https://sv.wikipedia.org/wiki/Grundskolan_i_Finland) och [Helsingfors Universitet](https://sv.wikipedia.org/wiki/Helsingfors_universitet).
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-24.png)
+![](/2021/01/image-24.png)
 
 _Utbildningsminister_ [Li Andersson](https://sv.wikipedia.org/wiki/Li_Andersson) _- Projekt Fredrika har skapat den saknade artikeln_ [Undervisnings- och kulturministeriet](https://sv.wikipedia.org/wiki/Undervisnings-_och_kulturministeriet)_._
 
@@ -35,9 +35,9 @@ På plats 11 finns huvudartikeln [Utbildning i Finland](https://sv.wikipedia.org
 
 Kategorin [Svenskspråkiga grundskolor i Finland](https://sv.wikipedia.org/wiki/Kategori:Svenska_grundskolor_i_Finland), som Projekt Fredrika har skapat, innehåller rätt så få artiklar - vilket är överraskande då finska Wikipedias motsvarande [Suomen ruotsinkieliset peruskoulut](https://fi.wikipedia.org/wiki/Luokka:Suomen_ruotsinkieliset_peruskoulut) har mångdubbelt med artiklar. Det beror främst på att [svenska Wikipedias relevanskriterier för skolor](https://sv.wikipedia.org/wiki/Wikipedia:Relevanskriterier#Skolor_och_bibliotek) har som regel att _“Kommunala grundskolor och liknande kan i allmänhet beskrivas i artikeln om kommunen eller dess skolförvaltning”_ - vilket är [annorlunda](https://fi.wikipedia.org/wiki/Wikipedia:Poistok%C3%A4yt%C3%A4nt%C3%B6/Suuntaviivoja) på finska Wikipedia. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-25.png)
+![](/2021/01/image-25.png)
 
-_Svenskspråkiga grundskolor, gymnasium och yrkesskola har oftare artikel på finska Wikipedia än svenska (sid 22 från_ [Det svenska Finland på Wikipedia](https://projektfredrika.fi/wp-content/uploads/2020/12/Det_svenska_Finland_pa_Wikipedia_2020-11b.pdf)_)._
+_Svenskspråkiga grundskolor, gymnasium och yrkesskola har oftare artikel på finska Wikipedia än svenska (sid 22 från_ [Det svenska Finland på Wikipedia](/2020/12/Det_svenska_Finland_pa_Wikipedia_2020-11b.pdf)_)._
 
 Artikeln [Lista över svenskspråkiga skolor i Storhelsingfors](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenskspr%C3%A5kiga_skolor_i_Storhelsingfors) ger en regional helhetsbild. Sådana listor kräver inte att skolorna i sig har en egen artikel. Motsvarande listor kunde bra göras för andra områden. 
 
@@ -45,15 +45,15 @@ Vi har gjort om listan till en sorterbar tabell med källhänvisningar till [sve
 
 Antalet artiklar i Kategorin [Svenskspråkiga **gymnasier** i Finland](https://sv.wikipedia.org/wiki/Kategori:Svenska_gymnasier_i_Finland) ser bättre ut men är bristfällig - vi räknar att 18 av 35 gymnasium är utan Wikipediasida. [Relevanskriterierna](https://sv.wikipedia.org/wiki/Wikipedia:Relevanskriterier#Skolor_och_bibliotek) är positivare för gymnasium och lyder _“ Offentliga universitet, högskolor, folkhögskolor och gymnasieskolor kan i allmänhet ha egna artiklar.”_ Hösten 2020 förbättrade Projekt Fredrika artikeln om [Vasa övningsskola](https://sv.wikipedia.org/wiki/Vasa_%C3%B6vningsskola) på svenska. Många flera gymnasier kunde ha egen artikel på svenska. Till gymnasium utan artikel på varken svenska eller finska hör [Hangö](https://sv.wikipedia.org/wiki/Hang%C3%B6), [Kyrkslätt](https://sv.wikipedia.org/wiki/Kyrksl%C3%A4tt), [Pedersöre](https://sv.wikipedia.org/wiki/Peders%C3%B6re), och [Virkby](https://sv.wikipedia.org/wiki/Virkby). [Se hela listan på gymnasium här](https://docs.google.com/spreadsheets/d/16R_M4JboS4NUk3VtVA17Sny7PnmOmgBzJ-cC3lxMq1Y/edit#gid=0).
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-26.png)
+![](/2021/01/image-26.png)
 
-_Många skolor saknas Wikipediasida (sid 22 från_ [Det svenska Finland på Wikipedia](https://projektfredrika.fi/wp-content/uploads/2020/12/Det_svenska_Finland_pa_Wikipedia_2020-11b.pdf)_). Vi jämförde artiklar med antalet skolor på_ [svenskskola.fi](http://www.svenskskola.fi/skolor/). Se [listan på gymnasium](https://docs.google.com/spreadsheets/d/16R_M4JboS4NUk3VtVA17Sny7PnmOmgBzJ-cC3lxMq1Y/edit#gid=0).
+_Många skolor saknas Wikipediasida (sid 22 från_ [Det svenska Finland på Wikipedia](/2020/12/Det_svenska_Finland_pa_Wikipedia_2020-11b.pdf)_). Vi jämförde artiklar med antalet skolor på_ [svenskskola.fi](http://www.svenskskola.fi/skolor/). Se [listan på gymnasium](https://docs.google.com/spreadsheets/d/16R_M4JboS4NUk3VtVA17Sny7PnmOmgBzJ-cC3lxMq1Y/edit#gid=0).
 
 Att skriva om sitt gymnasium på svenska kunde vara en passlig uppgift för elever. Kanske även i finskspråkiga gymnasier, vilket vore något för [Språkambassadörerna](https://www.kielilahettilaat.fi/) att använda sig av. 
 
 Flera svenskspråkiga **universitet, högskolor och folkhögskolor** finns på Wikipedia, men de har inte en egen kategori på svenska Wikipedia. Finska Wikipedia erbjuder däremot: [Suomen ruotsinkieliset oppilaitokset](https://fi.wikipedia.org/wiki/Luokka:Suomen_ruotsinkieliset_oppilaitokset). Motsvarande kategori kunde skapas på svenska.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-27-1024x620.png)
+![](/2021/01/image-27-1024x620.png)
 
 Storängens skola åk 1-9 samt daghem, med artikel på [finska](https://fi.wikipedia.org/wiki/Stor%C3%A4ngens_skola).
 
@@ -69,7 +69,7 @@ Skolbyggnader och nuvarande skolor behandlas ofta i skilda Wikipedia artiklar. T
 
 För att göra framtida listor och analyser lättare har Projekt Fredrika markerat svenskspråkiga utbildningsorganisationer i Finland på Wikidata med officiellt språk (P37) svenska på Wikidata - [sökningen](https://query.wikidata.org/#%23%20skolor%20med%20officiellt%20spr%C3%A5k%20svenska%20i%20Finland%0ASELECT%20DISTINCT%20%3Fskola%20%3FskolaLabel%20%3Finstansav%20%3FinstansavLabel%20%3Fwpsv_title%20%3Fwpfi_title%20%3Fcoords%0AWHERE%20%0A%7B%0A%20%20%3Fskola%20wdt%3AP37%20wd%3AQ9027.%0A%20%20%3Fskola%20wdt%3AP17%20wd%3AQ33.%20%0A%20%20%3Fskola%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ5341295.%0A%20%20%3Fskola%20wdt%3AP31%20%3Finstansav.%0A%20%20OPTIONAL%20%7B%20%3Fskola%20wdt%3AP625%20%3Fcoords%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpsv%20schema%3Aabout%20%3Fskola%20.%20%3Fwpsv%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fsv.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpsv_title.%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpfi%20schema%3Aabout%20%3Fskola%20.%20%3Fwpfi%20schema%3AisPartOf%20%3Chttps%3A%2F%2Ffi.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpfi_title.%7D%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22sv%2Cfi%2Cen%2C%5BAUTO_LANGUAGE%5D%22.%20%7D%0A%7D%0AORDER%20BY%20%3FinstansavLabel%20%3FskolaLabel) ger i skrivandes stund 60 unika rader som resultat. (dubbletter i resultatet beror på skolor med flera roller tex grundskola och gymnasie)
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/skolor-i-finland-1-1024x606.png)
+![](/2021/01/skolor-i-finland-1-1024x606.png)
 
 Svenskspråkiga utbildningsorganisationer med koordinater (P625) i Wikidata - generera kartan från Wikidata [här](https://query.wikidata.org/#%23defaultView%3AMap%0A%23%20skolor%20med%20officiellt%20spr%C3%A5k%20svenska%20i%20Finland%0ASELECT%20DISTINCT%20%3Fskola%20%3FskolaLabel%20%0A%23%3Finstansav%20%3FinstansavLabel%20%0A%3Fwpsv_title%20%3Fwpfi_title%20%3Fcoords%0AWHERE%20%0A%7B%0A%20%20%3Fskola%20wdt%3AP37%20wd%3AQ9027.%0A%20%20%3Fskola%20wdt%3AP17%20wd%3AQ33.%20%0A%20%20%3Fskola%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ5341295.%0A%20%20%3Fskola%20wdt%3AP31%20%3Finstansav.%0A%20%20%3Fskola%20wdt%3AP625%20%3Fcoords%0A%20%20OPTIONAL%20%7B%20%3Fwpsv%20schema%3Aabout%20%3Fskola%20.%20%3Fwpsv%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fsv.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpsvtitle.%20BIND%28CONCAT%28%22wp-svenska%3A%20%22%2C%3Fwpsvtitle%29%20AS%20%3Fwpsv_title%29%7D%0A%20%20OPTIONAL%20%7B%20%3Fwpfi%20schema%3Aabout%20%3Fskola%20.%20%3Fwpfi%20schema%3AisPartOf%20%3Chttps%3A%2F%2Ffi.wikipedia.org%2F%3E%3Bschema%3Aname%20%3Fwpfititle.%20BIND%28CONCAT%28%22wp-finska%3A%20%22%2C%3Fwpfititle%29%20AS%20%3Fwpfi_title%29%7D%0A%20%20%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22sv%2Cfi%2Cen%2C%5BAUTO_LANGUAGE%5D%22.%20%7D%0A%7D%0AORDER%20BY%20%3FinstansavLabel%20%3FskolaLabel)
 

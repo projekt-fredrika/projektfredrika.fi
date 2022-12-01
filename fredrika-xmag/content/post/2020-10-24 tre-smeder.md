@@ -29,7 +29,7 @@ Vi ska i första hand satsa på **icke-svenska** Wikipedia och **Wikidata**.
 
 Vi ska se till att H:fors framstår som den **tvåspråkiga** stad den är, och den **majoritetssvenskspråkiga** stad den varit.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/10/2015-08-26_IMG_5148-1024x579.jpg)
+![](/2020/10/2015-08-26_IMG_5148-1024x579.jpg)
 
 Svenska Teatern
 
@@ -53,7 +53,7 @@ Vi har redan övat, på två sätt. 
 
 Dels har läsare av Uppslagsverket Nagu fått ta del av Nagu-relaterade uppslagsord på finska, engelska, tyska, franska och estniska, och läsa enskilda ströartiklar på norska, nordsamiska, holländska och arabiska. Dessa artiklar har inte kommit till helt av sig själva, utan huvudsakligen hört till uppdraget vi fick av Sparbanksstiftelsen i Nagu.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/05/UNagu_digital_1112_Sida_001-709x1024.png)
+![](/2020/05/UNagu_digital_1112_Sida_001-709x1024.png)
 
 Dels har vi redigerat Wikipedia-artiklar på över 40 språk, med djupdykningar speciellt på finska, engelska, tyska och franska. Detta både för att lära oss hur de olika Wikipedia-gemenskaperna fungerar, och för att bygga upp ett nätverk av modersmålstalare med intresse för det svenska Finland. 
 
@@ -73,7 +73,7 @@ Vi ska se till att på Wikimedia förekommande **utrikiska kartor** också har n
 
 Vi ska ge vissa särskilda **artiklar** särskild betydelse, typ **Sveaborg**, och använda akademisk kunskap då vi funderar ut namnbruket. "Heter Sveaborg något på engelska?".
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/10/2018-12-15_IMG_4684-1024x768.jpg)
+![](/2020/10/2018-12-15_IMG_4684-1024x768.jpg)
 
 Stockmann
 
@@ -85,9 +85,9 @@ Det är Fredrika som fått medlen, och Fredrika som ska förverkliga de konkreta
 
 För Wikipedia är **källor** a och o. Man fabulerar inte fritt på Wikipedia, utan måste ange källor för uppgifter, också om det enbart skulle gälla språkvarianter av namn. Lite vem som helst kan hjälpa oss genom att påtala gedigna verk med god överblick över Helsingfors, dess historia, stadsdelar, byggnader. Endel mer ålderstigna böcker kan vara svårtillgängliga, och då uppskattar vi om vi får låna dem.
 
-*   ![](https://projektfredrika.fi/wp-content/uploads/2020/10/Hfors-parm-682x1024.jpg)
+*   ![](/2020/10/Hfors-parm-682x1024.jpg)
     
-*   ![](https://projektfredrika.fi/wp-content/uploads/2020/10/hfors-innehall-650x1024.jpg)
+*   ![](/2020/10/hfors-innehall-650x1024.jpg)
     
 
 En god källa: "_Här är Helsingfors_", Ingegerd Lundén Cronström 1964
@@ -102,7 +102,7 @@ Fast vi vet redan nu att namnfrågor kan vara tidskrävande att ändra i. Intres
 
 Hör av er till info@projektfredrika.fi!
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/10/2015-08-26_IMG_5145-766x1024.jpg)
+![](/2020/10/2015-08-26_IMG_5145-766x1024.jpg)
 
 Tre Smeder
 

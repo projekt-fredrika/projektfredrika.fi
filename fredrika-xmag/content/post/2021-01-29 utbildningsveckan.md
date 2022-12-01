@@ -78,4 +78,4 @@ Hur tycker du att "finlandssvenskhet" definieras?
   
   
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/01/image-29-1024x657.png)
+![](/2021/01/image-29-1024x657.png)

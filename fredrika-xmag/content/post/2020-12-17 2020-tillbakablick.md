@@ -23,19 +23,19 @@ _build:
 
 Den som läser Åbo Underrättelser har kanske noterat de korta spalterna om Projekt Fredrika. Den första, [Nagu, världens medelpunkt](https://abounderrattelser.fi/nagu-varldens-medelpunkt/), beskrev hur vi med Nagu som startpunkt började nysta fram helheten kring det svenska Finland på Wikipedia. [Konsten att övertyga andra](https://abounderrattelser.fi/konsten-att-overtyga-andra/) är början på ett tal på Fredrikas fiktiva bolagsstämma inför aktionärerna, dvs. dem som har ett intresse för det svenska Finlands väl och ve. [Talet på Restaurang ÅU](https://abounderrattelser.fi/talet-pa-restaurang-au/) är andra halvan. Indirekt anknytning till Fredrika har också spalten [Det svenska Finland](https://abounderrattelser.fi/det-svenska-finland/), ett genmäle på Mårten Mickos' spalt [Radera svensk](https://abounderrattelser.fi/radera-svensk/). 
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/au-del-2-1024x723.png)
+![](/2020/12/au-del-2-1024x723.png)
 
 ## Tre Smeder gav Fredrika uppmärksamhet
 
 Hösten 2020 har Projekt Fredrika fått rikligt med medieuppmärksamhet. Detta för att Stiftelsen Tre Smeder beviljat oss 50.000 € för projektet [Helsingfors, det svenska Finlands ansikte utåt](https://projektfredrika.fi/tre-smeder/). Detta har synts i [HBL](https://www.hbl.fi/artikel/kaj-arno-soker-svenskkunniga-ambassadorer/) och i [Yles morgonnyheter](https://arenan.yle.fi/audio/1-50672696). Jag har fått beskriva projektet i [Affärstidningen Forum](https://www.forummag.fi/det-svenska-helsingfors) och inför [Tekniska Föreningen i Finland](https://www.hbl.fi/artikel/hbl-kronika-samlade-filosofieingenjorer-ja-vi-finns-faktiskt/).
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/forum-2020-11-913x1024.png)
+![](/2020/12/forum-2020-11-913x1024.png)
 
 ## Fredrika tog tjuvstart inför 2021
 
 Helsingforsprojektet börjar egentligen 2021, men artiklarna och nyhetsinslaget ledde till en liten tjuvstart, med ångan uppe. En sak ledde till en annan. Wikipedia behöver källor, men alltid finns inte bekvämt tillgängliga trovärdiga källor, så vi utvidgade lite vår repertoar. Vi publicerade en intervju på engelska, med Gideon Bolotowsky, talesman för Finlands judar 1989-2007, modersmål svenska. Läs mer i artikeln [About language and the Jews of Finland](https://projektfredrika.fi/de-linguis-iudaeorum-finlandiae/).
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/husis-2020-11-1024x890.png)
+![](/2020/12/husis-2020-11-1024x890.png)
 
 ## Fonderna står för fiolerna
 
@@ -49,7 +49,7 @@ Nu är vår styrka två personer på heltid, ett varierande antal personer för 
 
 Ibland behövs specialkunskap och mer kapacitet. Mikael Johnson har skapat det 24-sidiga PDF-dokumentet "[Det svenska Finland](http://www.projektfredrika.fi/Det_svenska_Finland_pa_Wikipedia_2020-11.pdf)" tillsammans med Robert. Det här är en översikt över alla artiklar om det svenska Finland, på Wikipedia. Tobias Jern har kodat vidare på våra Python-program, tillsammans med mig. Och Sofia Ek har skött allt svårt audiovisuellt – allt från grafik via fotografering till ljudupptagning, samt överföring av dessa till Wikimedia Commons.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/PF2020_Fram-724x1024.png)
+![](/2020/12/PF2020_Fram-724x1024.png)
 
 ## Pro bono-arbete
 
@@ -69,13 +69,13 @@ Det finns tre sorters artiklar som vi anser höra till det svenska Finland. 
 
 Gränsen är flytande, men via Fredrikas Python-program kan vi avgöra vilken grånyans ska utgöra gränsen för vad som är med och vad som lämnas bort. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/voronoi-1-1024x904.png)
+![](/2020/12/voronoi-1-1024x904.png)
 
 ## Programmeringsarbete
 
 År 2020 har personligen för mig inneburit en viss nostalgi till tiden för Fredrikas tillblivelse. Då programmerade jag mycket. "Fredrikas Lupp" analyserade nuläget på Wikipedia – jämförde artiklarnas längd, kvalitet och popularitet (antal lästa sidor) på svenska, finska, engelska och tyska. Sedermera tog Tobias Jern över kodandet, och vi har i år också använt det ryska bolaget Tempesta för kodning, då vår egen kapacitet trutit.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/tabell-2-1024x726.png)
+![](/2020/12/tabell-2-1024x726.png)
 
 Men i år har vi också gjort något helt nytt. Voronoi! Det rör sig om en ukrainsk matematiker från 1800-talet, som hittade på en sorts grafer som blomstrade först med datorernas hjälp. Kolla in vår översikt "[Det svenska Finland](http://www.projektfredrika.fi/Det_svenska_Finland_pa_Wikipedia_2020-11.pdf)" så får du se vår metod att illustrera stora textmassor på ett åskådligt vis. För egen del var det väldigt givande att skapa algoritmen för ritningen och förverkliga den med Python. Koden har sedan används och finslipats av Robert och Mikael.
 

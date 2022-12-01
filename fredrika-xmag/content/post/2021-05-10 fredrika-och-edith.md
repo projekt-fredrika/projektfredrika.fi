@@ -23,7 +23,7 @@ Artikeln i fråga är [Edith Södergran](https://sv.wikipedia.org/wiki/Edith_S%C
 
 Samarbetet fick sin början i februari, då Rahikainen kontaktade oss. Hon hade sett att vi hade en [temavecka där vi fokuserade på finlandssvenska författare](https://projektfredrika.fi/finlandssvenska-forfattare/) och ville göra oss uppmärksamma på att det fanns brister i Wikipediaartikeln om Edith. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/05/Agneta_Rahikainen_02-787x1024.jpg)
+![](/2021/05/Agneta_Rahikainen_02-787x1024.jpg)
 
 Agneta Rahikainen är expert på Edith Södergran.
 
@@ -33,7 +33,7 @@ Enligt Rahikainen porträtterades Edith länge som “en stackars missförstådd
 
 “_Den för fram felaktig information som baserar sig på gamla uppgifter som jag och andra forskare bevisat är fel. Den har en synnerligen värderande och känslomässig ton och som ökar mytbildningen och sentimentaliseringen av Södergran_.” förklarade Rahikainen.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/05/Edith_Södergran_in_her_sickbed_Arosa-1024x673.jpg)
+![](/2021/05/Edith_Södergran_in_her_sickbed_Arosa-1024x673.jpg)
 
 Bilden av Edith har varit väldigt fokuserad på hennes sjukdom.
 
@@ -73,7 +73,7 @@ Att samarbeta med experter är inget nytt för Wikipedia. Grundarna till det dig
 
 Att få experter att bidra till Wikipedia är något som rörelsen överlag kämpar med globalt. Inom en del områden, t.ex. medicin, finns ett nätverk av experter som bidrar till att artiklarna håller måttet. Det är en av orsakerna till att Wikipedias artiklar om coronaviruset håller så hög standard.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/05/Becker_von_Adolf_-_The_Art_Expert_-_Google_Art_Project-769x1024.jpg)
+![](/2021/05/Becker_von_Adolf_-_The_Art_Expert_-_Google_Art_Project-769x1024.jpg)
 
 _Experter finns i många skepnader._ Bilden visar tavlan "konstexpert" av den finlandssvenske målaren [Adolf von Becker](https://sv.wikipedia.org/wiki/Adolf_von_Becker).
 

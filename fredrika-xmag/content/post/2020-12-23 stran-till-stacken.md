@@ -21,25 +21,25 @@ Projekt Fredrika önskar väcka intresset att bidra till Wikipedia med specialku
 
 Jag började jobba fulltid för Fredrika hösten 2020. Har är ett utplock av mina strån till stacken som [hoppeligen](https://sv.wikipedia.org/wiki/Finlandism) även hjälper tända andras nyfikenhet.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/voronoi-1-1024x904.png)
+![](/2020/12/voronoi-1-1024x904.png)
 
 Voronoidiagram från rapporten [Det svenska Finland på Wikipedia](https://projektfredrika.fi/det-svenska-finland-pa-wikipedia/)
 
 **1) Trendordet data science** passar bra för vår helhetsanalys av tiotusentals artiklar: vår färgglada rapport [Det svenska Finland på Wikipedia](https://projektfredrika.fi/det-svenska-finland-pa-wikipedia/) delar in artiklar med hög finlandssvenskhet i personer, orter och övriga. I november fick vi första versionen klar av analysen med hjälp av Mikael Johnsons forskningskunskap, Kaj Arnös programmering i [python](https://sv.wikipedia.org/wiki/Python_(programspr%C3%A5k)) av Voronoidiagram och mina insikter i Wikidata. Vi utnyttjade vårt tidigare arbete: [från 10 till över 2000 finlandssvenskar](https://projektfredrika.fi/wikidata/) och [fönstret mot Wikidata](https://projektfredrika.fi/fonstret-mot-wikidata/). Till vidareutveckling funderar vi hur vi utnyttjar [hur det finlandssvenska är länkat på Wikipedia](https://projektfredrika.fi/hur-ar-det-finlandssvenska-lankat/), samt vilka temaområden behöver noggrannare analys.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/Screenshot-2020-12-23-at-12.33.00-1024x582.png)
+![](/2020/12/Screenshot-2020-12-23-at-12.33.00-1024x582.png)
 
 [Lista över Vegas sommarpratare under 2010-talet](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarpratare_under_2010-talet)
 
 **2) Listor** är nördiga och behändiga, och [Wikipedia har massor av dem](https://sv.wikipedia.org/wiki/Kategori:Listor), men få om svenska Finland. I augusti lade vi upp listor på alla [Yle Vegas sommarpratare](https://sv.wikipedia.org/wiki/Vegas_sommarpratare) sedan 2011 - en värdefull checklist om vem som borde ha artikel på Wikipedia. Det vore intressant med flera liknande referenslistor - jag skapade även [Lista över finlandssvenska tekniker](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_finlandssvenska_tekniker) tack vare bl.a. Henry "Heffe" Ericsson vid [Tekniska Föreningen i Finland](https://sv.wikipedia.org/wiki/Tekniska_F%C3%B6reningen_i_Finland). Föresten, snyggt att [Sommarprat](https://sv.wikipedia.org/wiki/Sommarprat) nuförtiden hänvisar till både Sveriges och Finlands version av svenskspråkiga radioprogrammet.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/Judar_i_Finland-1024x600.png)
+![](/2020/12/Judar_i_Finland-1024x600.png)
 
 [Judar i Finland](https://sv.wikipedia.org/wiki/Judar_i_Finland) på svenska Wikipedia
 
 **3) Judendom** är inte något jag varit speciellt insatt i förut. Kaj intervjuade [Gideon Bolotowsky om språk och judarna i Finland](https://projektfredrika.fi/de-linguis-iudaeorum-finlandiae/), vilket ledde till att jag skapade artikeln [Judar i Finland](https://sv.wikipedia.org/wiki/Judar_i_Finland) som saknades på svenska Wikipedia. Via den blev några fel i engelska artikeln uppenbara och lätta att rätta till. Personligen gav det mej en intressant insyn i Finlands historia om hur saker varit, och icke skall vara för någon minoritet. Vår fotograf Sofia Ek bidrog även med foton av [synagogan](https://sv.wikipedia.org/wiki/Helsingfors_synagoga) och [judiska skolan](https://sv.wikipedia.org/wiki/Judiska_skolan_i_Helsingfors).
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/12/1024px-Finnish_railroad_network-en.svg-cropped.png)
+![](/2020/12/1024px-Finnish_railroad_network-en.svg-cropped.png)
 
 Ett utklipp av Finlands [Järnvägsnäts SVG-karta](https://projektfredrika.fi/jarnvagsnat/)
 

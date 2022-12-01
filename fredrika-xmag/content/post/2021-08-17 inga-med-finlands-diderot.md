@@ -27,7 +27,7 @@ För Finlands [Diderot](https://sv.wikipedia.org/wiki/Denis_Diderot), alltså fa
 
 Wikipedias egen teknik är däremot något som en expert som Henrik inte kan från tidigare, och det är inte meningsfullt för honom att sätta sin tid på det. Vi hjälper gärna till i ett sådant fall, och hittills har vi bland annat fått nöjet av att skapa artikeln [Ingås historia](https://sv.wikipedia.org/wiki/Ing%C3%A5s_historia) med 12 sidor insiktsfull text med pålitliga källhänvisningar, allt utgående från material skrivet av Henrik.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/08/Ingås-historia-augusti-2021-1024x538.png)
+![](/2021/08/Ingås-historia-augusti-2021-1024x538.png)
 
 Skärmdump av pinfärska artikeln [Ingås historia](https://sv.wikipedia.org/wiki/Ing%C3%A5s_historia)
 
@@ -35,7 +35,7 @@ Projekt Fredrikas anställda rullar inte bara tummarna medan frivilliga experter
 
 Före Henrik påbörjade sitt arbete strukturerade Robert om [huvudartikeln om Ingå](https://sv.wikipedia.org/wiki/Ing%C3%A5) och lade till självklarheter som borde vara med. Robert skapade en **navruta** som ger en överblick av de viktigaste artiklarna - navrutan är med på alla artiklar som nämns i den. Vidare städade Robert [Kategori:Ingå](http://sv.wikipedia.org/wiki/Kategori:Ing%C3%A5) där alla Ingå relaterade artiklar finns listade.
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/08/Ingå-navruta-1024x322.png)
+![](/2021/08/Ingå-navruta-1024x322.png)
 
 [Navruta för Ingå](https://sv.wikipedia.org/wiki/Mall:Ing%C3%A5) så som den syns på artikeln [Porkalaområdet](https://sv.wikipedia.org/wiki/Porkalaomr%C3%A5det). 
 
@@ -47,13 +47,13 @@ Henrik har tittat igenom, förbättrat och **Diderot-stämplat** våra verk. Hen
 
 Vi har lagt upp en hel del historiska bilder från den utmärkta vetenskapliga söktjänsten [finna.fi](https://finna.fi/) för de artiklar vi redan skapat. Sajten visar över 900 bilder på sökordet Inkoo och över 200 [på Ingå](https://finna.fi/Search/Results?lookfor=ing%C3%A5&type=AllFields&filter%5B%5D=%7Eformat_ext_str_mv%3A%220%2FImage%2F%22&dfApplied=1&limit=20) - de flesta med Wikipedia-kompatibel licens [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). T.ex. finns där [jaktsällskap på Sadeln](https://finna.fi/Record/sls.SLS+1555_SLS+1555_808), [fisknät på Kalvö nära Barösund](https://finna.fi/Record/spegeln-cultura.etnbild_B_11664), [](https://finna.fi/Search/Results?page=5&filter%5B%5D=%7Eformat_ext_str_mv%3A%220%2FImage%2F%22&lookfor=ing%C3%A5&type=AllFields) [Ekstockar på Andö](https://finna.fi/Record/sls.SLS+428+a_SLS+428a_81), [skyddskårsmanöver i Barösund](https://finna.fi/Record/sls.SLS+1555_SLS+1555_541), och [Stor-Ramsjö](https://finna.fi/Record/museovirasto.1FAE78721CB0FFA1D9FBD01864A44F9B). 
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/08/äldre-bilder-från-Ingå-1024x415.png)
+![](/2021/08/äldre-bilder-från-Ingå-1024x415.png)
 
 Äldre bilder från [finna.fi](https://finna.fi/) som nu pryder artiklarna [Barösund](https://sv.wikipedia.org/wiki/Bar%C3%B6sund), [Sadeln](https://sv.wikipedia.org/wiki/Sadeln,_Ing%C3%A5), [Ingå Kyrkby](https://sv.wikipedia.org/wiki/Ing%C3%A5_kyrkby), [Kopparnäs](https://sv.wikipedia.org/wiki/Kopparn%C3%A4s,_Ing%C3%A5), med flera.
 
 För att pryda Ingås artiklar med moderna bilder, inklusive drönarbilder gjorde fotograf Sofia Ek sommaren 2021 en fotosafari för att illustrera bland annat artiklarna [Ingå](https://sv.wikipedia.org/wiki/Ingå), [Ingå kyrkby](https://sv.wikipedia.org/wiki/Ingå_kyrkby), [Ingå gästhamn](https://sv.wikipedia.org/wiki/Ingå_gästhamn), [Gammelgården](https://sv.wikipedia.org/wiki/Gammelg%C3%A5rden,_Ing%C3%A5), [Barösund](https://sv.wikipedia.org/wiki/Barösund), [Täkter](https://sv.wikipedia.org/wiki/Täkter), [Taborkyrkan](https://sv.wikipedia.org/wiki/Taborkyrkan), [Fagervik](https://sv.wikipedia.org/wiki/Fagervik,_Ingå), [Fagerviks kyrka](https://sv.wikipedia.org/wiki/Fagerviks_kyrka), [Fagerviksvägen](https://sv.wikipedia.org/wiki/Fagerviksvägen) och [Degerbys Igor-museet](https://sv.wikipedia.org/wiki/Degerby_Igor-museet).
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/08/ett-urval-bilder-från-Ingå-1024x619.png)
+![](/2021/08/ett-urval-bilder-från-Ingå-1024x619.png)
 
 Ett urval nya bilder från Ingå som Sofia Ek tog sommaren 2021. Dessa och flera kommer att pryda [Ingå](https://sv.wikipedia.org/wiki/Ing%C3%A5), [Ingå kyrkby](https://sv.wikipedia.org/wiki/Ing%C3%A5_kyrkby), [Ingå gästhamn](https://sv.wikipedia.org/wiki/Ing%C3%A5_g%C3%A4sthamn), [Gammelgården](https://sv.wikipedia.org/wiki/Gammelg%C3%A5rden,_Ing%C3%A5), [Barösund](https://sv.wikipedia.org/wiki/Bar%C3%B6sund), [Täkter](https://sv.wikipedia.org/wiki/T%C3%A4kter), [Taborkyrkan](https://sv.wikipedia.org/wiki/Taborkyrkan), [Fagervik](https://sv.wikipedia.org/wiki/Fagervik,_Ing%C3%A5), [Fagerviks kyrka](https://sv.wikipedia.org/wiki/Fagerviks_kyrka) och [Fagerviksvägen](https://sv.wikipedia.org/wiki/Fagerviksv%C3%A4gen).
 

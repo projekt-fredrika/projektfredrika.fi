@@ -27,9 +27,9 @@ Vi vill åtgärda bristen genom att skapa tydliga listor över sommarpratare, ka
 
 I augusti skapade Robert en [lista över sommarpratare under 2020-talet](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarpratare_under_2020-talet), [artikeln Vegas sommarpratare](https://sv.wikipedia.org/wiki/Vegas_sommarpratare) samt en [kategori för alla dem som sommarpratade år 2020](https://sv.wikipedia.org/wiki/Kategori:Sommarpratare_2020). Nu har jag (Lina) fortsatt genom att [skapa kategorin sommarpratare](https://sv.wikipedia.org/wiki/Kategori:Sommarpratare), en [lista över sommarpratare under 2010-talet](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarpratare_under_2010-talet) samt kategorier för varje enskild sommar, d.v.s. [sommarpratare 2019](https://sv.wikipedia.org/wiki/Kategori:Sommarpratare_2019), [sommarpratare 2018](https://sv.wikipedia.org/wiki/Kategori:Sommarpratare_2018), e.t.c.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/09/image-7-1024x458.png)
+![](/2020/09/image-7-1024x458.png)
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/09/image-1.png)
+![](/2020/09/image-1.png)
 
 S_kärmdump från artikeln_ [Lista över sommarpratar under 2010-talet](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarpratare_under_2010-talet)_._
 
@@ -50,11 +50,11 @@ Då man gör saker som att skapa listor på Wikipedia, är det definitivt en fö
 
 Jag arbetar oftast i den visuella editorn, eftersom den fungerar enligt samma logik som ett vanligt textbehandlingsprogram. Då man ska länka något, till exempel ett namn, markerar man namnet och klickar på den lilla universala länk-symbolen och vips föreslår Wikipedia olika alternativ.  
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/09/image-3.png)
+![](/2020/09/image-3.png)
 
 Ifall personen inte finns på Wikipedia, föreslår Wikipedia en röd länk. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/09/image-2.png)
+![](/2020/09/image-2.png)
 
 Det är ett väldigt smidigt system om man vill länka ett tiotal grejer i en artikel, men inte då man skall länka ett decennium av sommarpratare.
 
@@ -66,7 +66,7 @@ Så här ser Listan över sommarpratare från år 2020 ut i kod-wiki:
 
 Nu ville jag göra samma för 2010-talet. Eftersom svenskarna redan hade listat och länkat alla datum för sina sommarprat, gick jag in i artikeln och kopierade alla datum.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/09/image-6.png)
+![](/2020/09/image-6.png)
 
 _Skärmdump i wiki-läge från artikeln_ [Lista över sommarvärdar under 2010-talet.](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarv%C3%A4rdar_under_2010-talet)
 
@@ -96,7 +96,7 @@ Den fina blå länken för Lauri Kivinen som sommarpratade den 20 juni 2011 ledd
 
 Då du länkar manuellt med den visuella editorn ser du en lista med alla personer med ett visst namn som har en artikel. Sedan kan du själv välja vilken av dem du vill länka till.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/09/image-4.png)
+![](/2020/09/image-4.png)
 
 Då det gällde Rafael Donner, var det [den finlandssvenska författaren](https://sv.wikipedia.org/wiki/Rafael_Donner_(f%C3%B6rfattare)) som sommarpratade och inte [den österrikiska skulptören som levde 1693 till 1741](https://sv.wikipedia.org/wiki/Rafael_Donner_(skulpt%C3%B6r)).
 
@@ -108,7 +108,7 @@ En rolig observation var att det bland de blåa länkarna fanns många artiklar 
 
 Då jag hade skapat kategorier för alla somrar gick jag in i sommarpratarnas artiklar och lade till dem i rätt kategori. För den tekniskt bevandrade finns det program som [QuickCategories](https://quickcategories.toolforge.org/) som gör detta, men det går också att göra manuellt. Jag gjorde det manuellt och passade samtidigt på att kolla artiklarna och lägga in faktarutor i de som saknade.
 
-![](https://projektfredrika.fi/wp-content/uploads/2020/09/image-5.png)
+![](/2020/09/image-5.png)
 
 Då man vill skapa en faktaruta är det enklare att använda kod-wiki, eftersom det finns en magisk trollformel. Lägger man in {{Faktamall biografi WD}} så hämtar programmet all info som finns om personen i Wikidata och skapar en snygg infobox. En förutsättning för att formeln ska funka är att personen finns i Wikidata, vilket alla i detta fall fanns.
 

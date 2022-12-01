@@ -22,7 +22,7 @@ _build:
 Ladda ner Projekt Fredrikas rapport Det svenska Finland på Wikipedia, version 11/2020:
 
 * [Det\_svenska\_Finland\_pa\_Wikipedia\_2020-11b.pdf (24 sidor)
-](https://projektfredrika.fi/wp-content/uploads/2020/12/Det_svenska_Finland_pa_Wikipedia_2020-11b.pdf)
+](/2020/12/Det_svenska_Finland_pa_Wikipedia_2020-11b.pdf)
 
 ## Helhetsöversikt av Wikipedia
 

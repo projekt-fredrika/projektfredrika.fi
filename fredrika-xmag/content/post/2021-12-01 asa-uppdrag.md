@@ -26,7 +26,7 @@ Arbetet har utförts enligt _Wikipedian in Residence_\-konceptet: en WiR är en 
 
 I början av projektet skapade alla i projektet en egen användarsida med information om vem de jobbar för. Dessutom skapade vi en öppen projektsida [Wikipedia:Alandica](https://sv.wikipedia.org/wiki/Wikipedia:Alandica) på svenska Wikipedia som vi delade med i [bybrunnen](https://sv.wikipedia.org/wiki/Wikipedia:Bybrunnen) - diskussionsforumet för de aktiva på svenska Wikipedia. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/11/wikipedia-alandica-projektsida-1024x590.png)
+![](/2021/11/wikipedia-alandica-projektsida-1024x590.png)
 
 _Skärmdump av projektsidan_ [_Wikipedia:Alandica_](https://sv.wikipedia.org/wiki/Wikipedia:Alandica) i november 2021
 
@@ -45,7 +45,7 @@ Vi beaktade förkortningar och gamla namn genom att lägga till ASA på förkort
 
 I marknadsföring och brandskapning är det naturligt att försöka gömma och bli av med gamla benämningar - på uppslagsverket Wikipedia är det tvärtom ett värde att berätta om historiska namn, när de har existerat och varför. 
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/11/image-1024x772.png)
+![](/2021/11/image-1024x772.png)
 
 _Bilder av ASA på Wikimedia Commons_
 
@@ -89,7 +89,7 @@ Vi har nu även skapat artiklar för Sjöfartsprogrammen på engelska och finska
 OpenStreetMap
 -------------
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/11/OSM-ASA-1024x695.png)
+![](/2021/11/OSM-ASA-1024x695.png)
 
 _På OpenStreetMap uppdaterades Ålands sjömansskolan till Alandica Shipping Academy och Sjöfartsprogrammen vid Ålands yrkesgymnasium_
 
@@ -100,6 +100,6 @@ Statistik över alla ändringar i projektet
 
 Det finns många flera ändringar vi gjort i Wikipedia, Wikidata, Wikimedia Commons och OpenStreetMap som inte nämnts i denna blog, till exempel artiklarna [Ålands sjöfartshistoria](https://sv.wikipedia.org/wiki/%C3%85lands_sj%C3%B6fartshistoria), [Skolor på Åland](https://sv.wikipedia.org/wiki/Skolor_p%C3%A5_%C3%85land) och [Åland](https://sv.wikipedia.org/wiki/%C3%85land). Vi har gjort en överblick över artiklar vi redigerat under hösten 2021:
 
-![](https://projektfredrika.fi/wp-content/uploads/2021/11/ASA-Wikipedia-artiklar-1-1024x577.png)
+![](/2021/11/ASA-Wikipedia-artiklar-1-1024x577.png)
 
 _Överblick av skapade och redigerade artiklar hösten 2021: uppladdade bilder, förhållande mellan artiklarna samt antalet visningar under år 2021_
