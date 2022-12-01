@@ -21,7 +21,7 @@ _build:
 
 Ladda ner Projekt Fredrikas årsberättelse för att läsa om det vi gjort och det vi ska göra:
 
-* [Ladda ner Arsberattelse\_Fredrika\_2019.pdf (20 sidor)  ](/2020/05/Arsberattelse_Fredrika_2019.pdf)
+* [Ladda ner Arsberattelse\_Fredrika\_2019.pdf (20 sidor)  ](/filer/Arsberattelse_Fredrika_2019.pdf)
 
 ## Kolla in vår introduktionsserie med styrelseordförande Kaj:
 
