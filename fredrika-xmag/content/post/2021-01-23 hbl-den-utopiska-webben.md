@@ -2,7 +2,7 @@
 title: "Den utopiska webben"
 url: "/hbl-den-utopiska-webben/"
 date: "2021-01-23"
-images: ["/img/Torsten-Fagerholm-Karl-Vilhjálmsson.jpeg"]
+images: ["/img/Torsten-Fagerholm-Karl-Vilhjalmsson.jpeg"]
 author: ['Torsten']
 categories: ['Våra mål']
 tags: ['wikipedia']
