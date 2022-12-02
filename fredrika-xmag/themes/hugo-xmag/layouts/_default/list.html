@@ -23,23 +23,18 @@
   <div class="summary">
     <a href="{{ .RelPermalink }}">
 
-
-      {{ if isset .Params "images" }}
-      {{ range $images := .Params.images }}
-          {{ $image := resources.Get $images }}
-          {{with $image }}
-            <div class="thumbnail"><img src="{{ ($image.Fit "200x100").RelPermalink }}"></div>
-          {{ end }}
-      {{ end }}
-    {{ end }}
-
-
-    {{ with .Description }}
-      {{ $.Scratch.Set "summary" (markdownify .) }}
-    {{ else }}
-      {{ $.Scratch.Set "summary" ((delimit (findRE "(<p.*?>(.|\n)*?</p>\\s*)+" .Content) "[&hellip;] ") | plainify | truncate (default 200 .Site.Params.summary_length) (default " &hellip;" .Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
-    {{ end }}
-    {{ $.Scratch.Get "summary" }}
+{{ with .Params.images }}
+  {{ with index . 0 }}
+    {{ with resources.Get . }}
+    <div class="thumbnail"><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt=""></div>
+    {{ else }} <!-- no img found -->{{ end }}{{ end }}
+{{else}}<!-- no img in parameter -->{{ end }}
+{{ with .Description }}
+     {{ $.Scratch.Set "summary" (markdownify .) }}
+  {{ else }}
+    {{ $.Scratch.Set "summary" ((delimit (findRE "(<p.*?>(.|\n)*?</p>\\s*)+" .Content) "[&hellip;] ") | plainify | truncate (default 200 .Site.Params.summary_length) (default " &hellip;" .Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
+  {{ end }}
+  {{ $.Scratch.Get "summary" }}
     </a>
   </div>
 </section>
