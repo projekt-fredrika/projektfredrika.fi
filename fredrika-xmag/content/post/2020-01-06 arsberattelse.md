@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Årsberättelse 2019](/img/arsberattelse2019.png)
-
-
 ## Årsberättelse
 
 Ladda ner Projekt Fredrikas årsberättelse för att läsa om det vi gjort och det vi ska göra:

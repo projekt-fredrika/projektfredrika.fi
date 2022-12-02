@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Jersey Telecom switchboard and operator](/img/Jersey_Telecom_switchboard_and_operator.jpg)
-
-
 Vad har [glögg](https://sv.wikipedia.org/wiki/Gl%C3%B6gg), [Nils Torvalds](https://sv.wikipedia.org/wiki/Nils_Torvalds), [Kamäxing](https://sv.wikipedia.org/wiki/Kamäxing), [Pidro](https://sv.wikipedia.org/wiki/Pidro) och [örfil](https://sv.wikipedia.org/wiki/Örfil) gemensamt? Vi tog en titt på vad är länkat till det finlandssvenska.
 
 Wikipedias artiklar har länkar sinsemellan. Det är inte bara en behändig egenskap för att läsa om ett obekant begrepp mitt i en Wikipedia-artikel - det ger också möjlighet till analys med en valfri mängd av insyn och komplexitet. 

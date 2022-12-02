@@ -2,7 +2,7 @@
 title: "Det här gjorde vi under utbildningsveckan"
 url: "/utbildningsveckan/"
 date: "2021-01-29"
-images: ["/img/OyCl7Y4y0Bk-2.jpg"]
+images: ["/img/bok-OyCl7Y4y0Bk-2.jpg"]
 author: ['Lina']
 categories: ['Goda seder']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![OyCl7Y4y0Bk](/img/OyCl7Y4y0Bk-2.jpg)
-
 
 Inspirerade av utbildningsmässan Educa valde Projekt Fredrika att titta närmare på utbildning på svenska i Finland den här veckan.
 

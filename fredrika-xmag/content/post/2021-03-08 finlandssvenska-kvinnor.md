@@ -2,7 +2,7 @@
 title: "Finlandssvenska kvinnor i rött"
 url: "/finlandssvenska-kvinnor/"
 date: "2021-03-08"
-images: ["/img/Qu7p6iHSN2s.jpg"]
+images: ["/img/kvinnor-rott.jpg"]
 author: ['Fredrika']
 categories: ['Personer']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![nan](/img/Qu7p6iHSN2s.jpg)
-
 
 _Artiklar om kvinnor är fortfarande i minoritet på Wikipedia. Inför internationella kvinnodagen 8.3 har Projekt Fredrika granskat finlandssvenska kvinnor på Wikipedia._
 

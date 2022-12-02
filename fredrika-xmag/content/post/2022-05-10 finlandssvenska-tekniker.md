@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Eric Magnus Tigerstedt](/img/Eric_Magnus_Tigerstedt.jpeg)
-
-
 »Finlandssvenska **tekniker**» är en samling böcker utgivna av TFiF och TFiF närstående personer. I denna blogginlaga frågar vi oss hur de bäst bevaras för eftervärlden (genom någon form av digitalisering), hur de lämpligen avbildas på Wikipedia och annan öppen data, på svenska och andra språk. Och konkret hur det här kunde se ut som ett sommarjobbsprojekt 2022, så att TFiF:s styrelse kan besluta om det.
 
 Jag har blivit ombedd av TFiFs verksamhetsledare Annika Nylander att kort berätta om vad det här innebär, för TFiF:s styrelsemöte i början av februari 2022. Jag är själv TFiF-medlem, diplomingenjör från Otnäs 1988. Började som fysiker, utexaminerades från produktionsekonomi och studerade mest informationsteknik. Jag var med i TFiF:s styrelse just efter att jag utexaminerats, men fick inte mycket till stånd då. Nu hoppas jag kunna bidra mera.

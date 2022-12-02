@@ -2,7 +2,7 @@
 title: "Kaj Arnö i ÅU: Klockarkärlek"
 url: "/klockarkarlek/"
 date: "2021-04-08"
-images: ["/img/1200px-Turku_Katedralskolan.jpg"]
+images: ["/img/Turku_Katedralskolan.jpg"]
 author: ['Kaj']
 categories: ['Goda seder']
 tags: ['projekt fredrika']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Katedralskolan i Åbo](/img/1200px-Turku_Katedralskolan.jpg)
-
 
 _Den här kolumnen publicerades ursprungligen [i **Åbo Underrättelser** 8.4.2021](https://abounderrattelser.fi/klockarkarlek/) och publiceras här med lov av tidningen._
 

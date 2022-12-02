@@ -2,7 +2,7 @@
 title: "Fredrika Runebergs tårtrecept och andra saker vi gjorde under författarveckan"
 url: "/fredrikas-recept-och-forfattarveckan/"
 date: "2021-02-05"
-images: ["/img/SLSA_1160_SLSA_1160_364-scaled.jpg"]
+images: ["/img/runeberg-SLSA_1160_SLSA_1160_364-scaled.jpg"]
 author: ['Lina']
 categories: ['Finland']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Runeberg / repro: Janne Rentola / SLS](/img/SLSA_1160_SLSA_1160_364-scaled.jpg)
-
 
 _I och med Runebergsdagen har Projekt Fredrika kollat närmare på finlandssvenska författare, samt på Runebergstårtan._
 

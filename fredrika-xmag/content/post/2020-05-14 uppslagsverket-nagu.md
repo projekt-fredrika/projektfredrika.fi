@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Fredrika Julfest-10122019-IMG 5197](/img/Fredrika_Julfest-10122019-IMG_5197-scaled-e1589477117644.jpg)
-
-
 ## Vad är det för något?
 
 Projekt Fredrikas stora satsning hösten 2019 var Uppslagsverket Nagu. Det är ett uppslagsverk som i sin helhet bygger på Wikipedia-artiklar om Nagu. Boken har sammanställts av Projekt Fredrika med understöd av Sparbanksstiftelsen i Nagu.

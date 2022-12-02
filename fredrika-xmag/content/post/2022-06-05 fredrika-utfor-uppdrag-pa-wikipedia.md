@@ -13,10 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Handshake](/img/Handshake-white_bg.jpeg)
-
-
 Projekt Fredrika är en ideell förening, som i en förändrad värld anpassat sitt sätt att arbeta genom att övergå från en modell som bygger på understöd till en modell som bygger på betalda uppdrag. I denna blogginlaga beskriver vi denna nya modell, dels med tanke på eventuella intresserade uppdragsgivare, dels som en del av vår slutrapport inför Konstsamfundet rörande hur vi strukturomvandlat vår verksamhet.  **
 
 Så här ser vår nya modell ut, i all sin enkelhet: För att finansiera sin verksamhet i fortsättningen utför Projekt Fredrika betalda uppdrag på Wikipedia, Wikimedia Commons, Wikidata och OpenStreetMap. De betalda uppdragen finansierar de anställdas lön via ett dagsarvode, som täcker inte bara lönen för arbetstiden under själva uppdraget, utan också för den tid då de anställda förbereder eller utför långsiktiga arbetsuppgifter ("Fredrikas allmänna verksamhet") som tidigare finansierats av de stora fondernas avsevärda bidrag, men nu saknar direkta finansiärer.

@@ -2,7 +2,7 @@
 title: "Finlandssvenska vetenskapspersoner"
 url: "/vetenskapspersoner/"
 date: "2021-01-11"
-images: ["/img/1024px-Hallituksen_koronatilannekatsaus_perjantaina_1.4.2020_49723248021.jpg"]
+images: ["/img/Hallituksen_koronatilannekatsaus_perjantaina_1.4.2020_49723248021.jpg"]
 author: ['Lina']
 categories: ['Vetenskap']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Mika Salminen 1.4.2020 (49723248021)](/img/1024px-Hallituksen_koronatilannekatsaus_perjantaina_1.4.2020_49723248021.jpg)
-
 
 Inspirerade av Vetenskapsdagarna 13.-17.1.2021 kollar Projekt Fredrika på finlandssvenska vetenskapsmän och -kvinnor. Vi hittade 192 finlandssvenska vetenskapspersoner på Wikipedia och granskade sidvisningar och artikellängd på 13 språk.
 

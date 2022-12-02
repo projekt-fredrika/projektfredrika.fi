@@ -2,7 +2,7 @@
 title: "Birger Carlstedt’s artwork is now on Wikimedia Commons"
 url: "/birger-english/"
 date: "2020-10-19"
-images: ["/img/lossy-page1-640px-Abstrakt_komposition_404-BC_-_Birger_Carlstedt.tif.jpg"]
+images: ["/img/birger-Abstrakt_komposition_404-BC_-_Birger_Carlstedt.tif.jpg"]
 author: ['Lina']
 categories: ['Birger Carlstedt']
 tags: ['commons']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Abstrakt komposition 404-BC - Birger Carlstedt](/img/lossy-page1-640px-Abstrakt_komposition_404-BC_-_Birger_Carlstedt.tif.jpg)
-
 
 _[We have written a separate post about the technical process](https://projektfredrika.fi/the-making-of-birger-english/). [Den här artikeln finns också på svenska](https://projektfredrika.fi/birger/), [samt en artikel om den tekniska processen](https://projektfredrika.fi/the-making-of-birger/)._
 

@@ -2,7 +2,7 @@
 title: "Ingå med Finlands Diderot"
 url: "/inga-med-finlands-diderot/"
 date: "2021-08-17"
-images: ["/img/Fredrika_Julfest-10122019-Henrik_Ekberg-scaled.jpg"]
+images: ["/img/Fredrika_Julfest-10122019-Henrik_Ekberg.jpg"]
 author: ['Robert']
 categories: ['Ingå']
 tags: ['nyland']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Henrik Ekberg, Fredrika Julfest 10122019](/img/Fredrika_Julfest-10122019-Henrik_Ekberg-scaled.jpg)
-
 
 En lyckad Wikipedia-insats är beroende av rätt kombination av sakkunskap: om Wikipedia och om själva temaområdet. Här följer ett exempel på hur Projekt Fredrika jobbar – denna gång tillsammans med det svenska Finlands egen Denis Diderot, Henrik Ekberg.
 

@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Ukrainas flagga](/img/Flag_of_Ukraine.png)
-
-
 Intresset för Ukraina är förståeligt högt. Vi samlade statistik på flera språk över några centrala Wikipedia artiklar ur Ukrainas historia. Kanske det inspirerar till att utforska eller att förbättra dom. Själva märkte vi att flera saknade Wikidata beskrivning på svenska, så vi åtgärdade saken.
 
 ![](/2022/03/ukraina_alla-1024x703.png)
@@ -31,7 +28,4 @@ Arean representerar mängden visningar av artiklar under 10 dagar 5.3.-15.3.2022
 
 Råa datan
 ---------
-
-![](/2022/03/ukrainashistoria-6-1024x306.png)
-
 Statistik över visningar och längden av artiklar på flera språk

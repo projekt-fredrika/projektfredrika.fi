@@ -2,7 +2,7 @@
 title: "2020, en tillbakablick"
 url: "/2020-tillbakablick/"
 date: "2020-12-17"
-images: ["/img/Kaj_Arnö_vid_Tre_smeder_i_Helsingfors_29.10.2020_-_1-scaled.jpg"]
+images: ["/img/Kaj_Arnö_vid_Tre_smeder_i_Helsingfors_29.10.2020.jpg"]
 author: ['Kaj']
 categories: ['Tillbakablick']
 tags: ['projekt fredrika']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Kaj Arnö vid Tre smeder i Helsingfors, 29.10.2020](/img/Kaj_Arnö_vid_Tre_smeder_i_Helsingfors_29.10.2020_-_1-scaled.jpg)
-
 
 Åtminstone någonting gick bra 2020, nämligen Projekt Fredrika!
 

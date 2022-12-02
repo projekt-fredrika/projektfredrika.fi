@@ -2,7 +2,7 @@
 title: "Det här gjorde vi under vår vetenskapsvecka"
 url: "/vetenskapsveckan/"
 date: "2021-01-15"
-images: ["/img/wk833OrQLJE-1.jpg"]
+images: ["/img/vetenskapsvecka.jpg"]
 author: ['Lina']
 categories: ['Vetenskap']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Böcker](/img/wk833OrQLJE-1.jpg)
-
 
 _Den här veckan har Projekt Fredrika fokuserat på finlandssvenska vetenskapspersoner, med anledning av [Vetenskapsdagarna](https://www.tieteenpaivat.fi/sv). Vi har bland annat uppdaterat och skapat artiklar, lagt in faktarutor och skapat en lista. Det som var mest glädjande var att vi fick många bra tips och också konkret hjälp från andra! I den här bloggtexten berättar vi lite om hur vi jobbade och vad vi har gjort._
 

@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Kategorie Finnlandschwede](/img/KategorieFinnlandschwede-200818c.png)
-
-
 Hur är det riktigt ställt med finlandssvenska personer på tyska Wikipedia? Hur många finns det? Hör de till någon lämplig kategori? Beskrivs de i löptexten som finnar, finländare, finlandssvenskar eller rentav rikssvenskar? Hur ställer sig tyskar till begreppet finlandssvensk? Det var inte en enkel sak att veta i detalj före sommaren 2020 då Projekt Fredrika tog itu med svenska Finland på tyska Wikipedia. I denna blog berättar vi hur vi skapade kategorin Finnlandschwede som möjligör fortsatta analyser av hur finlandssvenskar beskrivs på tyska Wikipediasidor.
 
 Terrängen hade Kaj recognoscerat på Wikicon i Wuppertal under hösten 2019. "Nej, nån kategori Finnlandschwede behöver vi inte! Den diskussionen har vi haft, och avslutat. Ja, det gällde då Amerikadeutsche. Vem är det, vem är det inte? Det är ju så lurvigt. Vi valde att ta bort allihop, så vi bara har objektiva data där."

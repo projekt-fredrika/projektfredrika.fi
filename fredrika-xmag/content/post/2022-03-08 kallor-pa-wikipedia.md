@@ -2,7 +2,7 @@
 title: "Källor på Wikipedia"
 url: "/kallor-pa-wikipedia/"
 date: "2022-03-08"
-images: ["/img/1000px-A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpeg"]
+images: ["/img/A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpeg"]
 author: ['Robert']
 categories: ['Goda seder']
 tags: ['wikipedia']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![KK-pesäke](/img/1000px-A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpeg)
-
 
 Hur ser källorna ut för Vinterkriget på Wikipedia? Hur kan en kvantitativ analys om källorna hjälpa förbättringar på Wikipedia?
 

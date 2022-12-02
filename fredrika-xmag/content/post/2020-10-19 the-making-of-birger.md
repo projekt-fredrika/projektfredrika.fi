@@ -2,7 +2,7 @@
 title: "Hur Birger Carlstedts verk kom till Wikimedia Commons"
 url: "/the-making-of-birger/"
 date: "2020-10-19"
-images: ["/img/lossy-page1-567px-Le_Chat_Doré_ryska_kabinettet_516-BC_-_Birger_Carlstedt.tif.jpg"]
+images: ["/img/birger-Le_Chat_Doré_ryska_kabinettet_516-BC_-_Birger_Carlstedt.tif.jpg"]
 author: ['Lina']
 categories: ['Birger Carlstedt']
 tags: ['commons']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Le Chat Doré, ryska kabinettet 516-BC - Birger Carlstedt](/img/lossy-page1-567px-Le_Chat_Doré_ryska_kabinettet_516-BC_-_Birger_Carlstedt.tif.jpg)
-
 
 _[Vi har skrivit en skild post där vi berättar om varför detta är en så stor sak](https://projektfredrika.fi/birger/). [This article is also available in English](https://projektfredrika.fi/the-making-of-birger-english/), [as well as an article about why this is so groundbreaking](https://projektfredrika.fi/birger-english/)._
 

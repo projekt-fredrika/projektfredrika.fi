@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Multilingual Guernsey tourism](/img/Welcome_multilingual_Guernsey_tourism.jpg)
-
-
 _Note 21.5.2021: Since publishing this blog, we have added a task to [Wikimedia Phabricator](https://phabricator.wikimedia.org/) that was merged with an earlier bug report: [T259801](https://phabricator.wikimedia.org/T259801). We hope this will contribute to the issue being resolved._
 
 This is a suggestion for improving how links to external sources are forwarded at [wikidata.org](https://www.wikidata.org/), by honouring the language settings in the **Identifiers** section of individual Wikidata objects, and, over time, by automatically showing all existing language formatter versions for each Wikidata object, without edits required on a Wikidata object level. 

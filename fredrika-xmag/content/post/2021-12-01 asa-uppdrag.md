@@ -2,7 +2,7 @@
 title: "ASA-uppdrag"
 url: "/asa-uppdrag/"
 date: "2021-12-01"
-images: ["/img/ASA-Wikipedia-artiklar-1.png"]
+images: ["/img/ASA-Wikipedia-artiklar.png"]
 author: ['Robert']
 categories: ['Åland']
 tags: ['åland']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![ASA Wikipedia artiklar](/img/ASA-Wikipedia-artiklar-1.png)
-
 
 Under hösten 2021 jobbade Projekt Fredrika för att bättre avspegla Ålands sjöfartsutbildning på Wikipedia. Det är ett nytt arbetssätt för Projekt Fredrika, där vi inte tar emot ett allmänt understöd utan där vi i stället utför ett uppdrag mot räkning, allt i enlighet med Wikipedias etiska principer. Vi har jobbat med representanter från Alandica Shipping Academy (ASA), Högskolan på Åland och Ålands yrkesgymnasium. Målet med projektet är att förbättra nämnda organisationers artiklar och relaterade artiklar på svenska, finska och engelska. 
 
@@ -88,9 +85,6 @@ Vi har nu även skapat artiklar för Sjöfartsprogrammen på engelska och finska
 
 OpenStreetMap
 -------------
-
-![](/2021/11/OSM-ASA-1024x695.png)
-
 _På OpenStreetMap uppdaterades Ålands sjömansskolan till Alandica Shipping Academy och Sjöfartsprogrammen vid Ålands yrkesgymnasium_
 
 OpenStreetMaps kartor används på hundratals tjänster inklusive Wikipedia. Ålands sjömansskola har inte officiellt hett så sedan 2011, men gamla namnet levde kvar på OpenStreetMap. Vi har också lagt till Alandica Shipping Academy på kartan i [hamnen](https://www.openstreetmap.org/#map=17/60.10706/19.92700) och [skolbyggnader](https://www.openstreetmap.org/#map=18/60.10219/19.92747) - det tar en tid innan ändringen kommer i kraft.

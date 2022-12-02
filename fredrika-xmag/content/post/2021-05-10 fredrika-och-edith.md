@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Edith Sodergran](/img/Edith_Sodergran-e1620633057367.jpg)
-
-
 _Det finns olika sätt att arbeta med artiklar på Wikipedia. Under våren har vi fått en unik chans att testa ett nytt koncept - djupgående samarbete med en expert. Projektet är ännu på hälft, men vi vill ändå redan nu berätta lite kring hur vi arbetat. _
 
 Artikeln i fråga är [Edith Södergran](https://sv.wikipedia.org/wiki/Edith_S%C3%B6dergran) och experten är Södergran-forskaren [Agneta Rahikainen](https://sv.wikipedia.org/wiki/Agneta_Rahikainen), marknadsföringschef på Svenska litteratursällskapet. Rahikainens forskning är en av de huvudkällorna i artikeln om Edith. 

@@ -3,6 +3,7 @@ title: "Lyckade skrivstugor: Våra lärdomar"
 url: "/lyckade-skrivstugor/"
 date: "2022-12-01"
 images: ["/img/lyckade-skrivstugor.jpeg"]
+featured_image: "/images/lyckade-skrivstugor.jpeg"
 author: ['Kaj','Robert']
 categories: ['wikipedia']
 tags: ['wikipedia']
@@ -13,9 +14,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![bild](/img/lyckade-skrivstugor.jpeg)
-
 Att ordna skrivstugor är inte lätt. I varje fall inte om målet är att nya Wikipedianer ska skriva nya artiklar som gamla Wikipedianer anser vara i enlighet med Wikipedias kvalitetskrav och processer. Via försök och misstag tror vi oss på Fredrika ha kommit på några nyckellärdomar – väsentliga ingredienser i receptet på framgångsrika skrivstugor.
 
 Under de senaste två veckorna ordnade Projekt Fredrika två Wikipedia-skrivstugor tillsammans med [Svenska folkskolans vänner](https://sv.wikipedia.org/wiki/Svenska_folkskolans_vänner) och Bildningsalliansen. Skrivstugorna i Vasa och Helsingfors var mycket lyckade i både deltagarnas och Fredrikas ögon; flera nya artiklar blev skapade. 

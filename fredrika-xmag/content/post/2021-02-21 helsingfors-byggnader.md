@@ -2,7 +2,7 @@
 title: "Helsingfors byggnader"
 url: "/helsingfors-byggnader/"
 date: "2021-02-21"
-images: ["/img/Stockmann_Helsinki_2013-scaled.jpg"]
+images: ["/img/Stockmann_Helsinki_2013.jpg"]
 author: ['Robert']
 categories: ['Helsingfors']
 tags: ['helsingfors']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Stockmann, Helsinki 2013](/img/Stockmann_Helsinki_2013-scaled.jpg)
-
 
 Denna vecka tittar Projekt Fredrika på byggnader i Helsingfors. Det är nästa del i vår serie [Helsingfors, det svenska Finlands ansikte utåt](https://projektfredrika.fi/tre-smeder/).
 

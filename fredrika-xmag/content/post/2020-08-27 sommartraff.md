@@ -2,7 +2,7 @@
 title: "Projekt Fredrika samlades till sommarträff"
 url: "/sommartraff/"
 date: "2020-08-27"
-images: ["/img/IMG-20200825-WA0000.jpg"]
+images: ["/img/sommartraff2020.jpg"]
 author: ['Lina']
 categories: ['Möten']
 tags: ['projekt fredrika']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Projekt Fredrika sommarträff](/img/IMG-20200825-WA0000.jpg)
-
 
 Projekt Fredrika samlades till sommarträff hos Kaj i Nagu med glada miner och ivriga armbågshälsningar. Vi hade två mycket trevliga och samtidigt även väldigt produktiva dagar.
 

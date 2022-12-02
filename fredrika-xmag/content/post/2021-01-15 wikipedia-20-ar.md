@@ -2,7 +2,7 @@
 title: "Wikipedia 20 år"
 url: "/wikipedia-20-ar/"
 date: "2021-01-15"
-images: ["/img/XbWsnr1pwrQ.jpg"]
+images: ["/img/wikipedia20ar-kaka.jpg"]
 author: ['Kaj']
 categories: ['Wikipedia']
 tags: ['wikipedia']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Wikipedia 20 år](/img/XbWsnr1pwrQ.jpg)
-
 
 _Den här kolumnen publicerades ursprungligen [i **Åbo Underrättelser** 15.01.21](https://abounderrattelser.fi/wikipedia-20-ar/) och publiceras här med lov av tidningen._
 

@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![2020 Projekt Fredrika TreSmeder](/img/2020_PF_TreSmeder_fylld-multi.png)
-
-
 Fredagen den 23.10.2020 var inte den trettonde! Tvärtom var det en lyckosam dag för Projekt Fredrika:
 
 **Stiftelsen Tre Smeder** hade glädjen att meddela att vi beviljats ett understöd om 50.000 euro "för att under devisen _Helsingfors, det svenska Finlands ansikte utåt_ skapa synlighet för det svenska Helsingfors och Finland på Wikipedia och Wikidata, inför en icke-svenskspråkig publik, år 2021".

@@ -2,7 +2,7 @@
 title: "Nya artiklar och spännande gamla bilder - så här har vi jobbat med Helsingfors skolor"
 url: "/skolor-i-helsingfors-nya-artiklar-och-gamla-bilder/"
 date: "2021-03-25"
-images: ["/img/HKMS000005_00000x9y-scaled.jpg"]
+images: ["/img/skolor-HKMS000005_00000x9y-scaled.jpg"]
 author: ['Lina']
 categories: ['Helsingfors']
 tags: ['helsingfors']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Skolelever](/img/HKMS000005_00000x9y-scaled.jpg)
-
 
 _Den här veckan har Projekt Fredrika tittat närmare på svenska skolor i Helsingfors. Vi har fått erfara att skolorna har en inte så lite brokig historia, med många namnbyten!_
 

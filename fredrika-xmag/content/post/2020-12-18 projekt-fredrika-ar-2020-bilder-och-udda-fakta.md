@@ -2,7 +2,7 @@
 title: "Projekt Fredrika år 2020 i bilder och de tre kanske mest udda sakerna vi lärde oss i år"
 url: "/projekt-fredrika-ar-2020-bilder-och-udda-fakta/"
 date: "2020-12-18"
-images: ["/img/bild.png"]
+images: ["/img/2022-i-bilder.png"]
 author: ['Lina']
 categories: ['Tillbakablick']
 tags: ['projekt fredrika']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![bild](/img/bild.png)
-
 
 När ett år lider mot sitt slut kan det vara bra att blicka tillbaka och reflektera över året som gått. Vad var det vi tänkte att vi skulle göra i januari, och hur blev det. Sällan har ett år fört med sig så många snabba förändringar och så mycket utrymme för spontanitet som år 2020.
 

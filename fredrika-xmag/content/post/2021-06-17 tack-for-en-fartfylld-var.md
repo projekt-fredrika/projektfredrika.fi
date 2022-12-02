@@ -2,7 +2,7 @@
 title: "Fredrika tackar för en fartfylld vår - nu blir det lite lugnare tempo"
 url: "/tack-for-en-fartfylld-var/"
 date: "2021-06-17"
-images: ["/img/Berghamn_Nagu_02-scaled.jpg"]
+images: ["/img/Berghamn_Nagu_02.jpg"]
 author: ['Lina']
 categories: ['Tillbakablick']
 tags: ['projekt fredrika']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Berghamn, Nagu](/img/Berghamn_Nagu_02-scaled.jpg)
-
 
 _År 2021 har fört med sig många roliga projekt för Projekt Fredrika. På grund av semestrar och föräldraledigheter blir det nu tillfälligt lite mindre aktivitet._
 

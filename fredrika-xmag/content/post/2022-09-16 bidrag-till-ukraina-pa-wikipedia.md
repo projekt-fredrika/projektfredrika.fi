@@ -13,10 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Staty av tekniker i Odessa 1963 SLSA 1150 7536](/img/Staty_av_tekniker_i_Odessa_1963_SLSA_1150_7536.jpeg)
-
-
 [Veckans tävling på Wikipedia hade temat Ukraina och Sydafrika](https://sv.wikipedia.org/wiki/Wikipedia:Veckans_t%C3%A4vling/Ukrika) - två länder inbjudna till bokmässan i Göteborg denna höst. Vi bestämde oss för att hoppa med i tävlingen där deltagaren får poäng för alla bidrag till temats artiklar under tävlingstiden.
 
 Projekt Fredrika kombinerade det svenska Finland med gott Wikimedia-medborgarskap överlag och bidrog därmed med följande:

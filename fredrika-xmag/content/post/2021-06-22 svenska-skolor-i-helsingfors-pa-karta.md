@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Helsingfors skolor rutt](/img/hfors-skolor-rutt-revan.png)
-
-
 Ta dig ut på stan och bonga skolor! Vi har skapat en rutt som tar dig till de historiska svenska skolorna i centrala Helsingfors, genom att vi utnyttjat all den öppna data vi under de senaste månaderna lagt in i Wikidata, Wikimedia Commons samt Wikipedia.
 
 Rutten börjar från Järnvägstorget och går via Kronohagen och Ulrikasborg till Bortre Tölö. På rutten finns Lärkan, Bööks, Revan, Lavan, Norsen, Pontan, Broban, Banan, Bullan, Vilohemmet, Arken, Apollo/Minerva, Lönkan, Zillen och Toppan. Hela rutten runt är lite på 12 kilometer lång - en halv dags promenad, men man kan förstås också besöka en kortare bit eller utnyttja allmänna transportmedel.

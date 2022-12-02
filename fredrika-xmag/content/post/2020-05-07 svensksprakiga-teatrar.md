@@ -2,7 +2,7 @@
 title: "Svenskspråkiga teatrar i Finland"
 url: "/svensksprakiga-teatrar/"
 date: "2020-05-07 00:00:00"
-images: ["/img/1600px-Lilla-Teatern-1956.jpg"]
+images: ["/img/Lilla-Teatern-1956.jpg"]
 author: ['Fia']
 categories: ['Finland']
 tags: ['organisationer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Lilla-Teatern-1956](/img/1600px-Lilla-Teatern-1956.jpg)
-
 
 _Gustav Wiklund, Ingrid Söderblom, Vivica Bandler, Birgitta Ulfsson och Lasse Pöysti i Lilla Teatern på Kaserngatan år 1956. Bild av Ulf Ståhle [(taget från Wikimedia Commons)](https://commons.wikimedia.org/wiki/File:Lilla-Teatern-1956.jpg)_
 

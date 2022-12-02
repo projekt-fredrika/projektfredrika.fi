@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Vasabladet June 29 1878](/img/Vasabladet_June_29_1878-scaled.gif)
-
-
 _Inspirerade av #mediekunskapsveckan har Projekt Fredrika tittat närmare på finlandssvenska journalister och medier den här veckan. I den här bloggtexten berättar vi närmare om vad vi har gjort._
 
 I vår analys i början av veckan, som vi beskriver i bloggtexten "**[Massmedier och journalister](https://projektfredrika.fi/massmedier-och-journalister/)**", identifierade vi många hål i Wikipedias utbud kring det svenska mediefältet i Finland. En hel del av dem lyckades vi täppa till den här veckan.

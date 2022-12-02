@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Det svenska Finland på Wikipedia](/img/PF2020_Fram-1000x585.png)
-
-
 ## Det svenska Finland på Wikipedia
 
 Ladda ner Projekt Fredrikas rapport Det svenska Finland på Wikipedia, version 11/2020:

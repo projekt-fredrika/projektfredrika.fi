@@ -2,7 +2,7 @@
 title: "Kategorin “Finlandssvenska idrottare” städad!"
 url: "/idrottare/"
 date: "2020-05-25"
-images: ["/img/1280px-Stafettkarnevalen.jpeg"]
+images: ["/img/Stafettkarnevalen.jpeg"]
 author: ['Robert']
 categories: ['Idrott']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Finlandssvensk idrott: Stafettkarnevalen](/img/1280px-Stafettkarnevalen.jpeg)
-
 
 Nu är det ordentligt städat i kategorin [Finlandssvenska idrottare](https://sv.wikipedia.org/wiki/Kategori:Finlandssvenska_idrottare) på svenska Wikipedia.
 

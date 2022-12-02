@@ -2,7 +2,7 @@
 title: "Artiklar som saknas"
 url: "/artiklar-som-saknas/"
 date: "2020-05-07"
-images: ["/img/philipp-katzenberger-iIJrUoeRoCQ-unsplash-scaled.jpg"]
+images: ["/img/philipp-katzenberger.jpg"]
 author: ['Fredrika']
 categories: ['Wikipedia']
 tags: ['wikipedia']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![dator](/img/philipp-katzenberger-iIJrUoeRoCQ-unsplash-scaled.jpg)
-
 
 ## Lista över saknade artiklar
 

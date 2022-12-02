@@ -2,7 +2,7 @@
 title: "Kaj Arnö i ÅU: Röda kvinnor"
 url: "/au-roda-kvinnor/"
 date: "2021-03-08"
-images: ["/img/Women’s_Day_March_1975-scaled.jpg"]
+images: ["/img/Womens_Day_March_1975-scaled.jpg"]
 author: ['Kaj']
 categories: ['Personer']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Women’s Day March (1975)](/img/Women’s_Day_March_1975-scaled.jpg)
-
 
 _Den här kolumnen publicerades ursprungligen [i **Åbo Underrättelser** 7.3.21](https://abounderrattelser.fi/roda-kvinnor/) och publiceras här med lov av tidningen._
 

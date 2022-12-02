@@ -2,7 +2,7 @@
 title: "Rapport över Helsingfors ansikte utåt 2021"
 url: "/rapport-over-helsingfors-2021/"
 date: "2021-06-22"
-images: ["/img/HKMS000005_0000113p.jpg"]
+images: ["/img/Hfors_tresmeder_HKMS000005_0000113p.jpg"]
 author: ['Robert']
 categories: ['Helsingfors']
 tags: ['helsingfors']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Tre Smeder, Helsignfors](/img/HKMS000005_0000113p.jpg)
-
 
 För öars **metadata** synkroniserade vi kategorin [Öar i Helsingfors](https://sv.wikipedia.org/wiki/Kategori:%C3%96ar_i_Helsingfors) och Wikidata. I Wikidata förbättrade och korrigerade vi etiketter och beskrivningar på svenska, engelska och finska ([se Wikidata sökning på öar på karta](https://query.wikidata.org/#%23Alla%20%C3%B6ar%20i%20Helsingfors%0A%23defaultView%3AMap%0ASELECT%20%3Fitem%20%3FitemLabel%20%3FinstanceofLabel%20%3FplatsLabel%20%3FlandLabel%20%20%3Fcoords%20%3FareaLabel%20%3FbildLabel%20%3Flabelsv%20%3Fdescsv%20%3Flabelen%20%3Fdescen%20%3Flabelfi%20%3Fdescfi%20%0AWHERE%20%0A%7B%20%0A%20%20%3Fitem%20wdt%3AP131%20wd%3AQ1757.%20%20%20%20%0A%20%20%7B%3Fitem%20wdt%3AP31%20wd%3AQ23442%7DUNION%0A%20%20%7B%3Fitem%20wdt%3AP31%20wd%3AQ24576816%7DUNION%0A%20%20%7B%3Fitem%20wdt%3AP31%20wd%3AQ631305%7DUNION%0A%20%20%7B%3Fitem%20wdt%3AP31%20wd%3AQ1404150%7DUNION%0A%20%20%7B%3Fitem%20wdt%3AP31%20wd%3AQ1226252%7DUNION%0A%20%20%7B%3Fitem%20wdt%3AP31%20wd%3AQ207524%7D%0A%20%20%0A%20%20OPTIONAL%7B%3Fitem%20wdt%3AP31%20%3Finstanceof.%20%7D%0A%20%20OPTIONAL%7B%3Fitem%20wdt%3AP17%20%3Fland.%7D%0A%20%20OPTIONAL%7B%3Fitem%20wdt%3AP276%20%3Fplats.%7D%0A%20%20OPTIONAL%7B%3Fitem%20wdt%3AP18%20%3Fbild.%20%7D%0A%20%20OPTIONAL%7B%3Fitem%20wdt%3AP2046%20%3Farea.%20%7D%0A%20%20OPTIONAL%7B%3Fitem%20wdt%3AP625%20%3Fcoords.%20%7D%0A%20%20OPTIONAL%7B%3Fitem%20rdfs%3Alabel%20%3Flabelsv%20filter%20%28lang%28%3Flabelsv%29%20%3D%20%22sv%22%29.%7D%0A%20%20OPTIONAL%7B%3Fitem%20rdfs%3Alabel%20%3Flabelfi%20filter%20%28lang%28%3Flabelfi%29%20%3D%20%22fi%22%29.%7D%0A%20%20OPTIONAL%7B%3Fitem%20rdfs%3Alabel%20%3Flabelen%20filter%20%28lang%28%3Flabelen%29%20%3D%20%22en%22%29.%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20schema%3Adescription%20%3Fdescsv%20.%20FILTER%28lang%28%3Fdescsv%29%3D%27sv%27%29%20%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20schema%3Adescription%20%3Fdescfi%20.%20FILTER%28lang%28%3Fdescfi%29%3D%27fi%27%29%20%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20schema%3Adescription%20%3Fdescen%20.%20FILTER%28lang%28%3Fdescen%29%3D%27en%27%29%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22sv%22.%20%7D%0A%7D)).
 

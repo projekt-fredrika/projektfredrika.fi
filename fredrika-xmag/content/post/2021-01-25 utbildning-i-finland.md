@@ -2,7 +2,7 @@
 title: "Utbildning på svenska i Finland"
 url: "/utbildning-i-finland/"
 date: "2021-01-25"
-images: ["/img/skolor-i-finland-1.png"]
+images: ["/img/skolor-i-finland.png"]
 author: ['Robert']
 categories: ['Finland']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![skolor i Finland på karta](/img/skolor-i-finland-1.png)
-
 
 Inspirerade av [Educamässan 29.-30.1.2021](https://educa.messukeskus.com/?lang=sv) tittar Projekt Fredrika denna vecka på Utbildning i Finland på Wikipedia. Vi har redan förbättrat en del själva, men hittade också mycket potential.
 

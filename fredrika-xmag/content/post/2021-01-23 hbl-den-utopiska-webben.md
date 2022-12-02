@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Torsten Fagerholm - Karl Vilhjálmsson](/img/Torsten-Fagerholm-Karl-Vilhjálmsson.jpeg)
-
-
 _[Huvudstadsbladets ledare 23.1.2020](https://www.hbl.fi/artikel/den-utopiska-webben/) återpublicerad med lov av tidningen. Torsten Fagerholm är ledarskribent i Hufvudstadsbladet och tidigare chefredaktör för Affärstidningen Forum._ Bild av Karl Vilhjálmsson.
 
 Webben behöver inte urarta till en vildvuxen djungel av giftiga vanföreställningar. Allt är upp till dig – användaren.

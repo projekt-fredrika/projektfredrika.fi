@@ -2,7 +2,7 @@
 title: "Digitalt kulturarv och öppenhet"
 url: "/digitalt-kulturarv-och-oppenhet/"
 date: "2021-04-17"
-images: ["/img/ProjektFredrika2019_banner2-color-03.png"]
+images: ["/img/digitaltkulturarv-ProjektFredrika2019_banner2-color-03.png"]
 author: ['Kaj']
 categories: ['Våra mål']
 tags: ['projekt fredrika']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Projekt Fredrika 2019 banner2-color-03](/img/ProjektFredrika2019_banner2-color-03.png)
-
 
 **Wikipedia är öppet**. Bra så, då kan alla använda uppslagsverket, bygga vidare på det. Men Wikipedia behöver källor! Och Wikipedia ställer höga krav på fotografier som används på Wikipedia. De måste licenseras med en öppen licens, och licensdjungeln är svår. Därför uppmanar Projekt Fredrika alla som sitter på värdefulla illustrationer att **göra dem tillgängliga med öppna licenser**.
 

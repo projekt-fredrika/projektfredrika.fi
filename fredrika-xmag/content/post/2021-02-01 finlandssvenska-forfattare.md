@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Tove-Jansson-1967](/img/Tove-Jansson-1967-2.jpg)
-
-
 Till äran av Finlands nationalskald Runebergs födelsedag (5.2.) handlar Projekt Fredrikas temavecka om skalder och författare. I denna blogg har vi granskat de mest lästa artiklarna i den svenska kategorin "finlandssvensk litteratur", tittat på litteraturpris samt jämfört artiklar om finlandssvenska författare på 15 språk.
 
 ## Finlandssvensk litteratur i allmänhet

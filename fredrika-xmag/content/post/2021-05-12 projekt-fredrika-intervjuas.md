@@ -2,7 +2,7 @@
 title: "Se när Projekt Fredrika intervjuas av Wikimedia Sverige"
 url: "/projekt-fredrika-intervjuas/"
 date: "2021-05-12"
-images: ["/img/wiki.png"]
+images: ["/img/wiki20-intervju.png"]
 author: ['Lina']
 categories: ['Möten']
 tags: ['wikipedia']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Wikimedia Sverige paneldiskussion](/img/wiki.png)
-
 
 _Svenska Wikipedia fyller 20 år nu i maj. Vi fick äran att bli inbjudna till Wikimedia Sveriges virtuella studio._
 

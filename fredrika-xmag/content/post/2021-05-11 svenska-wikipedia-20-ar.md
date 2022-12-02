@@ -2,7 +2,7 @@
 title: "Svenska Wikipedia 20 år - Projekt Fredrika med på livesändning 12 maj"
 url: "/svenska-wikipedia-20-ar/"
 date: "2021-05-11"
-images: ["/img/wp.jpg"]
+images: ["/img/wp-20-ar.jpg"]
 author: ['Lina']
 categories: ['Wikipedia']
 tags: ['wikipedia']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Wikipedia 20 år](/img/wp.jpg)
-
 
 _Projekt Fredrika är med i en direktsänd diskussion onsdagen den 12.5 klockan 9 finsk tid (8 svensk tid)._ Du kan lyssna på diskussionen via [den här Youtube-länken](https://www.youtube.com/watch?v=iYc1GuV12MA) eller [den här Facebook-länken](https://www.facebook.com/WikimediaSverige/posts/10158197332172876). Temat är (naturligtvis) det svenska Finland.
 

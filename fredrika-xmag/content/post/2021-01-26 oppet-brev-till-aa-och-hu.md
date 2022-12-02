@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Åbo Akademi main building](/img/Åbo_Akademi_main_building-scaled.jpg)
-
-
 _Den här kolumnen publicerades ursprungligen [i **Åbo Underrättelser** 26.01.21](https://abounderrattelser.fi/wikipedia-20-ar/) och publiceras här med lov av tidningen._
 
 Bästa Åbo Akademi! Jag syftar på den nuvarande, grundad 1918. Men också på den Kungliga Akademien i Åbo, som grundades 1640 för att 1828 flyttas till Helsingfors och servilt omdöpas till Kejserliga Alexanders-universitetet. Samt 1917 få ett mer beskrivande namn, Helsingfors universitet.

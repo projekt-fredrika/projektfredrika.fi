@@ -2,7 +2,7 @@
 title: "Projekt Fredrika i ett nötskal för rikssvenskar"
 url: "/projekt-fredrika-for-rikssvenskar/"
 date: "2021-04-12"
-images: ["/img/ProjektFredrika2019_banner2-color-02.png"]
+images: ["/img/rikssvenskar-ProjektFredrika2019_banner2-color-02.png"]
 author: ['Kaj']
 categories: ['Våra mål']
 tags: ['projekt fredrika']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Projekt Fredrika 2019 banner2-color-02](/img/ProjektFredrika2019_banner2-color-02.png)
-
 
 **Rikssvenskar**, så kallar vi i Finland er invånare i Sverige. Vi känner er rätt väl; ni vet knappt att vi finns till. Vi är också svenskar, närmare bestämt finlandssvenskar. Alltså raka motsatsen till rikssvenskar.
 

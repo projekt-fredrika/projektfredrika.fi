@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![tågbanor](/img/tågbanor.png)
-
-
 Karis, Karjaa annonserar Reidar Wasenius i tåget mellan Helsingfors och Åbo. Flera av Finlands tågstationer har namn på båda de officiella inhemska språken. Hur ser järnvägsnätet ut på Wikipedia? 
 
 En central knutpunkt för Finlands järnvägsnät i Wiki-världen är kartbilden av järnvägsnätverket på WikiCommons: [Finnish\_railroad\_network-en.svg](https://commons.wikimedia.org/wiki/File:Finnish_railroad_network-en.svg). Bilden används på 9 olika språk på sidor om järnvägsbolaget VR, Finland, med mera - på Commons finns de uppräknade [här](https://commons.wikimedia.org/w/index.php?title=Special:GlobalUsage&offset=&limit=500&target=Finnish+railroad+network-en.svg). 

@@ -2,7 +2,7 @@
 title: "How Birger Carlstedts artwork landed on Wikimedia Commons"
 url: "/the-making-of-birger-english/"
 date: "2020-10-19"
-images: ["/img/lossy-page1-640px-Från_morgon_till_kväll_Kauttua_-_Birger_Carlstedt.tif.jpg"]
+images: ["/img/birger-Från_morgon_till_kväll_Kauttua_-_Birger_Carlstedt.tif.jpg"]
 author: ['Lina']
 categories: ['Birger Carlstedt']
 tags: ['commons']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Från morgon till kväll Kauttua - Birger Carlstedt](/img/lossy-page1-640px-Från_morgon_till_kväll_Kauttua_-_Birger_Carlstedt.tif.jpg)
-
 
 _[We have written a separate post about why this is so groundbreaking](https://projektfredrika.fi/birger-english/). [Den här artikeln finns också på svenska,](https://projektfredrika.fi/the-making-of-birger/) [samt en artikel om varför detta är en stor sak](https://projektfredrika.fi/birger/)._
 

@@ -3,6 +3,7 @@ title: Om Projekt Fredrika r.f.
 url: "/om/"
 author: Kaj, Robert
 toc: true
+images: ['/img/Efter_Nio_4.png']
 aliases: ['/media/','/fredrika-i-media/']
 ---
 

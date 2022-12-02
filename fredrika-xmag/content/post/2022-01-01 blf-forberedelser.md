@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![BLF böcker](/img/BLF_rygg.jpg)
-
-
 Fredrika har i uppdrag att bättre avspegla Biografiskt lexikon för Finland på Wikipedia. Vad exakt bör vi sätta in klutarna? Här är en detaljerad lägesbeskrivning, så du kan hjälpa oss göra kloka avvägningsbeslut.
 
 ## Vad är Biografiskt lexikon för Finland?

@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Gideon Bolotowsky](/img/Gideon_Bolotowsky-scaled.jpg)
-
-
 **Kaj**: Gideon, thanks for taking time to be interviewed by Projekt Fredrika – about the [Jews in Finland](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Finland) and their relationship to the Swedish language!
 
 Let me start by telling the audience that this interview wasn't originally meant to happen in English. We initially exchanged some emails in Swedish, our common native language. Then you concluded by sending me a note in German, because we both happen to live in Germany today – you in Berlin, me in Munich. And Corona has us both currently spending a lot of time the relative safety of our native Finland (for which you used the patriotic Swedish term "fosterland"). Am I correct so far?

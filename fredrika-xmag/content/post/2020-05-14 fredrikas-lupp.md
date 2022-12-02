@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![2020 Projekt Fredrika banner BOT](/img/2020_PF_website-banners_BOT.png)
-
-
 ## Vad är Fredrikas lupp? 🤖
 
 Analysverktyget Fredrikas lupp är ett program som hjälper oss att systematiskt identifiera brister och hål i Wikipedias innehåll, så vi får ett bredare perspektiv och vet var vi ska lägga våra resurser.

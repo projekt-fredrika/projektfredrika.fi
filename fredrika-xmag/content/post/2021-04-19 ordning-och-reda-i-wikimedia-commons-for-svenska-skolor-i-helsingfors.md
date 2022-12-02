@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Annegatan 30](/img/Annankatu_30_Annegatan_30_Annegatans_folkskola_-_N5708_-_hkm.HKMS000005-km0000lylb-scaled.jpg)
-
-
 För Projekt Fredrikas [skolprojekt](https://projektfredrika.fi/skolprojektet-tackblogg/) ville vi pryda varje artikel med minst en bild. Vi använde bilder från [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) dit vi även laddade upp tiotals nya bilder från [finna.fi](https://finna.fi/) och [helsingforsbilder.fi](https://www.helsingforsbilder.fi/). 
 
 Vårt fokus var på Wikipedia, men vi märkte att bristen på ordning i Commons gjorde arbetet kring bilder jobbigt. Det gällde att vara kreativ i sökningar och testa sig fram med historiska och nutida namn eller gatuadresser på skolorna. En del bilder var svåra att identifiera och dåligt kategoriserade. 

@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![wikimedia Suomi](/img/wikimedia-suomi.jpg)
-
-
 År 2021 för med sig något nytt och spännande för Projekt Fredrika - vår styrelseordförande Kaj Arnö är ny medlem i [Wikimedia Suomis styrelse](https://fi.wikimedia.org/wiki/Hallitus).
 
 Till Kajs uppgifter hör Geo-ansvar samt delat ansvar för språk tillsammans med Kimberli Mäkeräinen. Han sitter också med i GLAM-nätverket ([Galleries, Libraries, Archives and Museums)](https://meta.wikimedia.org/wiki/GLAM) samt i WLM[\-nätverket](https://www.wikilovesmonuments.org/) (Wikimedia Loves Monuments)

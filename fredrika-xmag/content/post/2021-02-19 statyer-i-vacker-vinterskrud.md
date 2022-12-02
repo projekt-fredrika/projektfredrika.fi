@@ -2,7 +2,7 @@
 title: "Helsingfors statyer i vacker vinterskrud och annat vi gjorde den här veckan"
 url: "/statyer-i-vacker-vinterskrud/"
 date: "2021-02-19"
-images: ["/img/Untitled-8.jpg"]
+images: ["/img/mannerheim-staty.jpg"]
 author: ['Lina']
 categories: ['Helsingfors']
 tags: ['helsingfors']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Mannerheim staty](/img/Untitled-8.jpg)
-
 
 _Den här veckan har Projekt Fredrika tittat närmare på statyer och minnesmärken i Helsingfors. Skörden är en hel del fina bilder på Wikimedia Commons och några nya artiklar._
 

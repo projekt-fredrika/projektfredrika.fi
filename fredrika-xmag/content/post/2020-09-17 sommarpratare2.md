@@ -2,7 +2,7 @@
 title: "Nu finns tio år av Vegas sommarpratare på Wikipedia"
 url: "/sommarpratare2/"
 date: "2020-09-17"
-images: ["/img/HLnzABgjIrk.jpg"]
+images: ["/img/sommarpratare-hund.jpg"]
 author: ['Lina']
 categories: ['Personer']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![hund](/img/HLnzABgjIrk.jpg)
-
 
 Projekt Fredrika har [fortsatt arbetet med att skapa listor och kategorier på Wikipedia](https://projektfredrika.fi/sommarpratare/) över alla de som har varit Vegas sommarpratare. I skrivande stund är 2020 samt [nästan hela 2010-talets sommarpratare listade](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarpratare_under_2010-talet) och kategoriserade.
 

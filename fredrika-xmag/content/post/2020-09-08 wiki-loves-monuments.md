@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Helsingfors Georgsgatan 18 SFV-huset G18](/img/Helsingfors-Georgsgatan-18-SFV-huset-G18-scaled.jpg)
-
-
 Hur ser svenska Finlands historiska byggnader och monument ut i bilder? Projekt Fredrika testade att bidra till världens största fototävling Wiki loves monuments. Här delar vi med oss av våra insikter och erfarenheter.
 
 Under september månad ordnas den globala fototävlingen [Wiki loves monuments](https://www.wikilovesmonuments.org/), där vem som helst kan delta genom att ladda upp en bild på en byggnad eller ett monument som är listat som ett kulturarv.

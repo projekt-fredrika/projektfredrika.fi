@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Havis Amanda 2002](/img/Havis_Amanda_2002.jpg)
-
-
 Denna vecka fortsätter Projekt Fredrika med temaserien [Helsingfors, det svenska Finlands ansikte utåt](https://projektfredrika.fi/tre-smeder/). Vår [överblick över Helsingforsrelaterade Wikipediaartiklar](https://projektfredrika.fi/helsingfors-ett-ytskrap/) visar att artiklar om personer från Helsingfors samt om sevärdheter i Helsingfors läses mest. Eftersom offentliga konstverk är mycket tillgängliga jämfört med annan typ av konst i dessa Covid-19 tider, bestämde vi oss för att börja med statyer och minnesmärken.
 
 ## Få artiklar på svenska om statyer

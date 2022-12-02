@@ -2,7 +2,7 @@
 title: "Strån till stacken år 2020"
 url: "/stran-till-stacken/"
 date: "2020-12-23"
-images: ["/img/Mravenistě_Hlinecký_les_Hřešihlavská.jpg"]
+images: ["/img/myror.jpg"]
 author: ['Robert']
 categories: ['Tillbakablick']
 tags: ['projekt fredrika']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Mravenistě, Hlinecký les, Hřešihlavská](/img/Mravenistě_Hlinecký_les_Hřešihlavská.jpg)
-
 
 Projekt Fredrika önskar väcka intresset att bidra till Wikipedia med specialkunskap, klockarkärlek eller kanske en ny förtjusande nyfikenhet. Året 2020 har vi bland annat utövat eldsjälsväckning genom [föreläsningar, instruktionsvideon och social media](https://projektfredrika.fi/projekt-fredrika-ar-2020-bilder-och-udda-fakta/) samt [ställningstaganden i tidningar och programmering av verktyg](https://projektfredrika.fi/2020-tillbakablick/) för att göra Wikipedias innehåll mera synligt och greppbart. 
 

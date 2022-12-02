@@ -2,7 +2,7 @@
 title: "Startskott för svenska skolor i Helsingfors"
 url: "/svenska-skolor-i-helsingfors/"
 date: "2021-03-21"
-images: ["/img/HKMS000005_00000was-scaled.jpg"]
+images: ["/img/skolor-HKMS000005_00000.jpg"]
 author: ['Lina']
 categories: ['Helsingfors']
 tags: ['helsingfors']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Broban](/img/HKMS000005_00000was-scaled.jpg)
-
 
 Denna vecka tittar Projekt Fredrika på svenska skolor i Helsingfors. Detta är en uppföljare till vårt tema [Helsingfors, det svenska ansiktet utåt](https://projektfredrika.fi/tre-smeder/) samt [Utbildning på svenska i Finland](https://projektfredrika.fi/utbildning-i-finland/).
 

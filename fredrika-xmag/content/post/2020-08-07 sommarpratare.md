@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Yle Vega sommarpratare](/img/sommarpratare-topp2.jpg)
-
-
 Vi på projekt Fredrika märkte att alla sommarpratare i Sverige är tydligt synliga på Wikipedia. Kategorin [Sommarvärdar 2020](https://sv.wikipedia.org/wiki/Kategori:Sommarv%C3%A4rdar_2020) innehåller varje person som varit sommarvärd i radioprogrammet [Sommar i P1](https://sv.wikipedia.org/wiki/Sommar_i_P1) - de finns också listade på sidan [Lista över sommarvärdar under 2020-talet](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_sommarv%C3%A4rdar_under_2020-talet). 
 
 Men "en ann' är så god som en ann'!". Alltså ska vi ha det också i svenska Finland! Sagt och gjort. Efter några minuters copy&paste av Yles [Sommarpratare artikel](https://svenska.yle.fi/artikel/2020/06/08/har-ar-vegas-sommarpratare-2020), find&replace, WikiMarkup-editering samt kategorisering med [QuickCategories](https://quickcategories.toolforge.org/) kan Fredrika nu presentera: Kategorin [Sommarpratare 2020](https://sv.wikipedia.org/wiki/Kategori:Sommarpratare_2020) på svenska Wikipedia. 

@@ -2,7 +2,7 @@
 title: "Tack till HBL och alla som hjälpte oss med skolprojektet"
 url: "/skolprojektet-tackblogg/"
 date: "2021-04-07"
-images: ["/img/HKMS000005_00000wid-scaled-e1617863839998.jpg"]
+images: ["/img/skol-projektet-HKMS000005_00000wid-scaled-e1617863839998.jpg"]
 author: ['Lina']
 categories: ['Helsingfors']
 tags: ['helsingfors']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![nan](/img/HKMS000005_00000wid-scaled-e1617863839998.jpg)
-
 
 _Vår satsning på Helsingfors försvunna skolor tog fart ordentligt i och med Hufvudstadsbladets artikel **[Vad vet du om Revan, Bullan och Zillen? Nu får Helsingfors försvunna skolor mer synlighet](https://www.hbl.fi/artikel/vad-vet-du-om-revan-bullan-och-zillen-nu-far-helsingfors-forsvunna-skolor-mer-synlighet/)**. Vi blev överväldigade och överlyckliga över all respons! I den här bloggtexten berättar vi mer om hur arbetet fortsatt._
 

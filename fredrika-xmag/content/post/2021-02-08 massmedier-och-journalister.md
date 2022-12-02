@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![HBL](/img/HBL-16-9-scaled.jpeg)
-
-
 Denna vecka uppmärksammar Projekt Fredrika medier och journalister i samband med [Mediekunskapsveckan](https://www.mediataitoviikko.fi/pa-svenska/) (8.-14.2.2021), vars syfte är att förstärka mediakunskapens roll i uppfostran hos barn och unga. Vi granskade vilka finlandssvenska massmedier och journalister som har artikel på Wikipedia och märkte flera som borde få det. 
 
 ## Finlandssvenska massmedier

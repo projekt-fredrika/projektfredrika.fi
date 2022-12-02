@@ -2,7 +2,7 @@
 title: "Finlandssvenska damidrottare och annat vi gjorde den här veckan"
 url: "/finlandssvenska-damidrottare-och-annat-vi-gjorde-den-har-veckan/"
 date: "2021-03-12"
-images: ["/img/Mona-Lisa_Pursiainen_2.jpg"]
+images: ["/img/Mona-Lisa_Pursiainen.jpg"]
 author: ['Lina']
 categories: ['Idrott']
 tags: ['personer']
@@ -13,9 +13,6 @@ _build:
   publishResources: true
   render: true
 ---
-
-![Mona-Lisa Pursiainen](/img/Mona-Lisa_Pursiainen_2.jpg)
-
 
 _Den här veckan har Projekt Fredrika tittat närmare på finlandssvenska kvinnor på Wikipedia, i och med kvinnodagen den 8 mars._
 

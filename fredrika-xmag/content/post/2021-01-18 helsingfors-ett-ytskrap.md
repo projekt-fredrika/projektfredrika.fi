@@ -14,9 +14,6 @@ _build:
   render: true
 ---
 
-![Helsingfors domkurkan på vintern](/img/Helsinki_Cathedral_in_winter.jpg)
-
-
 I [Helsingfors, det svenska Finlands ansikte](https://projektfredrika.fi/tre-smeder/) utåt har vi beskrivit aspekter vi vill förbättra i artiklarna om Helsingfors på Wikipedia. Här följer en överblick, en definition av potentiella arbetsfält i Helsingfors på Wikipedia.
 
 Helsingfors huvudartikel finns på 194 språk
