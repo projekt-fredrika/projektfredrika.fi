@@ -2,7 +2,7 @@
 title: "Finlands järnvägsnät på svenska"
 url: "/jarnvagsnat/"
 date: "2020-09-03"
-images: ["/img/tågbanor.png"]
+images: ["/img/tagbanor.png"]
 author: ['Robert']
 categories: ['Finland']
 tags: ['kartor']
