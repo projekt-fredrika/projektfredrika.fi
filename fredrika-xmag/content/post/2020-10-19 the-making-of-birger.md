@@ -2,7 +2,7 @@
 title: "Hur Birger Carlstedts verk kom till Wikimedia Commons"
 url: "/the-making-of-birger/"
 date: "2020-10-19"
-images: ["/img/birger-Le_Chat_Doré_ryska_kabinettet_516-BC_-_Birger_Carlstedt.tif.jpg"]
+images: ["/img/birger-Le_Chat_Dore_ryska_kabinettet_516-BC_-_Birger_Carlstedt.tif.jpg"]
 author: ['Lina']
 categories: ['Birger Carlstedt']
 tags: ['commons']
