@@ -1,4 +1,4 @@
-baseurl: "https://www.projektfredrika.fi/"
+baseurl: "https://projektfredrika.fi/"
 languageCode: "sv-fi"
 title: "Projekt Fredrika r.f."
 theme: "hugo-xmag"
