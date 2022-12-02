@@ -1,7 +1,9 @@
 {{ partial "header.html" . }}
 <div class="container">
   {{ partial "temamenu.html" . }}
+
 <article>
+
 <div class="article-meta">
 
   <div class="categories">
@@ -29,7 +31,18 @@
 {{ end }}
 
 <main>
-{{ .Content }}
+
+  {{ if isset .Params "images" }}
+    {{ range $images := .Params.images }}
+    {{ $image := resources.Get $images }}
+      {{with $image }}
+        <img src="{{ .RelPermalink }}">
+        <!--<img src="{{ ($image.Resize "900x").RelPermalink }}">-->      
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ .Content }}
 </main>
 
 {{ partial "author.html" . }}

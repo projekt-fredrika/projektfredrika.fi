@@ -18,23 +18,22 @@
   </div>
   <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
   <div class="date-author">
-    {{ if .Params.author }}<span class="author">{{ partial "author_names.html" . }}</span> / {{ end }}
-    <span class="date">{{ .Date.Format "02.01.2006" }}</span>
+    {{ if .Params.author }}<span class="author">{{ partial "author_names.html" . }}</span> / {{ end }} <span class="date">{{ .Date.Format "02.01.2006" }}</span>
   </div>
   <div class="summary">
     <a href="{{ .RelPermalink }}">
-    {{ with .Resources.GetMatch (printf "%s" .Params.thumbnail) }}
-    <div class="thumbnail"><img src="{{ relURL .Permalink }}" alt="Thumbnail" /></div>
-    {{ else }}
-    {{ with  .Params.thumbnail }}
-    <div class="thumbnail"><img src="{{ relURL .}}" alt="Thumbnail" /></div>
-    {{ else }}
-    {{ $img := findRE "<img src=\"[^\"]+\"" .Content 1 }}
-    {{ range $img }}
-    <div class="thumbnail">{{ (print . " alt=\"Thumbnail\" />") | safeHTML }}</div>
+
+
+      {{ if isset .Params "images" }}
+      {{ range $images := .Params.images }}
+          {{ $image := resources.Get $images }}
+          {{with $image }}
+            <div class="thumbnail"><img src="{{ ($image.Fit "200x100").RelPermalink }}"></div>
+          {{ end }}
+      {{ end }}
     {{ end }}
-    {{ end }}
-    {{ end }}
+
+
     {{ with .Description }}
       {{ $.Scratch.Set "summary" (markdownify .) }}
     {{ else }}
