@@ -2,7 +2,7 @@
 title: "How Birger Carlstedts artwork landed on Wikimedia Commons"
 url: "/the-making-of-birger-english/"
 date: "2020-10-19"
-images: ["/img/birger-Från_morgon_till_kväll_Kauttua_-_Birger_Carlstedt.tif.jpg"]
+images: ["/img/birger-Fran_morgon_till_kvall_Kauttua_-_Birger_Carlstedt.tif.jpg"]
 author: ['Lina']
 categories: ['Birger Carlstedt']
 tags: ['commons']
