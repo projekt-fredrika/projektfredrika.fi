@@ -30,7 +30,7 @@ def createexcel(list, outputpath):
     df.to_excel(file)
     print("Wrote excel file: "+file)
 
-# read excel file and create list
+# read excel file and return dataframe
 def readexcel(file, sheet):
     df = pd.read_excel(file, sheet_name=sheet)
     return df
@@ -72,9 +72,10 @@ def renameimages(df):
         else:
             print("File already exists: "+outputpath+row["newfolder"]+row["newname"])
 
-df = readexcel(path+"images projektfredrika.fi.xlsx","md-images")
-df = df[df['newname'].str.len() > 0]
-renameimages(df)
+# Read excel file and make changes on files and images with entries in column newname
+#df = readexcel(path+"images projektfredrika.fi.xlsx","md-images")
+#df = df[df['newname'].str.len() > 0]
+#renameimages(df)
 
 # create list of images in markdown files
 def imagelist(filelist):
