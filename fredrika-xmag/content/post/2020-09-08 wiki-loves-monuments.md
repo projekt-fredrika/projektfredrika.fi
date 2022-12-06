@@ -22,7 +22,7 @@ I år är temat förändrande stadsomgivningar och -landskap. Projekt Fredrika f
 
 > Tanken var att bidra med några saknade bilder - inte att knäppa den vinnande estetiska bilden :)
 
-![](https://lh6.googleusercontent.com/WC8lNhSAg1vrQJ23mCsqF0rB0NKsQ0PPIk64RGhttS7o5H8jgPyzY92z20tEwTs8g5ezG87BnwizrfpJxI9cU5L1cvU8yeY05BsP1gO7PvqXHTkGGEKmL91m3CDiYN8ZooXtSQ5B)
+![](/2020/09/wiki-loves-monuments-06.jpg)
 
 Wikipedia Suomis [kartverktyg](http://wlm.wikimedia.fi/kuvattavat-kohteet/)
 
@@ -32,13 +32,13 @@ Jag (Robert) bestämde mej för att bege mej ut en mulen lördagsmorgon i septem
 
 Svenska folkskolans vänner (SFV) har på Georgsgatan 18 det så kallade SFV-huset G18. Den skyddade byggnaden är på Wikidata ([Q55021622](https://www.wikidata.org/wiki/Q55021622)) beskriven som “Entinen Kirkkopuistikon tyttökoulu” som upprättades 1883 (enligt Helsingfors stadsmuseums källa). Jag fyllde på med en svenskspråkig etikett och under  “även känd som” skrev jag G18 och SFV-Huset. Ingendera har en Wikipediasida eller nämns på SFVs sida, men nu ska i alla fall byggnadens Wikidataobjektet få en bild. 
 
-![](https://lh5.googleusercontent.com/6piafxn0BGgGcJ-J2K6Zj4fs8RVcOcFVwSOGLORKEO0O2xTi8lEaUahtKFJi4_giJGeyXL2i2FZGEo9NWIieUzFMDVo4Nlux9a9dBfWZ9XabddTRLIqviiU_6bJb7PyjngUmONnp)
+![](/2020/09/wiki-loves-monuments-03.jpg)
 
 G18 byggnadens Wikidata etiketter efter städning.
 
 När jag skulle ladda upp mitt egna foto kom jag på att det kan finns existerande bilder på Commons som kunde användas. En [sökning på Georgsgatan 18](https://commons.wikimedia.org/w/index.php?search=georgsgatan+18&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1) gav noll resultat, men [Yrjönkatu 18](https://commons.wikimedia.org/w/index.php?search=yrj%C3%B6nkatu+18&title=Special%3ASearch&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1) ger däremot flera bilder, även historiska [från 1914](https://commons.wikimedia.org/wiki/File:Helsinki_1914,_Yrj%C3%B6nkatu_18_-_N26393_(hkm.HKMS000005-km003tjj).jpg) och [från 1890](https://commons.wikimedia.org/wiki/File:Yrj%C3%B6nkatu_18_-_Helsinki_1890_-_G31554_-_hkm.HKMS000005-km002z1w.jpg) - tufft! Men visst ska svenska sökningen ge resultat, så jag namngav filen "[Helsingfors, Georgsgatan 18 - SFV-huset G18.jpg](https://commons.wikimedia.org/wiki/File:Helsingfors,_Georgsgatan_18_-_SFV-huset_G18.jpg)" före jag laddade upp den - kanske tvåspråkigt namn vore mera diplomatiskt, men nu finns det i alla fall sökresultat på båda språken.
 
-![](https://lh4.googleusercontent.com/O1rAGVN8H4h8E1nZHseTrurOqyMNptUXGnIe3eniKh7Cjgd5Htd8nUT9x_VNK2aIvZGfP7xBPc_LR9Ey2WV01gmcW10wGHC5iu3W4_yPFRD4oeL2qtxFb1cH5AtoFkgIYoL5uG5e)
+![](/2020/09/wiki-loves-monuments-02.jpg)
 
 Riddaregatan 5 - Svenska litteratursällskapets (SLS)
 
@@ -46,7 +46,7 @@ Svenska Litteratursällskapets (SLS) adress Riddaregatan 5 är en skyddad byggna
 
 Jag märkte i förbifarten att Helsingfors stad har fina [gamla svartvita bilder av Riddaregatan 5 och andra  adresser](https://hkm.finna.fi/Record/hkm.HKMS000005:000007u8) som gärna kunde få vara med på Wikipedia - de är licensierade CC BY 4.0. Det vore fint att pryda Wikipediasidor med dylika historiska bilder bara de vore uppladddade på WikiCommons. Detta är något jag lagt på min todo för framtiden.
 
-![](https://lh5.googleusercontent.com/KCM_XNOSxZMarcTanUVTwa0mejJjCfG8_PxD1xyWO8KjAqwBlj0X8iXdX6tGLjQp9mA3OpAVMN9X8ZDNYqNO23ZkmD4Yxq2bxWA01LKBV2QZbqRCPKH21DflDh8ab9Cnc19lEF-I)
+![](/2020/09/wiki-loves-monuments-04.jpg)
 
 Topeliusgatan 2 – Tölö Gymnasium, f.d. Lönnbeckska gymnasiet (Lönkan), f.d. Nya Svenska Samskolan
 
@@ -54,13 +54,13 @@ Med i tävlingen är objektet [Topeliusgatan 2](https://www.wikidata.org/wiki/Q9
 
 Bilden av 1954-byggnaden passar både byggnaden och gymnasiet - så jag lade till min bild till båda. Samtidigt agerade jag god medborgare och städade i både wikidataobjektens fält och förnyade taggen på sidans bild. [Tölö gymnasiums wikipedia sida](https://sv.wikipedia.org/wiki/T%C3%B6l%C3%B6_gymnasium) skulle faktiskt må bra av tydligare text och mera källor (iaf historian), och en helhetsbild av byggnaderna - tips för nån med en historik om Tölö gymnasium eller en drönare! 
 
-![](https://lh4.googleusercontent.com/LG3gKkx9KKYj_9NDPp9i-jTh0ao79VV8u1rPXsaxs496PQ1KGgemBC6Mmp_1zbUSsPKPIighIn1Kb3xmOkZ1bHpfyZ8OqaHRo21EJoL4tCqO07KiW0DFoRYSrjiPI9g9QYPc34eF)
+![](/2020/09/wiki-loves-monuments-01.jpg)
 
 Mannerheimvägen 18 - Hufvudstadsbladet (HBL)
 
 Finlands största svenskspråkiga tidning Hufvudstadsbladet (HBL) är verksam i byggnaden på Mannerheimvägen 18, byggd 1926. Senaste bilden på [HBL:s wikipediasida](https://sv.wikipedia.org/wiki/Hufvudstadsbladet) är från 2016, så [wikidataobjektet](https://www.wikidata.org/wiki/Q98412735) blev värt [mitt färskare bidrag](https://commons.wikimedia.org/wiki/File:Helsingfors_Mannerheimv%C3%A4gen_18_Hufvudstadsbladet_2020.jpg). På finska heter byggnaden “Hufvudstadsbladetin liikepalatsi” - jag fyllde i den svenska etiketten med “Hufvudstadsbladets affärspalats” - om det faktiskt heter så på svenska framgår inte från [Helsingfors stads källa](https://hkm.finna.fi/Record/hkm.HKMS000005:km003yxa?lng=sv). 
 
-![](https://lh6.googleusercontent.com/0Un05oBUYYOkAhsAr5_EFAjQM0comsgmzNjTOVUYYimFLmDeGbI1vhdWB6gGzy74dqlpWxWII0ld6OisFSVlpKHshvQMmJlljAW-DfceokwSC-xsgObwCaP141K8OgPW9qS2pZYw)
+![](/2020/09/wiki-loves-monuments-05.jpg)
 
 Ståhlbergsvägen 2 - Brändö gymnasium
 

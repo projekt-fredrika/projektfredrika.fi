@@ -18,7 +18,7 @@ _[Vi har skrivit en skild post där vi berättar om varför detta är en så sto
 
 I juni 2020 landade den finlandssvenske konstnären [Birger Carlstedts verk på Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Birger_Carlstedt). Det var resultatet av flera månaders samarbete mellan Projekt Fredrika, Wikimedia Suomi, Konstsamfundet och Amos Rex.
 
-![](https://lh4.googleusercontent.com/qL-GK3316NuSWqKcA6al0PcBUvH7mDFgaZyXhr4bG-2a_8AVURWz8l0bNdb_ivQQcByIquJrHgaFPWp73pj46jgyaOinBc2K5oZhnYXVgzWGbjBYGSVl1k_M_qgoxVhe2D2SzczZ)
+![](/2020/10/the-making-of-birger-01.jpg)
 
 Skärmdump av Birgers verk på Wikimedia Commons.
 

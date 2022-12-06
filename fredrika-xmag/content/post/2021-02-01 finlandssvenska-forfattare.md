@@ -20,7 +20,7 @@ Till äran av Finlands nationalskald Runebergs födelsedag (5.2.) handlar Projek
 
 Vi [granskade kategorin Finlandssvensk litteratur](https://wiki.projektfredrika.fi/Finlandssvensk_litteratur) med vårt analysverktyg [Fredrikas Lupp](https://projektfredrika.fi/fredrikas-lupp/).
 
-![](https://lh5.googleusercontent.com/VL0drkzSGtb1sHpWwO4LteeO_c5p_WoHfeyJeiWk-XwIfDsAGDOkVcrPwhQjMlMZnfZKZ3_BPnkJRU6jCF46W6IHd-Y8ZJPtXxPIhvPkrr4BMrXHmrzhq5vLDnkrLf-Hp6CCvCuW)
+![](/2021/02/finlandssvenska-forfattare-01.jpg)
 
 Skärmdump av topp 30 från sidan [Fredrikas Lupp topp 100 mest lästa artiklar inom Finlandssvensk litteratur](https://wiki.projektfredrika.fi/Top/Finlandssvensk_litteratur). 
 

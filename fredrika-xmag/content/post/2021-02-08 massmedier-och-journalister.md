@@ -82,7 +82,7 @@ Under arbetet med att utveckla en artikel om ett massmedium är det bra att ta m
 
 Kategorin Finlandssvenska journalister på svenska Wikipedia har 142 artiklar - vi körde en analys av kategorin med [Fredrikas Lupp](https://projektfredrika.fi/fredrikas-lupp/). Så här ser resultatet ut i ordning av mest lästa artiklar: 
 
-![](https://lh3.googleusercontent.com/SRwHgm1n67a6Thd2NI8sDUImcaxV1Wo3NFt3k2UEsQMYa_B2OdRwayk3wHP4m1ojeA3Yhf4FKgIwYyMdi3KT2iGbtkPKiGTQ6JvUDF2NRE2njWaA9nOCwQodBB8AD7tY4C-pZJRi)
+![](/2021/02/massmedier-och-journalister-02.jpg)
 
 Topp 25 lästa artiklar om finlandssvenska journalister på svenska Wikipedia - se [hela analysen](https://wiki.projektfredrika.fi/Finlandssvenska_journalister).
 
@@ -101,7 +101,7 @@ Kan vilken journalist som helst få en artikel på Wikipedia? Enligt [svenska Wi
 
 Vilka finlandssvenska journalister har utmärkts med ett journalistpris? En wikidatasökning på finlandssvenska (Q726673) journalister (Q1930187) med journalistpris (Q1709894) hjälper till - men första gången vi körde den dök det bara upp två personer. 
 
-![](https://lh3.googleusercontent.com/SQCqlZ9SYV4Zka5sTXBVDDGUtf-gf1p8CQX8oKPqugu63TqSll8uVKYqQ6cHH8r-Da64AdVUsMZ3wvXXuuhAnTjmGgZzuq8THAjFkV4eb3jS8Nbj4fNn2gNFx1eVCzRpw_oNLw3l)
+![](/2021/02/massmedier-och-journalister-01.jpg)
 
 _Projekt Fredrika skapade artikel åt Liselott Lindström som är den senaste som fått Topeliuspriset._
 

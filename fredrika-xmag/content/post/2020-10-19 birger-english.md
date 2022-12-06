@@ -20,7 +20,7 @@ Swedish Finland is a front runner when it comes to art as open data. Konstsamfun
 
 Since June 2020, 40 of Carlstedt's works of art have been made digitally available to the public through Wikimedia Commons at [https://commons.wikimedia.org/wiki/Category:Birger\_Carlstedt](https://commons.wikimedia.org/wiki/Category:Birger_Carlstedt).
 
-![](https://lh4.googleusercontent.com/nvHiNLC4V6Ova2f9nYhPmJ6EQcz9obuuqM_i4W7ESCqNC4dtly92p_XpZFqUJkfhOtLxyAlRHTY3snCKI4r8UdGC1BHMjQIkh4_uMP_R0RhzRxQZPgrYxWIwlUeN65arB74vJ_ta)
+![](/2020/10/birger-english-01.jpg)
 
 It is the first time an art museum opens up a collection this way while the copyright is still in force.
 

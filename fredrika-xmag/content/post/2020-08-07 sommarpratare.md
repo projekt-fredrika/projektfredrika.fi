@@ -22,7 +22,7 @@ Men "en ann' är så god som en ann'!". Alltså ska vi ha det också i svenska F
 
 Kategorin “Sommarpratare 2020” syns på alla sommarpratares Wikipediasida längst nere bland andra kategorier. Kan du gissa vem denna person är baserat på kategorierna? 
 
-![](https://lh3.googleusercontent.com/WfGwadhqZqEwDaP9SXu4b1UBuRwD0bDRSnPUnnPhiFvCkXo5hdY88kk7C1TCaRVx0VZE_4E0wc8DmEn6XHMrlwYhINE4ZK6BblcCC5e1kjN-FehGhq7P4Y3LQY2-4k3Iv5qa6uME)
+![](/2020/08/sommarpratare-06.jpg)
 
 För att få veta vem denna person är, klicka [här](https://sv.wikipedia.org/wiki/Laura_Kolbe)
 
@@ -38,7 +38,7 @@ På finska Wikipedia skapade vi sidan [Sommarpratare](https://fi.wikipedia.org/w
 
 Personernas sidor får gärna också nämna i själva löptexten att de varit med som Vegas sommarpratare. Vi lade till det för [Tim Sparv](https://sv.wikipedia.org/wiki/Tim_Sparv), [Thomas Blomqvist](https://sv.wikipedia.org/wiki/Thomas_Blomqvist) och [Kaj Arnö](https://sv.wikipedia.org/wiki/Kaj_Arn%C3%B6) - det skulle gärna få finnas med på resten som varit sommarpratare. 
 
-![](https://lh4.googleusercontent.com/b7rzQQFgx8tCvymJ0ZSfyI_lNiiAIuSVxBdap1FpfG2cBojyfp9Hsqoq89wHEALPdDjA-4NvtPzOpHyUmBSTWuJxJCeFKyHjQdYaYyT5kQexKB7gdA5dE5_owPF6PjlzkGFY8C5y)
+![](/2020/08/sommarpratare-08.jpg)
 
 Så ser [Tim Sparvs](https://sv.wikipedia.org/wiki/Tim_Sparv) sida ut med ett inlägg om sommarprat med referens till Yles sidor. 
 
@@ -48,7 +48,7 @@ Skulle du villa bidra till det svenska i Finland på Wikipedia? Läs mera om [h
 
 Ps. Kategorin existens möjliggör körande av Fredrikas lupp som analyserar och ger en vidare överblick av kategorins sidor. 
 
-![](https://lh3.googleusercontent.com/YDo9J_Fp0oltcuATucFhfDPWJqz0Esqjup2zh0E00I4MjHqMOZW1vGL7eZdAiLXoFLxrT76qZQA2NE9LBWi0BxcPip7e9XvxPcBxGkQtfGHcc2CguJXRM5yAJTrRm-8wgHRTIhm9)
+![](/2020/08/sommarpratare-07.jpg)
 
 Fredrikas Lupp av Sommarpratare 2020. Analysen finns [grafiskt](https://wiki.projektfredrika.fi/filer/visual_Sommarpratare_2020.html) och [numeriskt](https://wiki.projektfredrika.fi/Sommarpratare_2020). 
 

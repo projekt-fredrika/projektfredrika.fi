@@ -27,7 +27,7 @@ Med en systematisk överblick satt vi ordning och reda på bilderna i Commons oc
 3.  Kategorier kan ha underkategorier. Bilderna i “[Schools in Stockholm](https://commons.wikimedia.org/wiki/Category:Schools_in_Stockholm)” är långt strukturerad enligt stadsdelar och har bara 8 bilder okategoriserade i “roten”. Helsingfors däremot har över 300 bilder i roten och några udda underkategorier. 
 4.  För vårt fokusområde skapade vi kategorin “[Swedish schools in Helsinki](https://commons.wikimedia.org/wiki/Category:Swedish_schools_in_Helsinki)” med en underkategori för varje skola som har bild i Commons, totalt 34 stycken. 
 
-![](https://lh5.googleusercontent.com/H2wAXQqLLthAPgdyHOzttE9GWe54CfdA4aZBDzfXhrvsNgIIc-K4Qu8JV48SDmRKfM9n6rfjBtH5RTOgga5GH5IWmepwSa9uuK0ybVg13HM2Jjw9iFPzNPgbexh__OGWwuSzQ-ut)
+![](/2021/04/ordning-och-reda-i-wikimedia-commons-for-svenska-skolor-i-helsingfors-02.jpg)
 
 [Category:Swedish schools in Helsinki](https://commons.wikimedia.org/wiki/Category:Swedish_schools_in_Helsinki) med 34 existerande och före detta skolor. 
 
@@ -43,7 +43,7 @@ Med en systematisk överblick satt vi ordning och reda på bilderna i Commons oc
 9.  En ifylld Commons-kategori (P373) i Wikidata betyder också att varje språkvariant av Wikipedia artikeln får en länk i vänstra spalten tillbaka till Commons-kategorin. Se Nya svenska samskolan på [svenska](https://sv.wikipedia.org/wiki/Nya_svenska_samskolan), [finska](https://fi.wikipedia.org/wiki/L%C3%B6nkan) och [engelska](https://en.wikipedia.org/wiki/Nya_svenska_samskolan). 
 10.  När vi gick igenom bilderna i roten av “Schools in Helsinki” hittade vi även kategorilösa bilder på svenska skolor utanför våra utvalda läroverk och folksskolor vi skapat Wikipedia artikel för. Vi hittade [Annegatans folkskola](https://commons.wikimedia.org/wiki/File:Annankatu_30,_Annegatan_30,_Annegatans_folkskola_-_N5708_-_hkm.HKMS000005-km0000lylb.jpg) som var namngiven “ruotsalainen kansakoulu” samt ett par nutida svenska grundskolor som har artikel på finska men inte svenska Wikipedia. Dessa fick förstås egna Commons kategorier. 
 
-![](https://lh4.googleusercontent.com/RUtRecfXeVfjFJhaiqiSG2DK4VrWUGQID3BhX8hUMIALA9MhOddNij6lHvlr74-LZXJzkGXB4voyity7vvd4EZMm2RZqPbwLhi0qYytXsiQqIKMAOjkQOtZlpCj2NHe8tSs3ik7j)
+![](/2021/04/ordning-och-reda-i-wikimedia-commons-for-svenska-skolor-i-helsingfors-01.jpg)
 
 Bilden på [Annegatans folkskola på Commons](https://commons.wikimedia.org/wiki/File:Annankatu_30,_Annegatan_30,_Annegatans_folkskola_-_N5708_-_hkm.HKMS000005-km0000lylb.jpg) hette tidigare “ruotsalainen kansakoulu” på Commons innan vi föreslog namnändring. Kanske skolan vore värd en Wikipedia artikel?  Byggnaden är ritad av Gustaf Nyström, se [källa](http://www.annantalo.fi/sv/historia).
 

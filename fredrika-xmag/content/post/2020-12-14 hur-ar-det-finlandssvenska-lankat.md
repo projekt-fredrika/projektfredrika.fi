@@ -35,7 +35,7 @@ _**“Örfil** eller **Örfilen** kan avse:
 
 Vilka alla artiklar är länkade till [finlandssvenskar](https://sv.wikipedia.org/wiki/Finlandssvenska)? På artikeln [finlandssvenskar](https://sv.wikipedia.org/wiki/Finlandssvenska) kan man klicka i vänstra spalten på “Artiklar som länkar hit” - som ser ut så här på svenska Wikipedia: 
 
-![](https://lh3.googleusercontent.com/Xmf6a5GCzdosqdasJnfVNK4ZIaEwD9btoQuynm5ZQuTk5LxCZ1jFHquN1uyxpT-QB59ijKNgzW-QBLVaH9sRgeL-1SrsHlmZ179SFsejff2qBpPI4WR302C-8z2WZipgrNwkszRB)
+![](/2020/12/hur-ar-det-finlandssvenska-lankat-01.jpg)
 
 Skärmdump från [Special:Länkar hit/Finlandssvenskar](https://sv.wikipedia.org/wiki/Special:L%C3%A4nkar_hit/Finlandssvenskar)
 

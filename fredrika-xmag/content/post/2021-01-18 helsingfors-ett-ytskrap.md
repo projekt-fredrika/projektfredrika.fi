@@ -23,7 +23,7 @@ Artikeln [Helsingfors](https://sv.wikipedia.org/wiki/Helsingfors) existerar på 
 
 Vi analyserade visningarna på 15 språk: nordiska, europeiska, invandrares och andra stora språk. Se Helsingfors på [svenska](https://sv.wikipedia.org/wiki/Helsingfors), [finska](https://fi.wikipedia.org/wiki/Helsinki), [norska](https://no.wikipedia.org/wiki/Helsingfors), [danska](https://da.wikipedia.org/wiki/Helsinki), [engelska](https://en.wikipedia.org/wiki/Helsinki), [tyska](https://de.wikipedia.org/wiki/Helsinki), [spanska](https://es.wikipedia.org/wiki/Helsinki), [franska](https://fr.wikipedia.org/wiki/Helsinki), [portugisiska](https://pt.wikipedia.org/wiki/Hels%C3%ADnquia), [estniska](https://et.wikipedia.org/wiki/Helsinki), [ryska](https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8), [somaliska](https://so.wikipedia.org/wiki/Helsinki), [arabiska](https://ar.wikipedia.org/wiki/%D9%87%D9%84%D8%B3%D9%86%D9%83%D9%8A), [kinesiska](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA) och [japanska](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%AD). 
 
-![](https://lh4.googleusercontent.com/qVQgUCSp6KdFASm0XQTwNbm4z9APL70kjtt9zzyJJnzHFHawA2M04iBWRWUU9cYshpbKWyUgJXaPbEmGkXdjrDHKsZc85fKhSnfOZWxyec5ZnBphIzO6i6gAFryCeGvBimc3R7EP)
+![](/2021/01/helsingfors-ett-ytskrap-01.jpg)
 
 Visningar och längd av Helsingfors jämfört med antal modersmåltstalare globalt
 

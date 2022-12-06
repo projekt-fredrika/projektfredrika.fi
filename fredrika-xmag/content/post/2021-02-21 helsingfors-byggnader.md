@@ -20,7 +20,7 @@ Denna vecka tittar Projekt Fredrika på byggnader i Helsingfors. Det är nästa 
 
 Kategorin [Byggnader i Helsingfors](https://sv.wikipedia.org/wiki/Kategori:Byggnader_i_Helsingfors) verkade väl ifylld från tidigare. Efter en liten städning analyserade vi den med Fredrikas Lupp.
 
-![](https://lh5.googleusercontent.com/84tDs6vyPNJArEPXQn4WRp7_8YL7UogSj0YkUA2nZcFKBMRctBbmaw8HO-X9maHIhkY-0YQeut5nkBCI0iMNB7lHK-CkEPvAWqxAdvIxlQFt_gdfhohfKOfPEj3XSWvOl9vksnkF)
+![](/2021/02/helsingfors-byggnader-01.jpg)
 
 Skärmdump från Fredrikas Lupp med statistik från de senaste 60 dagarna: bläddra och sortera [topp 100](https://wiki.projektfredrika.fi/Top/Byggnader_i_Helsingfors) _eller bläddra_ [underkategorierna](https://wiki.projektfredrika.fi/Byggnader_i_Helsingfors)
 

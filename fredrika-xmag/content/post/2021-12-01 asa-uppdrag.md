@@ -57,7 +57,7 @@ ASA på Google
 
 Det är inte en hemlighet att Google och andra jättar som Apple, Facebook och Amazon använder Wikipedia i sina kunskapsdatabaser. Det tog inte länge för Google att börja använda innehåll från ASAs nya artikel i sina sökresultat. Informationen och länkarna i artiklarna påverkar med tiden sannolikt resultatet på sökningar på andra ord också. 
 
-![](https://lh3.googleusercontent.com/K3XBrRU8ItW9oDvkJetfwJAj0Nydwjii_WF7Uae00ByYMzrlHMvtfsdCwVWmkTPJbijDCGUWrFch5g4k3bQxLkfPe0DE5IwxJIr6ART83eecbwQDYzYYKwo8huMs0Wl5bsB5hr4A)
+![](/2021/12/asa-uppdrag-01.jpg)
 
 _Google-sökresultat på Alandica Shipping Academy innan projektet, och senare i projektet_
 
@@ -66,7 +66,7 @@ Högskolan på Åland på Wikipedia
 
 Högskolan på Åland på svenska har förbättrats avsevärt under projektet från en längd på 2354 tecken till 8434 tecken. Vi har laddat upp flera nya bilder till Commons-kategorin som även lagts till i artikeln. En engelsk variant av artikeln utvecklas som bäst. 
 
-![](https://lh4.googleusercontent.com/d7FS0yIPL7vz7Afb-uex-eX_weKLq_vARIn8CXtPqvO84MQxvfDGb3EpBCrMKQ3NO1n68_lo4oJFcXk32iqfvue1MlB1A0jUlmdnoV6DtZtUCLQrM7G8-UBDGIkbb1cm-0h5FFuK)
+![](/2021/12/asa-uppdrag-02.jpg)
 
 _[Högskolan på Åland](https://sv.wikipedia.org/wiki/H%C3%B6gskolan_p%C3%A5_%C3%85land) innan projektet i juni, och senare i november 2021_
 

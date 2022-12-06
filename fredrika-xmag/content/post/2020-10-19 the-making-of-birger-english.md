@@ -18,7 +18,7 @@ _[We have written a separate post about why this is so groundbreaking](https://p
 
 In June 2020, artwork by the Finnish artist Birger Carlstedt was made available on Wikimedia Commons. This was the result of several months of collaboration between Projekt Fredrika, Wikimedia Suomi, [Konstsamfundet](https://konstsamfundet.fi/) and the [Amos Rex Museum](https://amosrex.fi/), which is owned by Konstsamfundet. Konstsamfundet is an association that supports arts and different fields of culture for the Swedish speaking Finns in Finland.
 
-![](https://lh4.googleusercontent.com/qL-GK3316NuSWqKcA6al0PcBUvH7mDFgaZyXhr4bG-2a_8AVURWz8l0bNdb_ivQQcByIquJrHgaFPWp73pj46jgyaOinBc2K5oZhnYXVgzWGbjBYGSVl1k_M_qgoxVhe2D2SzczZ)
+![](/2020/10/the-making-of-birger-english-01.jpg)
 
 Screen shot of Birger Carlstedt's art on Wikimedia Commons.
 

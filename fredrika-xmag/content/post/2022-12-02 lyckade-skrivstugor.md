@@ -3,7 +3,6 @@ title: "Lyckade skrivstugor: Våra lärdomar"
 url: "/lyckade-skrivstugor/"
 date: "2022-12-01"
 images: ["/img/lyckade-skrivstugor.jpeg"]
-featured_image: "/images/lyckade-skrivstugor.jpeg"
 author: ['Kaj','Robert']
 categories: ['wikipedia']
 tags: ['wikipedia']

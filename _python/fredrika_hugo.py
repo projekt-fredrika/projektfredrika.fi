@@ -7,39 +7,103 @@ import re
 from slugify import slugify
 import shutil
 import requests
+import frontmatter
 
-gitpath = "/Users/xx/xx/xx/"
+gitpath = "/Users/xx/xx/projektfredrika.fi/"
 path = gitpath+"_python/"
-oldpath = gitpath+"fredrika-xmag/content/post/"
-newpath = gitpath+"_python/output/"
+postpath = gitpath+"fredrika-xmag/content/post/"
+outputpath = gitpath+"_python/output/"
 
 #create list of md-files in directory
-def listfiles(oldpath):
+def listfiles(postpath):
     list = []
-    for file in os.listdir(oldpath):
+    for file in os.listdir(postpath):
         if file.endswith(".md"):
-            #list.append(os.path.join(oldpath, file))
-            list.append(os.path.join(file))
+            list.append(os.path.join(postpath, file))
+            #list.append(os.path.join(file))
     return list
 
-#replace text in files
-def updatefile(oldpath, newpath, filelist, searchexp, replaceexp):
+# create excel from list
+def createexcel(list, outputpath):
+    df = pd.DataFrame(list)
+    file = outputpath+"imglist.xlsx"
+    df.to_excel(file)
+    print("Wrote excel file: "+file)
+
+# read excel file and create list
+def readexcel(file, sheet):
+    df = pd.read_excel(file, sheet_name=sheet)
+    return df
+
+#search and replace text in files
+def searchreplace(filelist, searchexp, replaceexp, outputpath):
     i=0
     for file in filelist:
         i=i+1
-        #if i>1:
-        #    break
-        text_file = open(oldpath+file, "r")
-        data = text_file.read()
-        text_file.close()
-        print(str(i)+" Old: "+oldpath+file)
-        data = re.sub(searchexp, replaceexp, data)
-        text_file = open(newpath+file, "w")
-        text_file.write(data)
-        text_file.close()
-        print(str(i)+" New: "+newpath+file)
+        with open(file, "r") as text_file:
+            data = text_file.read()
+            text_file.close()
+            print(str(i)+" search&replace: "+file)
+            print(str(i)+" search&replace: "+searchexp+" --> "+replaceexp)
+            print(str(i)+" search&replace hits: "+str(re.subn(searchexp, replaceexp, data)[1]))
+            data = re.sub(searchexp, replaceexp, data)
+            basename = os.path.basename(file)
+            text_file = open(outputpath+basename, "w")
+            text_file.write(data)
+            text_file.close()
 
-# extract img urls from files
+def renameimages(df):
+    i = 0
+    for index, row in df.iterrows():
+        i = i+1
+        #change filename in md-file and save to output folder
+        if not os.path.exists(outputpath+row["newfolder"]+row["newname"]): 
+            if not os.path.exists(outputpath+"post/"):
+                os.makedirs(outputpath+"post/")
+            searchreplace([row["mdfile"]], row["oldimageurl"], row["newfolder"]+row["newname"], outputpath+"post/")
+        else:
+            print("already exists: "+outputpath+"post/"+os.path.basename(row["mdfile"]))
+            searchreplace([outputpath+"post/"+os.path.basename(row["mdfile"])], row["oldimageurl"], row["newfolder"]+row["newname"], outputpath+"post/")
+        #copy imagename to new output folder
+        if not os.path.exists(outputpath+row["newfolder"]+row["newname"]): 
+            if not os.path.exists(outputpath+row["newfolder"]):
+                os.makedirs(outputpath+row["newfolder"])
+            shutil.copyfile(path+"images/"+row["oldname"], outputpath+row["newfolder"]+row["newname"])
+        else:
+            print("File already exists: "+outputpath+row["newfolder"]+row["newname"])
+
+df = readexcel(path+"images projektfredrika.fi.xlsx","md-images")
+df = df[df['newname'].str.len() > 0]
+renameimages(df)
+
+# create list of images in markdown files
+def imagelist(filelist):
+    i = 0
+    imglist = []
+    for file in filelist:
+        i = i+1
+        print(str(i)+": "+file)
+        with open(file, "r") as text_file:
+            post = frontmatter.load(text_file)
+            img = str(post['images'])[2:len(str(post['images']))-2]
+            print(img)
+            imglist.append([file,img])
+            text_file.close()
+        with open(file, "r") as text_file: 
+            data = text_file.read()
+            z = re.findall(r"!\[.*\]\((.*)\)", data)
+            for each in z:
+                print(each)
+                imglist.append([file, each])
+            text_file.close()
+    return imglist
+
+# create excel-list of all images in markdown files - both images in content and parameter images
+#filelist = listfiles(postpath)
+#createexcel(imagelist(filelist), outputpath)
+
+
+# extract img urls from files (with url in old wordpress site)
 def extract(list, searchexp):
     i=0
     imglist = []
@@ -55,6 +119,7 @@ def extract(list, searchexp):
             imglist.append(each[:-1])
     return imglist
 
+# download images from list and save in same sub folder structure
 def downloadfiles(list):
     i = 0
     for url in list:
@@ -79,10 +144,8 @@ def downloadfiles(list):
         else:
             print('Image Couldn\'t be retrieved:', url)
 
+# execute: download all images with old wordpress site's url
 #imglist = extract(list, "https://projektfredrika.fi/wp-content/uploads/.*\)")
 #downloadfiles(list)
 
-searchexp = "---[\n]*!.*\)\n"
-replaceexp = "---"
-filelist = listfiles(oldpath)
-updatefile(oldpath, newpath, filelist, searchexp, replaceexp)
+

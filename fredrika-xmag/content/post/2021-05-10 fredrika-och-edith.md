@@ -54,7 +54,7 @@ Innan vi började redigera var det ändå viktigt att också berätta för andra
 
 Vi började därför med att lyfta upp saken till diskussion på [artikelns diskussionssida](https://sv.wikipedia.org/wiki/Diskussion:Edith_S%C3%B6dergran#Projekt_Fredrika_kommer_att_jobba_med_artikeln).
 
-![](https://lh4.googleusercontent.com/BDLeZHuqYcN8od4tJed9d0vRK4jl3o40D4Awb4eM7wVgnkPqJqjmsccUdaRhTPYqDqYDDAnDdfEhCNtEScVFwLh-SUT5NjaGWUGbKjrQ6XVVXKcK2IQi_QnI2zBRvx8FdrJWtmB0)
+![](/2021/05/fredrika-och-edith-01.jpg)
 
 En skärmdump från diskussionen om Edith-artikeln.
 
