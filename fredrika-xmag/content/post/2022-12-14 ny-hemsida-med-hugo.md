@@ -2,7 +2,7 @@
 title: "Ny hemsida med Hugo"
 url: "/ny-hemsida-med-hugo/"
 date: "2022-12-14"
-images: 
+images: ['/img/hugohemsida.png']
 author: ['Robert','Kaj']
 categories: ['hemsida']
 tags: ['hemsida','hugo','python']

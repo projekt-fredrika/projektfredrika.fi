@@ -34,7 +34,7 @@
 {{ with .Params.images }}
   {{ with index . 0 }}
     {{ with resources.Get . }}
-      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" alt="">
     {{ else }}
       {{ errorf "Unable to find image %s" . }}
     {{ end }}
