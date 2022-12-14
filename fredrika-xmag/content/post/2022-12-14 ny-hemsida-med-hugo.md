@@ -51,7 +51,7 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 
 ## Hur vårt Hugo-bygge gick till 
 
-###A) Början
+### A) Början
 
 
 
@@ -62,7 +62,7 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 
 **Mellanresultat: **lokalt åskådlig Hugo sajt
 
-###B) Lägg upp sajten på Github och Netlify**
+### B) Lägg upp sajten på Github och Netlify
 
 
 
@@ -73,7 +73,7 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 
 **Mellanresultat: **sajten från egna datorn gick via Github till Netlify och syns på [projektfredrika.netlify.app ](https://projektfredrika.netlify.app/)
 
-###C) Export från Wordpress, och import till Hugo**
+### C) Export från Wordpress, och import till Hugo
 
 
 
@@ -88,7 +88,7 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 
 **Mellanresultat:** ny sajt med gamla inlägg på [https://projektfredrika.netlify.app/](https://projektfredrika.netlify.app/)
 
-###D) Peka domänet på Netlify-sajten**
+### D) Peka domänet på Netlify-sajten
 
 
 
@@ -98,7 +98,7 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 
 Slutresultat: ny sajt på [projektfredrika.fi](https://projektfredrika.fi/)
 
-###Observationer överlag om att överföra sajten till Hugo**
+## Observationer överlag om att överföra sajten till Hugo
 
 
 
