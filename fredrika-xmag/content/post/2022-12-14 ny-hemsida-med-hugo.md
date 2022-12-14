@@ -60,7 +60,7 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 3. Skapade en Hugo-sajt på egna datorn med valt tema enligt Hugos [quickstart](https://gohugo.io/getting-started/quick-start/)
 4. Körde kommandot `hugo server` för att kunna kolla lokalt på sajten via adressen [http://localhost:1313/](http://localhost:1313/)
 
-**Mellanresultat: **lokalt åskådlig Hugo sajt
+**Mellanresultat:** lokalt åskådlig Hugo sajt
 
 ### B) Lägg upp sajten på Github och Netlify
 
@@ -71,7 +71,7 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 7. Grundade konto på [Netlify](https://netlify.com/) - gratis, men kontot är avgiftsbelagd om man vill använda en privat Github repo, om man inte vill att alla ser hemsidornas innehåll
 8. Gick igenom Netlifys guidade setup för att länka Netlify till Github. Stegn är beskrivna i: [A step by step Guide: deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
 
-**Mellanresultat: **sajten från egna datorn gick via Github till Netlify och syns på [projektfredrika.netlify.app ](https://projektfredrika.netlify.app/)
+**Mellanresultat:** sajten från egna datorn gick via Github till Netlify och syns på [projektfredrika.netlify.app ](https://projektfredrika.netlify.app/)
 
 ### C) Export från Wordpress, och import till Hugo
 
@@ -96,7 +96,7 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 13. Förde in Netlify DNS-inställningar på domän-tjänstens sajt (i vårt fall _websupport.se_) - Netlifys inställningar fungerar bra (en CNAME for www, en A-pekare för apex domänet), men det var lite klurigt att föra in dem i gamla leverantörens kontrollpanel . Det tog ett par justeringar i inställningarna innan mejlet började fungera inklusive SPF inställningar.  
 14. När allt fungerade gjorde jag apex domänet (utan www) till Primary Domain (under  Site Settings, Domain management), så att sajten fungerar primärt utan www tillägget i början av projektfredrika.fi
 
-Slutresultat: ny sajt på [projektfredrika.fi](https://projektfredrika.fi/)
+**Slutresultat:** ny sajt på [projektfredrika.fi](https://projektfredrika.fi/)
 
 ## Observationer överlag om att överföra sajten till Hugo
 
