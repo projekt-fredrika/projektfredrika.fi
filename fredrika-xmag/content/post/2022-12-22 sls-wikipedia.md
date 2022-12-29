@@ -69,7 +69,7 @@ Arbetet med att synliggöra det finlandssvenska kulturarvet på Wikipedia har va
 Text: Michaela von Kügelgen
 
 ## Länkar
-* [Artikel ursprungligen i SLS-tidningen Källan, 2/2022, sidorna 28-29 på issuu.com](https://issuu.com/slsfinland/docs/k_llan_2022-2_webb_id_12908_)
+* Källan i Issuu (se uppslaget s. 28-29): [https://issuu.com/slsfinland/docs/k_llan_2022-2_webb_id_12908_](https://issuu.com/slsfinland/docs/k_llan_2022-2_webb_id_12908_)
 * [Projekt/BLF](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/BLF)
 * [Projekt/Finna](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/SLS-Finna)
 * [Projekt/SSLS](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/SSLS)
