@@ -25,6 +25,8 @@ Sedan 2021 har Projekt Fredrika gått över till en uppdragscentrerad finansieri
 * [Youtube Projekt Fredrika](https://www.youtube.com/channel/UCTNhBrAT_82vgKTmP0Ur5CQ), flera videon om att redigera på Wikipedia och om Projekt Fredrika överlag
 
 ## Projekt Fredrika i median
+*   Bok [Wikipedia inifrån](https://sv.wikipedia.org/wiki/Wikipedia_inifr%C3%A5n), av Jonas Jönsson. Projekt Fredrika nämns på sida 164. Utgiven 2022
+*   SLS-tidning Källan, [SLS når ny publik via Wikipedia](https://issuu.com/slsfinland/docs/k_llan_2022-2_webb_id_12908_), artikel av Michaela von Kügelgen på sidor 28-29, nummer 2/2022
 *   Hufvudstadsbladet, [HBL-läsarna bidrog stort till Projekt Fredrikas satsning på läroverk](https://www.hbl.fi/artikel/hbl-lasarna-bidrog-stort-till-projekt-fredrikas-satsning-pa-laroverk/), artikel av Petra Miettinen 30.4.2021
 *   Åbo underrättelser, [Klockarkärlek](https://abounderrattelser.fi/klockarkarlek/), kolumn av Kaj Arnö 8.4.2021
 *   Hufvudstadsbladet, [Vad vet du om Revan, Bullan och Zillen? Nu får Helsingfors försvunna skolor mer synlighet](https://www.hbl.fi/artikel/vad-vet-du-om-revan-bullan-och-zillen-nu-far-helsingfors-forsvunna-skolor-mer-synlighet/), artikel av Petra Miettinen 28.3.2021 (webb) och 29.03.2021 (i papperstidningen)

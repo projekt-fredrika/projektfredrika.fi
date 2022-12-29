@@ -32,7 +32,7 @@ Arnö påminner ändå om att Wikipedias uppgift inte är att stöda särintress
 
 – SLS bildar allmänheten, vilket är nära det Wikipedia vill göra. Vi har etablerat flera pekare mellan Wikipedia och SLS, säger Arnö.
 
-**Fyller i kunskapsluckor**
+## Fyller i kunskapsluckor
 
 SLS gjorde en prioriteringslista och under det gångna året har Projekt Fredrika lagt in hundratals källhänvisningar till bland annat Biografiskt lexikon för Finland.
 
@@ -46,7 +46,7 @@ I praktiken har det gått till så att **Jonas Lillqvist** på SLS utgivning tag
 
 Enligt honom har de största luckorna nu fyllts – samtidigt har man bara gjort ett ytskrap. Det finns mängder av material som kunde läggas ut.
 
-**Stor synlighet för materialet**
+## Stor synlighet för materialet
 
 Johan Pyy gläds bland annat åt att de arkivbilder som lagts ut på Wikimedia Commons fått en bred användning.
 
@@ -60,10 +60,17 @@ För Arnös del är samarbetet med SLS en förverkligad dröm. En dröm som gett
 
 – Jag har lust att säga ”vad var det jag sa”, säger Arnö och ler nöjt.
 
-**BILDTEXTER:**
+## BILDTEXTER:
 
 Arbetet med att synliggöra det finlandssvenska kulturarvet på Wikipedia har varit ett sektoröverskridande arbete på SLS där arkivet samarbetat med utgivningen.
 
 ”Det som inte syns glöms bort. Det är viktigt att inse att Finlands historia inte enbart är skriven på finska, utan i hög grad på svenska”, säger Kaj Arnö.
 
 Text: Michaela von Kügelgen
+
+## Länkar
+* [Artikel ursprungligen i SLS-tidningen Källan, 2/2022, sidorna 28-29 på issuu.com](https://issuu.com/slsfinland/docs/k_llan_2022-2_webb_id_12908_)
+* [Projekt/BLF](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/BLF)
+* [Projekt/Finna](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/SLS-Finna)
+* [Projekt/SSLS](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/SSLS)
+* [Projekt/FHO](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/SLS-FHO)
