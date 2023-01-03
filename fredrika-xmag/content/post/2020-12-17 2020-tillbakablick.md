@@ -2,7 +2,7 @@
 title: "2020, en tillbakablick"
 url: "/2020-tillbakablick/"
 date: "2020-12-17"
-images: ["/img/Kaj_Arnö_vid_Tre_smeder_i_Helsingfors_29.10.2020.jpg"]
+images: ["/img/Kaj_Arno_vid_Tre_smeder_i_Helsingfors_29-10-2020.jpg"]
 author: ['Kaj']
 categories: ['Tillbakablick']
 tags: ['projekt fredrika']

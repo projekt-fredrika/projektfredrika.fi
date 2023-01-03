@@ -69,7 +69,8 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 5. Grundade konto och repo på [Github](https://github.com/) 
 6. Syncade lokala datorn och repon (en "katalog", ett "lagringsutrymme") med git clone [https://github.com/projekt-fredrika/projektfredrika.fi](https://github.com/projekt-fredrika/projektfredrika.fi), (kopierade in hugo-filerna i mappen), git add ., git commit -m ‘kommentar’, git push -u origin main
 7. Grundade konto på [Netlify](https://netlify.com/) - gratis, men kontot är avgiftsbelagd om man vill använda en privat Github repo, om man inte vill att alla ser hemsidornas innehåll
-8. Gick igenom Netlifys guidade setup för att länka Netlify till Github. Stegn är beskrivna i: [A step by step Guide: deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+8. Gick igenom Netlifys guidade setup för att länka Netlify till Github. Stegn är beskrivna i: [A step by step Guide: deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) (tyvärr är bloggen tom för tillfället). 
+
 
 **Mellanresultat:** sajten från egna datorn gick via Github till Netlify och syns på [projektfredrika.netlify.app ](https://projektfredrika.netlify.app/)
 
@@ -77,14 +78,17 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 
 
 
-9. Skapade lokalt på egen dator markdown-filer av wordpress sajten och lade dem i lokala Hugo-mappen /content/posts. Jag provade ett par olika verktyg, och detta verktyg är verkligen bra som läser WordPress default export XML-fil: [github.com/lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown)
-10. Laddade ner alla bilder från gamla sajten och satt dem i Hugo /static/img
-11. Gjorde diverse korrigeringar till sajtens sidors innehåll, bilder, taggar, rubriker och annan formattering genom att
-    1. göra “search & replace” med regex med python-kod
-    2. skapa listor i excelfiler, editera i Google Sheets, och sedan skapa nya markdown filer, med python-kod
-    3. markdown-filernas Front Matter-parametrar ("variabler i början av filen") läste  jag med python från /content/post och sparade till excel, gjorde ändringar och skapade nya md-filer i en temporär mapp innan jag kopierade dem tillbaka till /content/post. Ett bra verktyg för att läsa front matter är  [github.com/eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) som också stöder skrivande till markdown filer, men den biten tycker jag kunde förbättras i verktyget
+9. Skapade lokalt på egen dator markdown-filer av wordpress sajten och lade dem i lokala Hugo-mappen /content/posts. Jag provade ett par olika verktyg, och detta verktyg är verkligen bra som läser WordPress default export XML-fil: [github.com/lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown). Innan det körde jag `brew install node`. En npm-modul verkade saknas, så jag körde även `npm install compare-versions`. Jag kopierad output-mappens .md-filer från post till /content/post/-mappen i Hugo-sajten. Bilderna i images kopierade jag till /static/images/ i Hugo. 
+10. En del bilders nedladdning misslyckades (404), så jag gjorde manuellt en lista på alla bilder och laddade ner dem med `wget -i list.txt`. Inom Hugo satt jag bilderna i /static/img
+11. Gjorde diverse korrigeringar till sajtens sidors innehåll, bilder, taggar, rubriker och annan formattering genom att jag bland annat
+    1. ändrade datum formattering till 2.1.2006 i layout/_default/single.html
+    2. tog bort /post/ delen från urlarna, genom att lägga till i config.yaml `permalinks:  post: "/:filename/"`
+    3. gjorde “search & replace” med regex med python-kod
+    4. skapade listor i excelfiler, editera i Google Sheets, och sedan skapa nya markdown filer, med python-kod
+    5. editerade markdown-filernas Front Matter-parametrar ("variabler i början av filen") genom att läsa med python från /content/post och sparade till excel, gjorde ändringar och skapade nya md-filer i en temporär mapp innan jag kopierade dem tillbaka till /content/post. Ett bra verktyg för att läsa front matter är  [github.com/eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) som också stöder skrivande till markdown filer, men den biten tycker jag kunde förbättras i verktyget
 * Editerade lokalt på egna datorn, och pushade med jämna mellanrum till Github när jag var nöjd
 * I något skede meddelande Netlify om fel som inte uppstod på egna datorn. Då ställde jag in Netlifys build till samma Hugo-version som min lokala (under Site Settings, Environment Variables, Add a variable HUGO_Version)
+12. Jag ändrade sajtens subdomän i Netlifys Domain Management inställningar, så att sajten fick adressen [https://projektfredrika.netlify.app/](https://projektfredrika.netlify.app/). 
 
 **Mellanresultat:** ny sajt med gamla inlägg på [https://projektfredrika.netlify.app/](https://projektfredrika.netlify.app/)
 
@@ -92,9 +96,9 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 
 
 
-12. Klicka i Netlify “Add a domain” och följde instruktionerna (under Site Settings, Domain management) 
-13. Förde in Netlify DNS-inställningar på domän-tjänstens sajt (i vårt fall _websupport.se_) - Netlifys inställningar fungerar bra (en CNAME for www, en A-pekare för apex domänet), men det var lite klurigt att föra in dem i gamla leverantörens kontrollpanel . Det tog ett par justeringar i inställningarna innan mejlet började fungera inklusive SPF inställningar.  
-14. När allt fungerade gjorde jag apex domänet (utan www) till Primary Domain (under  Site Settings, Domain management), så att sajten fungerar primärt utan www tillägget i början av projektfredrika.fi
+13. Klicka i Netlify “Add a domain” och följde instruktionerna (under Site Settings, Domain management) 
+14. Förde in Netlify DNS-inställningar på domän-tjänstens sajt (i vårt fall _websupport.se_) - Netlifys inställningar fungerar bra (en CNAME for www, en A-pekare för apex domänet), men det var lite klurigt att föra in dem i gamla leverantörens kontrollpanel . Det tog ett par justeringar i inställningarna innan mejlet började fungera inklusive SPF inställningar.  
+15. När allt fungerade gjorde jag apex domänet (utan www) till Primary Domain (under  Site Settings, Domain management), så att sajten fungerar primärt utan www tillägget i början av projektfredrika.fi
 
 **Slutresultat:** ny sajt på [projektfredrika.fi](https://projektfredrika.fi/)
 
