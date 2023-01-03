@@ -81,11 +81,13 @@ Experterna på kan.se som hur artitekturen skulle fungera. Kort sagt lägger man
 9. Skapade lokalt på egen dator markdown-filer av wordpress sajten och lade dem i lokala Hugo-mappen /content/posts. Jag provade ett par olika verktyg, och detta verktyg är verkligen bra som läser WordPress default export XML-fil: [github.com/lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown). Innan det körde jag `brew install node`. En npm-modul verkade saknas, så jag körde även `npm install compare-versions`. Jag kopierad output-mappens .md-filer från post till /content/post/-mappen i Hugo-sajten. Bilderna i images kopierade jag till /static/images/ i Hugo. 
 10. En del bilders nedladdning misslyckades (404), så jag gjorde manuellt en lista på alla bilder och laddade ner dem med `wget -i list.txt`. Inom Hugo satt jag bilderna i /static/img
 11. Gjorde diverse korrigeringar till sajtens sidors innehåll, bilder, taggar, rubriker och annan formattering genom att jag bland annat
-    1. ändrade datum formattering till 2.1.2006 i layout/_default/single.html
-    2. tog bort /post/ delen från urlarna, genom att lägga till i config.yaml `permalinks:  post: "/:filename/"`
-    3. gjorde “search & replace” med regex med python-kod
-    4. skapade listor i excelfiler, editera i Google Sheets, och sedan skapa nya markdown filer, med python-kod
-    5. editerade markdown-filernas Front Matter-parametrar ("variabler i början av filen") genom att läsa med python från /content/post och sparade till excel, gjorde ändringar och skapade nya md-filer i en temporär mapp innan jag kopierade dem tillbaka till /content/post. Ett bra verktyg för att läsa front matter är  [github.com/eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) som också stöder skrivande till markdown filer, men den biten tycker jag kunde förbättras i verktyget
+    1. ändrade datum formattering till 2.1.2006 i ändrade layout/_default/single.html 
+    2. och i samma single.html lade till en bild definierad i Front Matter parametrarna med koden `{{ with .Params.coverImage }}<img src="{{ . }}" />{{ end }}`
+    3. tog bort /post/ delen från urlarna, genom att lägga till i config.yaml `permalinks:  post: "/:filename/"`
+    4. lade till opengraph (social media preview) med Hugos färdiga [open graph template](https://gohugo.io/templates/internal/#open-graph)
+    5. gjorde “search & replace” i markdown-post-filerna med regex med python-kod
+    6. skapade listor i excelfiler, editera i Google Sheets, och sedan skapa nya markdown filer, med python-kod
+    7. editerade markdown-filernas Front Matter-parametrar ("variabler i början av filen") genom att läsa med python från /content/post och sparade till excel, gjorde ändringar och skapade nya md-filer i en temporär mapp innan jag kopierade dem tillbaka till /content/post. Ett bra verktyg för att läsa front matter är  [github.com/eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) som också stöder skrivande till markdown filer, men den biten tycker jag kunde förbättras i verktyget
 * Editerade lokalt på egna datorn, och pushade med jämna mellanrum till Github när jag var nöjd
 * I något skede meddelande Netlify om fel som inte uppstod på egna datorn. Då ställde jag in Netlifys build till samma Hugo-version som min lokala (under Site Settings, Environment Variables, Add a variable HUGO_Version)
 12. Jag ändrade sajtens subdomän i Netlifys Domain Management inställningar, så att sajten fick adressen [https://projektfredrika.netlify.app/](https://projektfredrika.netlify.app/). 

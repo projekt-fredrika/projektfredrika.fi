@@ -3,6 +3,7 @@ title: "SLS material når ny publik via Wikipedia"
 url: "/sls-wikipedia"
 date: "2022-12-22"
 images: ['/img/Fredrika_Kallan_SLS_Wikipedia_2022-12.jpg']
+coverImage: "/img/Fredrika_Kallan_SLS_Wikipedia_2022-12.jpg"
 author: ['Michaela von Kügelgen']
 categories: ['SLS']
 tags: ['wikipedia']

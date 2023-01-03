@@ -31,6 +31,11 @@
 {{ end }}
 
 <main>
+
+  {{ with .Params.coverImage }}
+  <img src="{{ . }}" />
+  {{ end }}
+
 {{ with .Params.images }}
   {{ with index . 0 }}
     {{ with resources.Get . }}
