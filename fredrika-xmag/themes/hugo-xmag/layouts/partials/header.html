@@ -2,41 +2,29 @@
 <html lang="{{ .Site.LanguageCode }}">
   <head>
     <meta charset="utf-8">
+    <meta name="robots" content="all" />
     {{ template "_internal/opengraph.html" . }}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ $.Scratch.Set "Title" (default .Title (index .Site.Params.text (print "title_" (lower .Title)))) }}
     <title>{{ if eq ($.Scratch.Get "Title") .Site.Title }}{{ .Site.Title }}{{ else }}{{ ($.Scratch.Get "Title") }} | {{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
-    {{ partial "head_custom.html" . }}
+    <link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
   </head>
 
   <body{{if .IsPage}} class="page"{{ end }}>
     <nav class="header">
-      {{ partial "banner.html" . }}
-      <div class="head-meta">
-      {{ if .IsPage }}
-        <span><a href="{{ relURL .Site.BaseURL }}">{{ (default "Back to Home" .Site.Params.text.back) | safeHTML }}</a></span>
-        {{ if .Params.date }}<span class="date">{{ .Date.Format "02.01.2006" }}</span>{{ end }}
-        {{ if .File.Path }}
-        {{ $RmdFile := (print .File.BaseFileName ".Rmd") }}
-        {{ if (where (readDir (print "content/" .File.Dir)) "Name" $RmdFile) }}
-          {{ $.Scratch.Set "FilePath" (print .File.Dir $RmdFile) }}
-        {{ else }}
-          {{ $.Scratch.Set "FilePath" .File.Path }}
-        {{ end }}
-        {{ $.Scratch.Set "FilePath" (replace ($.Scratch.Get "FilePath") "\\" "/") }}
-        {{ with .Site.Params.github_edit}}
-        <!--<span><a href="{{ . }}{{ $.Scratch.Get "FilePath" }}">{{ (default "Edit this page" $.Site.Params.text.edit) | safeHTML }}</a></span>-->
-        {{ end }}
-        {{ end }}
-      {{ else }}
-        <span>{{ $.Scratch.Get "Title" }}</span>
-        <span>{{ .Site.Params.text.last_update }}{{ now.Format "02.01.2006" }}</span>
-        {{ $pages := .Pages }}
-        {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-        {{ $paginator := .Paginate (where $pages "Section" "!=" "") }}
-        <span>{{ with $paginator }}{{ if .TotalPages }}{{ .PageNumber }} / {{ .TotalPages }}{{ end }}{{ end }}</span>
-      {{ end }}
-      </div>
+      <div class="banner">
+        <div class="banner">
+            <div class="wrapper">
+            <div class="imgwrapper">
+                <a href="/"><img width="80px" src="/img/ProjektFredrika2020_Logo 200x200.png"></a>
+            </div>
+            <div class="titlewrapper">
+                <span class="title2"><a href="/">Projekt Fredrika</a></span><br>
+                <span class="subtitle2"><a href="/">Det svenska Finland på Wikipedia</a></span>
+            </div>
+            </div>
+        </div>
+    </div>
     </nav>
