@@ -1,0 +1,49 @@
+{{ partial "header.html" . }}
+<div class="container">
+
+  <p style="padding: 10px;"><b>Finlandssvenskta tekniker</b> är en finlandssvensk bokserie utgiven i Helsingfors bestående av åtta band (I-VIII). Banden I-III är utgivna åren 1923-1925 och redigerade av Jonatan Reuter. Banden IV-VIII är utgivna 2003-2017 och är redigerade och publicerade av medlemmar av Tekniska föreningen i Finland. <br><a href="https://sv.wikipedia.org/wiki/Finlandssvenska_tekniker">Wikipedia</a></p>
+
+<main class="list">
+{{ $pages := .Pages }}
+{{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+{{ $paginator := .Paginate (where $pages "Section" "!=" "") }}
+{{ range $paginator.Pages }}
+<section class="article-list">
+  <div class="categories">
+  {{ with .Params.categories }}
+  {{ range first 1 . }}
+    <a href="{{ relURL (print "/categories/" . | urlize) }}">{{ . }}</a>
+  {{ end }}
+  {{ else }}
+    <a>{{ default "Uncategorized" .Site.Params.text.uncategorized }}</a>
+  {{ end }}
+  </div>
+  <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+  <div class="date-author">
+    {{ if .Params.author }}<span class="author">{{ partial "author_names.html" . }}</span> / {{ end }} <span class="date">{{ .Params.year }}</span>
+  </div>
+  <div class="summary">
+    <a href="{{ .RelPermalink }}">
+
+{{ with .Params.images }}
+  {{ with index . 0 }}
+    {{ with resources.Get . }}
+    {{ $image := .Resize "130x" }}
+    <div class="thumbnail"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt=""></div>
+    {{ else }} <!-- no img found -->{{ end }}{{ end }}
+{{else}}<!-- no img in parameter -->{{ end }}
+{{ with .Description }}
+     {{ $.Scratch.Set "summary" (markdownify .) }}
+  {{ else }}
+    {{ $.Scratch.Set "summary" ((delimit (findRE "(<p.*?>(.|\n)*?</p>\\s*)+" .Content) "[&hellip;] ") | plainify | truncate (default 200 .Site.Params.summary_length) (default " &hellip;" .Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
+  {{ end }}
+  {{ $.Scratch.Get "summary" }}
+    </a>
+  </div>
+</section>
+{{ end }}
+</main>
+<nav>{{ template "_internal/pagination.html" . }}</nav>
+</div>
+
+{{ partial "footer.html" . }}

@@ -8,8 +8,6 @@ body {
   margin: auto;
   padding: 0 15px;
 }
-
-
 .page .header div, .page .container, .page .copyright, .page .menu { max-width: 900px; }
 .container { hyphens: auto; }
 @media (max-width: 930px) {
@@ -19,28 +17,31 @@ main { margin-bottom: 15px; }
 
 /* header and footer areas */
 .header {
+  text-align: center;
+  padding: 20px 0 5px;
+  min-height: 80px;
+  color: #000;
+  background: #fff; 
+  #background-image: url("/img/cropped-2020_PF_website-banners_Green.png");
+  background-position: 0px 50%;
+  background-size: cover;
   #border-top: 5px solid #666;
   border-bottom: 4px double #666;
-  text-align: center;
-  padding: 15px 0 5px;
+  #border: 1px solid red;
 }
 .head-meta, .menu {
   display: flex;
   justify-content: space-between;
 }
-.header, .list section, article { background: #fff; }
-.banner { 
-
+.list section, article { 
+  background: #fff; 
 }
 .banner .text {
   display: block;
   line-height: 1em;
 }
-
-
 .wrapper{
   display: flex;	
-
 }
 .imgwrapper{
 flex: 1;
@@ -59,6 +60,9 @@ line-height: 1em;
 .subtitle2{
 font-size: 1em;
 line-height: 1em;
+}
+.slidebannertext{
+  font-size: 3em; 
 }
 
 .list {
@@ -212,3 +216,11 @@ tr:nth-child(even) { background: #eee }
   width: 50%;
   margin-left: 0;
 }
+
+
+
+.finsvetekniker {font-size: 1em;}
+.finsvetekniker a {text-decoration: none;}
+.finsvetekniker p {font-family: Vollkorn, Georgia; font-size: 12pt; }
+.finsvetekniker h1 {font-family: Vollkorn, Georgia; font-size: 18pt; }
+.finsvetekniker h2 {font-family: Vollkorn, Georgia; font-size: 14pt; }
