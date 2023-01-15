@@ -8,9 +8,10 @@ lastpage: 20
 images: ['/finsvetekniker/Edvin_Leonard_Bergroth.jpg']
 wikidata: Q11856628
 categories: ['Finlandssvenska tekniker  I']
+tags: ['Edvin Leonard Bergroth']
 ---
 
- Edvin Leonard Bergroth.
+Edvin Leonard Bergroth.
 
 Ingenjör Edvin Bergroth var ovanligt reslig och ägde ända in på sin ålderdom en lika ovanlig hållning. Hela hans gestalt gav på grund härav intrycket av något ständigt stridbart, kraftigt och vikingalikt. Ända i det sista var han »huvudet högre än allt folket», och detta sista kom som det anstår en kämpe, icke smygande och långsamt, utan bröt honom i ett ögonblick.
 

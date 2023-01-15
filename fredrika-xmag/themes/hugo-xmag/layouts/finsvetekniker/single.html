@@ -15,19 +15,27 @@
   <main class="finsvetekniker">
 
 
+    {{ with .Params.wikidata }}
+    <div align="right" id="wikipedia" data-wikidata="{{ . }}"></div>
+    {{ end }}  
 
-{{ with .Params.images }}  {{ with index . 0 }}    {{ with resources.Get . }}
-      <img src="{{ .RelPermalink }}" width="40%" align=right alt="">
+    {{ with .Params.images }}  {{ with index . 0 }}    {{ with resources.Get . }}
+      <img src="{{ .RelPermalink }}" align="right" width="40%"  alt="">
     {{ else }}      {{ errorf "Unable to find image %s" . }}    {{ end }}  {{ end }}{{ end }}
 
   <h1>{{ .Title }}</h1>
+
   {{ if .Params.author }}<h2>Författare: {{ .Params.author }}</h2>  {{ end }}
   <em>Utdrag ur {{ .Params.book }} ({{ .Params.year }}), sidorna {{ .Params.firstpage }}-{{ .Params.lastpage}}</em>
 
-  {{ with .Params.tags }}
+<!--  {{ with .Params.tags }}
   <p>{{ default "Tags: " (index $.Site.Params.text "tags") }}{{ range $i, $e := . }}{{ if $i }}; {{ end }}<a href="{{ relURL (print "/tags/" $e | urlize) }}">{{ $e }}</a>{{ end }}
   </p>
-  {{ end }}
+  {{ end }} 
+-->
+
+
+
 
   {{ .Content }}
 </main>
@@ -38,5 +46,8 @@
 {{ partial "comments.html" . }}
 </article>
 </div>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-2.1.0.min.js"></script>
+<script src="/js/scripts.js" type="text/javascript"></script>
 
 {{ partial "footer.html" . }}
