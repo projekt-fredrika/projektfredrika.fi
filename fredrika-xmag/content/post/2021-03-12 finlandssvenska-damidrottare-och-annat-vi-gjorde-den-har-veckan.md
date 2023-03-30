@@ -28,23 +28,23 @@ Vi noterade att idrottare ligger i topp tre bland männen, men betydligt längre
 
 Vi bestämde oss för att göra något åt saken, och bad om hjälp.
 
-https://twitter.com/projektfredrika/status/1369193257528401935
+{{< tweet user="projektfredrika" id="1369193257528401935" >}}
 
 ## Namnen strömmar in
 
 Och hjälp fick vi! Vi blev alldeles överväldigade över det engagemang frågan väckte, speciellt på Twitter! Här är några av de tips vi fick:
 
-https://twitter.com/StefanEklund3/status/1369252232110235652
+{{< tweet user="StefanEklund3" id="1369252232110235652" >}}
 
 Vi blev också glada över hur många olika grenar idrottarna representerade!
 
-https://twitter.com/SebeBackman/status/1369219001952436226
+{{< tweet user="SebeBackman" id="1369219001952436226" >}}
 
-https://twitter.com/MikaelaIngberg/status/1369298638988525571
+{{< tweet user="MikaelaIngberg" id="1369298638988525571" >}}
 
 Frågan om vilka krav en idrottare bör möta för att kvalificera för en Wikipedia-artikel aktualiserades också.
 
-https://twitter.com/MikaelaIngberg/status/1369296697201942529
+{{< tweet user="MikaelaIngberg" id="1369296697201942529" >}}
 
 Wikipedia har en del riktlinjer som kan fungera som vägledning [som finns samlade här](https://sv.wikipedia.org/wiki/Wikipedia:Att_skriva_om_sport#Personer). En relevans-blogg kunde vara på sin plats!
 
