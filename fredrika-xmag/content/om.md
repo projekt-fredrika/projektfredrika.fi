@@ -25,6 +25,7 @@ Sedan 2021 har Projekt Fredrika gått över till en uppdragscentrerad finansieri
 * [Youtube Projekt Fredrika](https://www.youtube.com/channel/UCTNhBrAT_82vgKTmP0Ur5CQ), flera videon om att redigera på Wikipedia och om Projekt Fredrika överlag
 
 ## Projekt Fredrika i median
+*   Handelsgillet [Projekt Fredrika lyfter fram det svenska Finland på Wikipedia](https://www.handelsgillet.fi/sv/publikationer/article-186839-85605-projekt-fredrika-lyfter-fram-det-svenska-finland-pa-wikipedia), av Patrik Lindfors 20.03.2023
 *   Bok [Wikipedia inifrån](https://sv.wikipedia.org/wiki/Wikipedia_inifr%C3%A5n), av Jonas Jönsson. Projekt Fredrika nämns på sida 164. Utgiven 2022
 *   SLS-tidning Källan, [SLS når ny publik via Wikipedia (projektfredrika.fi)](https://projektfredrika.fi/sls-wikipedia/), eller [issuu.com](https://issuu.com/slsfinland/docs/k_llan_2022-2_webb_id_12908_), artikel av Michaela von Kügelgen, sidor 28-29, nummer 2/2022
 *   Hufvudstadsbladet, [HBL-läsarna bidrog stort till Projekt Fredrikas satsning på läroverk](https://www.hbl.fi/artikel/hbl-lasarna-bidrog-stort-till-projekt-fredrikas-satsning-pa-laroverk/), artikel av Petra Miettinen 30.4.2021
