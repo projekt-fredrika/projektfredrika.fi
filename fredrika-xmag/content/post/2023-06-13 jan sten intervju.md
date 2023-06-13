@@ -1,8 +1,8 @@
 ---
 title: "Intervju med Jan Sten: att redigera Wikipedia var ju inte så svårt"
 url: "/jan-sten-intervju"
-date: "2022-06-13"
-images: ['']
+date: "2023-06-13"
+images: ['/img/jansten.jpg']
 author: ['Robert']
 categories: ['tillbakablick']
 tags: ['wikipedia']
