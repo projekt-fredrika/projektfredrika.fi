@@ -20,5 +20,6 @@ https://www.youtube.com/@projektfredrikar.f.8985/playlists
 
 {{< youtube g_04wItFS8g >}}
 
-
+Listorna som Jan nämner finns under Projekt Fredrikas projektsidor på Wikipedia: 
+https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Artiklar_som_saknas_eller_borde_förbättras
 
