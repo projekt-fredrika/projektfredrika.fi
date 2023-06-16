@@ -101,7 +101,7 @@ main { margin-bottom: 15px; }
   .list section { max-width: calc(50% - 15px); }
   .article-list h1 {
     overflow-x: hidden;
-    white-space: nowrap;
+    #white-space: nowrap;
     text-overflow: ellipsis;
   }
   .article-list h1:hover { white-space: inherit; }
@@ -199,12 +199,15 @@ th, td { padding: 5px; }
 tr:nth-child(even) { background: #eee }
 
 .thumbnail {
-  height: 5.1em;
-  width: 6.8em;
+  display: block;
+  #height: 5.1em;
+  #width: 6.8em;
+  line-height: 0em;
   float: left;
   overflow: hidden;
-  margin: 5px 8px 5px 0;
-  box-shadow: 0 0 8px #666;
+  margin: 3px 7px 3px 0;
+  border: 1px solid #dfdfdf;
+  #box-shadow: 0 0 8px #666;
 }
 .thumbnail img {
   width: 100%;

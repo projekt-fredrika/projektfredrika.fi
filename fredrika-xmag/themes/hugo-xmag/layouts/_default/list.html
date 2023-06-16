@@ -26,7 +26,7 @@
 {{ with .Params.images }}
   {{ with index . 0 }}
     {{ with resources.Get . }}
-    {{ $image := .Resize "130x" }}
+    {{ $image := .Fit "130x130" }}
     <div class="thumbnail"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt=""></div>
     {{ else }} <!-- no img found -->{{ end }}{{ end }}
 {{else}}<!-- no img in parameter -->{{ end }}
