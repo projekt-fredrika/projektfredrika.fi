@@ -6,8 +6,12 @@ body {
 .header div, .container, .copyright, .menu {
   max-width: 1100px;
   margin: auto;
-  padding: 0 15px;
+  padding-right: 2%;
+  padding-left: 1%;
+  padding-top:0px;
+  padding-bottom:0px;
 }
+
 .page .header div, .page .container, .page .copyright, .page .menu { max-width: 900px; }
 .container { hyphens: auto; }
 @media (max-width: 930px) {
@@ -18,16 +22,13 @@ main { margin-bottom: 15px; }
 /* header and footer areas */
 .header {
   text-align: center;
-  padding: 20px 0 5px;
-  min-height: 80px;
+  padding: 15px 0 15px 0;
   color: #000;
   background: #fff; 
   #background-image: url("/img/cropped-2020_PF_website-banners_Green.png");
   background-position: 0px 50%;
   background-size: cover;
-  #border-top: 5px solid #666;
   border-bottom: 4px double #666;
-  #border: 1px solid red;
 }
 .head-meta, .menu {
   display: flex;
@@ -36,34 +37,49 @@ main { margin-bottom: 15px; }
 .list section, article { 
   background: #fff; 
 }
-.banner .text {
-  display: block;
-  line-height: 1em;
+.banner { 
+  font-size: 4em;
+}
+.banner a { color: #fff; }
+.wrapper{
+  display: flex;	
 }
 .wrapper{
   display: flex;	
 }
 .imgwrapper{
-flex: 1;
-text-align: right;
-#border: 1px solid blue;
-}
-.titlewrapper{
-text-align: left;
-flex: 5;
-#border: 1px solid red;
-}
-.title2{
-font-size: 2em;
-line-height: 1em;
-}
-.subtitle2{
-font-size: 1em;
-line-height: 1em;
-}
-.slidebannertext{
-  font-size: 3em; 
-}
+  flex: 1;
+  text-align: right;
+  margin: 0;
+  min-width: 80px;
+  }
+  .logo{
+    width: 80px;
+  }
+
+  .titlewrapper{
+  display:block;
+  text-align: left;
+  flex: 5;
+  margin: 0;
+  padding: 0;
+  line-height: 0.2em;
+  }
+  .titlemain{
+  display:block;
+  font-size:0.6em;
+  line-height: 0.4em;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  }
+  .subtitlemain{
+  display:block;
+  font-size: 0.3em;
+  line-height: 1.2em;
+  margin: 0;
+  padding: 0;
+  }
 
 .list {
   display: flex;
