@@ -15,7 +15,11 @@ _build:
 aliases: 
 ---
 
-Vi intervjuade Jan Sten, en nybilven Wikipedian, om att hans erfarenheter att komma igång med att redigera på Wikipedia. För mera Projekt Fredrika på youtube, kolla spellistorna: https://www.youtube.com/@projektfredrikar.f.8985/playlists Listorna som Jan nämner finns under Projekt Fredrikas projektsidor på Wikipedia: https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Artiklar_som_saknas_eller_borde_förbättras
+Vi intervjuade Jan Sten, en nybilven Wikipedian, om att hans erfarenheter att komma igång med att redigera på Wikipedia. 
+
+Under intervjun nämner Jan: 
+* Projekt Fredrikas introduktionsvideon: [Projekt Fredrikas spellistor på Youtube](https://www.youtube.com/@projektfredrikar.f.8985/playlists)
+* Projekt Fredrikas projektsida på Wikipedia: [Wikipedia:Projekt_Fredrika/Artiklar_som_saknas_eller_borde_förbättras](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Artiklar_som_saknas_eller_borde_förbättras)
 
 {{< youtube g_04wItFS8g >}}
 
