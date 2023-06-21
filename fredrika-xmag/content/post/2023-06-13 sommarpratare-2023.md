@@ -4,7 +4,7 @@ url: "/sommarpratare-2023"
 date: "2023-06-21"
 images: ['/img/sommarpratare2023.jpg']
 author: ['Robert']
-categories: ['tillbakablick']
+categories: ['personer']
 tags: ['wikipedia']
 toc: false
 draft: false
