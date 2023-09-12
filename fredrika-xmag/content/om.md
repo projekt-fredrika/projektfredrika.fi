@@ -25,6 +25,7 @@ Sedan 2021 har Projekt Fredrika gått över till en uppdragscentrerad finansieri
 * [Youtube Projekt Fredrika](https://www.youtube.com/channel/UCTNhBrAT_82vgKTmP0Ur5CQ), flera videon om att redigera på Wikipedia och om Projekt Fredrika överlag
 
 ## Projekt Fredrika i median
+*   Hufvudstadsbladet, [90 procent av artiklarna på Wikipedia är skrivna av män – projekt Fredrika arbetar för att röda kvinnor ska bli blå](https://www.hbl.fi/artikel/aa53b55b-ff52-55cf-b783-52bafeabd114), av Melvin Londen 11.9.2023
 *   Språkbruk [Dialekten ger identiteten guldkant](https://www.sprakbruk.fi/-/dialekten-ger-identiteten-guldkant), av Kaj Arnö 5.4.2023
 *   Handelsgillet [Projekt Fredrika lyfter fram det svenska Finland på Wikipedia](https://www.handelsgillet.fi/sv/publikationer/article-186839-85605-projekt-fredrika-lyfter-fram-det-svenska-finland-pa-wikipedia), av Patrik Lindfors 20.03.2023
 *   Bok [Wikipedia inifrån](https://sv.wikipedia.org/wiki/Wikipedia_inifr%C3%A5n), av Johan Jönsson. Projekt Fredrika nämns på sida 164. Utgiven 2022
