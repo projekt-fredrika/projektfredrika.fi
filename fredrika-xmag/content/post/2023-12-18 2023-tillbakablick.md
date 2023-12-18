@@ -32,7 +32,7 @@ Vi har satt ut krokar för nya initiativ varav en del har nappat bättre än and
 
 ## Gen AI har möjliggjort effektivare kodning 2023 ...
 
-Gen AIs framsteg har hjälpt oss vara ännu mera produktivare än tidigare. Robert utnyttjar ChatGPT i att skriva kod - det har hjälpt i att uppnå över 150 000 redigeringar i Wikidata. 
+Gen AIs framsteg har hjälpt oss vara ännu mera produktivare än tidigare. Robert utnyttjar ChatGPT i att skriva kod - det har hjälpt i att uppnå över 150 000 redigeringar i Wikidata och att göra statistik över t.ex. tusentals Commons bilder och Wikipedia artiklar. 
 
 ## ... och behövs för att LLM-modellerna ska beskriva verkligheten rätt 
 
