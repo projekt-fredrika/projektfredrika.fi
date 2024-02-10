@@ -25,9 +25,13 @@ Sedan 2021 har Projekt Fredrika gått över till en uppdragscentrerad finansieri
 * [Youtube Projekt Fredrika](https://www.youtube.com/channel/UCTNhBrAT_82vgKTmP0Ur5CQ), flera videon om att redigera på Wikipedia och om Projekt Fredrika överlag
 
 ## Projekt Fredrika i median
+
+* Kotus blogg, [Snart kanske Chat GPT talar Pyttisdialekt](https://www.sprakinstitutet.fi/sv/publikationer/sprakspalter/sprakinstitutet_bloggar_2016-/snart_kanske_chat_gpt_talar_pyttisdialekt.40120.blog), av Charlotta af Hällström-Reijonens 24.10.2023
+*   TFiF-bladet, [Affärsmagasinet Forum: Färsk forntid med AI?](https://tfif.fi/affarsmagasinet-forum-farsk-forntid-med-ai/), av Kaj Arnö 15.9.2023
 *   Hufvudstadsbladet, [90 procent av artiklarna på Wikipedia är skrivna av män – projekt Fredrika arbetar för att röda kvinnor ska bli blå](https://www.hbl.fi/artikel/aa53b55b-ff52-55cf-b783-52bafeabd114), av Melvin Londen 11.9.2023
 *   Språkbruk [Dialekten ger identiteten guldkant](https://www.sprakbruk.fi/-/dialekten-ger-identiteten-guldkant), av Kaj Arnö 5.4.2023
 *   Handelsgillet [Projekt Fredrika lyfter fram det svenska Finland på Wikipedia](https://www.handelsgillet.fi/sv/publikationer/article-186839-85605-projekt-fredrika-lyfter-fram-det-svenska-finland-pa-wikipedia), av Patrik Lindfors 20.03.2023
+*   TFiF-bladet, [Hur mår forum-mag.fi?](https://tfif.fi/hur-mar-forum-mag-fi/), av Kaj Arnö 16.1.2023
 *   Bok [Wikipedia inifrån](https://sv.wikipedia.org/wiki/Wikipedia_inifr%C3%A5n), av Johan Jönsson. Projekt Fredrika nämns på sida 164. Utgiven 2022
 *   SLS-tidning Källan, [SLS når ny publik via Wikipedia (projektfredrika.fi)](https://projektfredrika.fi/sls-wikipedia/), eller [issuu.com](https://issuu.com/slsfinland/docs/k_llan_2022-2_webb_id_12908_), artikel av Michaela von Kügelgen, sidor 28-29, nummer 2/2022
 *   Hufvudstadsbladet, [HBL-läsarna bidrog stort till Projekt Fredrikas satsning på läroverk](https://www.hbl.fi/artikel/hbl-lasarna-bidrog-stort-till-projekt-fredrikas-satsning-pa-laroverk/), artikel av Petra Miettinen 30.4.2021
