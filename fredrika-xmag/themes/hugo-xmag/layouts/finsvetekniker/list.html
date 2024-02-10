@@ -6,6 +6,7 @@
 <main class="list">
 {{ $pages := .Pages }}
 {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+{{ $pages := $pages.ByWeight }}
 {{ $paginator := .Paginate (where $pages "Section" "!=" "") }}
 {{ range $paginator.Pages }}
 <section class="article-list">
