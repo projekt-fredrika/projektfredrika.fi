@@ -3,8 +3,8 @@
   {{ partial "temamenu.html" . }}
 <main class="list">
 {{ $pages := .Pages }}
-{{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-{{ $paginator := .Paginate (where $pages "Section" "!=" "") }}
+{{ if .IsHome }}{{ $pages = .Site.RegularPages  }}{{ end }}
+{{ $paginator := .Paginate (where $pages "Section" "!=" "finsvetekniker") }}
 {{ range $paginator.Pages }}
 <section class="article-list">
   <div class="categories">
