@@ -1,4 +1,4 @@
-# python scripts used when migrating projektfredrika.fi website from Wordpress to Hugo
+# python script used when migrating projektfredrika.fi website from Wordpress to Hugo
 
 import os
 import pandas as pd
