@@ -1,4 +1,4 @@
-# python scripts for editing md-files
+# python script used when migrating projektfredrika.fi website from Wordpress to Hugo
 
 import os
 import pandas as pd
