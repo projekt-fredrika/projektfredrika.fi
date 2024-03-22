@@ -26,6 +26,7 @@ Sedan 2021 har Projekt Fredrika gått över till en uppdragscentrerad finansieri
 
 ## Projekt Fredrika i median
 
+* Kotus artikel, [Dialekt och digitalisering: överföring av material ur Ordbok över Finlands svenska folkmål till Wikidata](https://www.sprakinstitutet.fi/sv/vara_ordbocker/dialektordbocker/ordbok_over_finlands_svenska_folkmal/dialekt_och_digitalisering), av Janina Andersson och Caroline Sandström, mars 2024 
 * Kotus blogg, [Snart kanske Chat GPT talar Pyttisdialekt](https://www.sprakinstitutet.fi/sv/publikationer/sprakspalter/sprakinstitutet_bloggar_2016-/snart_kanske_chat_gpt_talar_pyttisdialekt.40120.blog), av Charlotta af Hällström-Reijonens 24.10.2023
 *   TFiF-bladet, [Affärsmagasinet Forum: Färsk forntid med AI?](https://tfif.fi/affarsmagasinet-forum-farsk-forntid-med-ai/), av Kaj Arnö 15.9.2023
 *   Hufvudstadsbladet, [90 procent av artiklarna på Wikipedia är skrivna av män – projekt Fredrika arbetar för att röda kvinnor ska bli blå](https://www.hbl.fi/artikel/aa53b55b-ff52-55cf-b783-52bafeabd114), av Melvin Londen 11.9.2023
