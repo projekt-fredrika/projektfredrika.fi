@@ -35,5 +35,4 @@ Vi, det är Robert Silén och Kaj Arnö, det är **Projekt Fredrika** för det s
 
 Mitt förvärvsarbete är att leda **MariaDB Foundation**, som utvecklar MariaDB Server, den databas som Wikipedia bygger på och som har som ambition att bli **världens standarddatabas för att lagra vektorer för generativ AI**.
 
-[Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
-
+<a href="https://youtu.be/qBC4sa-aKJQ"><img src="/img/fredrika-matar-draken-kaj-pa-scen.jpeg" alt="Kaj Arnö på scen, Linda Mannila modererar"><br>Kaj Arnö på scen, Linda Mannila modererar, se Youtube-video (längd 2:30)</a>
