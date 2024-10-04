@@ -39,4 +39,5 @@ Mitt förvärvsarbete är att leda **MariaDB Foundation**, som utvecklar MariaDB
 
 ## Se även 
 * Åbo Underrättelser: [Kulturfonden – spindeln i det svenska Finlands AI-nät?](https://www.abounderrattelser.fi/artikel/kulturfonden-spindeln-i-det-svenska-finlands-ai-nat/), Kaj Arnö, 4.10.2024
+* TFiF: [Spindeln i det svenska Finlands AI-nät: Kulturfonden eller TFiF:en?](https://tfif.fi/spindeln-i-det-svenska-finlands-ai-nat-kulturfonden-eller-tfifen/), Kaj Arnö 4.10.2024
 * kaj.arno.fi: [Kulturfonden – spindeln i det svenska Finlands AI-nät?](https://kaj.arno.fi/ai-spindeln/)
