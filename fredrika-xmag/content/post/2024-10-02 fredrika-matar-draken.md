@@ -36,3 +36,7 @@ Vi, det är Robert Silén och Kaj Arnö, det är **Projekt Fredrika** för det s
 Mitt förvärvsarbete är att leda **MariaDB Foundation**, som utvecklar MariaDB Server, den databas som Wikipedia bygger på och som har som ambition att bli **världens standarddatabas för att lagra vektorer för generativ AI**.
 
 [Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
+
+## Se även 
+* Åbo Underrättelser: [Kulturfonden – spindeln i det svenska Finlands AI-nät?](https://www.abounderrattelser.fi/artikel/kulturfonden-spindeln-i-det-svenska-finlands-ai-nat/), Kaj Arnö, 4.10.2024
+* kaj.arno.fi: [Kulturfonden – spindeln i det svenska Finlands AI-nät?](https://kaj.arno.fi/ai-spindeln/)
