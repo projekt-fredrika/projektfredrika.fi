@@ -2,7 +2,7 @@
 title: "Finlandssvenska författare"
 url: "/finlandssvenska-forfattare/"
 date: "2021-02-01"
-images: ["/img/Tove-Jansson-1967-2.jpg"]
+images: ["/img/Tove_Jansson_with_flower_crown_001.jpg"]
 author: ['Robert']
 categories: ['Författare']
 tags: ['personer']
@@ -161,3 +161,7 @@ _Topp fem mest lästa f_örfattares artiklar på portugisiska: Tove Jansson, Geo
 ![](/2021/01/image-45-1024x340.png)
 
 15 språk ihop summerade, topp 5: Tove Jansson, Jörn Donner, Kjell Westö, Erik Heinrichs, Georg Henrik von Wright.
+
+
+# Fotnot
+* Fotografiet av Tove Jansson på denna sida är från Wikimedia Commons där den delats med licenset "Creative Commons Attribution 3.0 Unported": https://commons.wikimedia.org/wiki/File:Tove_Jansson_with_flower_crown_001.tiff
