@@ -6,7 +6,7 @@ images: ["/img/2024-ai-seminarium.jpeg"]
 author: ['Kaj']
 categories: ['Tillbakablick']
 tags: ['översikt','sls','kotus', 'projekt fredrika']
-toc: true
+toc: false
 draft: false
 _build:
   list: false
