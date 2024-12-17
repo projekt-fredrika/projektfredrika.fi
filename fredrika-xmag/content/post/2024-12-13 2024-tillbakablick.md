@@ -1,7 +1,7 @@
 ---
 title: "En tillbakablick på 2024"
 url: "/2024-tillbakablick/"
-date: "2023-12-18"
+date: "2024-12-13"
 images: ["/img/2024-ai-seminarium_2.jpeg"]
 author: ['Kaj']
 categories: ['Tillbakablick']
@@ -9,7 +9,7 @@ tags: ['översikt','sls','kotus', 'projekt fredrika']
 toc: false
 draft: false
 _build:
-  list: false
+  list: true
   publishResources: true
   render: true
 ---
