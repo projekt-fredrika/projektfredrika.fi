@@ -55,7 +55,7 @@ Om du vill beställa boken utomlands kan du kontakta oss via info@projektfredrik
 * Text och bilder från Wikipedia (som fått sig en storstädning på kuppen)
 * En bok, ca. 80% svenska, 10% finska, resten tyska, estniska, ryska, engelska, franska (helst i sjunkande ordningsföljd enligt modersmål för verkligt antal besökare)
 
-Här finns den senaste versionen för nedladdning: [Uppslagsverket\_Nagu\_2019.pdf](https://wiki.projektfredrika.fi/filer/Uppslagsverket_Nagu_2019.pdf), 132 MB, 288 sidor
+Här finns den senaste versionen för nedladdning: [Uppslagsverket\_Nagu\_2019.pdf](https://github.com/projekt-fredrika/projektfredrika.fi/releases/download/v1.0.0/Uppslagsverket_Nagu.pdf), 132 MB, 288 sidor
 
 ## Några luckor av Julkalendern med Bertel Nagubo
 
