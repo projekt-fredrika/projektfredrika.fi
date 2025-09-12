@@ -54,5 +54,6 @@ Nu då vi tittar på statistiken över Wikipedia dagliga visningar ser vi att [s
 
 Statistiken säger, att KAJ och Svenska Finland har nått ut i Europa! Tack till alla som stött och bidragit! 
 
-## Vidare läsning
-* Projektsidan [Wikipedia:Projekt Fredrika/KAJ](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/KAJ)
+## Vad allt gjordes? 
+
+För att se i detalj projektets resultat, kolla vår publika projektsida [Wikipedia:Projekt Fredrika/KAJ](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/KAJ) där vi listat det mesta: wikipedia artiklar på svenska och andra språk, wikimedia commons bilder, wikidata objekt, med mera. 
