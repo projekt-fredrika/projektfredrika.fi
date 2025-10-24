@@ -9,7 +9,7 @@ tags: ['Humorgruppen KAJ','Österbotten', 'Projekt Fredrika']
 toc: true
 draft: false
 _build:
-  list: false
+  list: true
   publishResources: true
   render: true
 ---
@@ -46,7 +46,7 @@ Vidare har vi lagt upp basdata i Wikidata i flera objekt, och bilder på Wikimed
 
 Förutom att själv redigera, har vi jobbat för att uppmuntra andra till redigeringsiver. Vi har skrivit önskelistor och kvitterat vad vi själva gjort på våra KAJ-projektsidor på [svenska](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/KAJ), [finska](https://fi.wikipedia.org/wiki/Wikiprojekti:Projekt_Fredrika/KAJ) och [engelska](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/KAJ). Innan Eurovision ordnade vi ett [virtuellt talko för KAJ på Wikipedia](https://projektfredrika.fi/kaj/) för Vöråbon i hopp att få lokal input t.ex. som bilder av ställen som nämns i KAJs låtar. Vi nådde en del Vöråbon på Zoom-samtalet, men de aktivaste deltagarna var överraskande nog finska wikipedianer som hört om vårt iniativ. På svenska Wikipedia ordnande vi en [“Veckans Tävling” för KAJ och Österbotten](https://sv.wikipedia.org/wiki/Wikipedia:Veckans_t%C3%A4vling/KAJ) med en del bidrag. För andra språk skapade vi ett [KAJ-Wikipedia-infopaket](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/KAJ_meta) som vi delade med åt [wikipedianer från 22 lokala språk](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/KAJ#Key_contributors_in_other_languages) som redigerat KAJ. 
 
-## Positiv statistik säger att det var värt det! 
+## Slutresultatet: Positiv statistik säger att det var värt det! 
 
 Nu då vi tittar på statistiken över Wikipedia dagliga visningar ser vi att [svenska](https://pageviews.wmcloud.org/?project=sv.wikipedia.org&platform=all-access&agent=user&redirects=1&start=2024-08&end=2025-07&pages=Kaj_(humorgrupp)%7CKevin_Holmstr%C3%B6m%7CAxel_%C3%85hman%7CJakob_Norrg%C3%A5rd%7CBara_bada_bastu%7CFinlandssvenska%7C%C3%96sterbottniska%7CV%C3%B6r%C3%A5%7CBastu%7CFinlandssvenskar) och [finska](https://pageviews.wmcloud.org/?project=fi.wikipedia.org&platform=all-access&agent=user&redirects=1&start=2024-08&end=2025-07&pages=Kevin_Holmstr%C3%B6m%7CAxel_%C3%85hman%7CJakob_Norrg%C3%A5rd%7CBara_bada_bastu%7CKaj_(yhtye)%7CSuomenruotsi%7CSuomenruotsalaiset%7CPohjanmaanruotsi%7CV%C3%B6yri%7CSauna) wikipedia svenska och finska visningar nådde sin topp vid Melodifestivalen, medan europas övriga språk skapade KAJ artiklar och toppade vid Eurovision. Visningar har sjunkit efter hypen, men absolut inte till noll - tyska artikelns dagliga visningar har inte äns sjungit under sommaren. De mest läst språken under Eurovisionen var engelska, svenska, finska, ryska, polska, italienska och sedan holländska - för såväl KAJ, Vörå och relaterade artiklar. 
 
@@ -54,6 +54,6 @@ Nu då vi tittar på statistiken över Wikipedia dagliga visningar ser vi att [s
 
 Statistiken säger, att KAJ och Svenska Finland har nått ut i Europa! Tack till alla som stött och bidragit! 
 
-## Vad allt gjordes? 
+## Se även
 
 För att se i detalj projektets resultat, kolla vår publika projektsida [Wikipedia:Projekt Fredrika/KAJ](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/KAJ) där vi listat det mesta: wikipedia artiklar på svenska och andra språk, wikimedia commons bilder, wikidata objekt, med mera. 
