@@ -48,10 +48,10 @@ För mera detaljer se vår [KAJ blog](https://projektfredrika.fi/kaj-pa-wikipedi
 *Bilder på KAJ från innan Bara Bada Bastu finns också Wikimedia Commons nu - tillgänglig för användning över alla Wikipedia språk.*
 
 ![Statistik över KAJ-artiklars visningar](/img/kaj-dagliga.png)
-*Statistik över KAJ-artiklars visningar*
+*Statistik över KAJ-artiklars visningar: svenska (blå) och finska (röd) sköt i höjderna under Melodifestivalen, medan andra skapades och växte inför Eurovision. Tyska (grön) till och med växte efter Eurovision.*
 
 ![KAJ Mall](/img/kaj-mall.png)
-*Alla artiklar vi skapat om KAJ på svenska, och en navruta för att navigera mellan dem*
+*Alla artiklar vi skapat om KAJ på svenska, och en navruta för att navigera mellan dem.*
 
 ## 3\. Finlands författare
 
@@ -69,11 +69,11 @@ För mera detaljer se projektsidorna [Wikipedia:Projekt\_Fredrika/SLS-Författar
 
 ![Förbehandling i Cursor av Författar-material](/img/2025-12-forfattare-cursor.jpeg)
 
-*Förbehandling i Cursor med AI-genererad "klassisk IT" python kod: konverterar scannad PDF i förgrunden till strukturerad data i bakgrunden*
+*Förbehandling i Cursor med AI-genererad "klassisk IT" python kod: konverterar scannad PDF i förgrunden till strukturerad data i bakgrunden.*
 
 ![Lovable verktyg för Författarna](/img/2025-12-25-lovable.jpeg)
 
-*Lovable verktyg för att generera förbättringsförslag: nuvarande Wikipedia artikeln till vänster, källan i mitten, och AI-genererade förbättringsförslaget till höger*
+*Lovable verktyg för att generera förbättringsförslag: nuvarande Wikipedia artikeln till vänster, källan i mitten, och AI-genererade förbättringsförslaget till höger.*
 
 ## 4\. SuRu och Wikidata
 
@@ -89,7 +89,7 @@ För mera detaljer se projektsidan [Wikipedia:Projekt\_Fredrika/Suru](https://sv
 
 ![Jääkäri i Wikidata](/img/2025-12-12-suru-jagare-wikidata.jpeg)
 
-*Finska "jääkäri" lexemet i Wikidata har kod [L1449014](https://www.wikidata.org/wiki/Lexeme:L1449014). Översättningen är svenska "jägare" lexemets andra betydelse, se [L51565#S2](https://www.wikidata.org/wiki/Lexeme:L51565#S2)*
+*Finska "jääkäri" lexemet i Wikidata har kod [L1449014](https://www.wikidata.org/wiki/Lexeme:L1449014). Översättningen är svenska "jägare" lexemets andra betydelse, se [L51565#S2](https://www.wikidata.org/wiki/Lexeme:L51565#S2).*
 
 ![Jägare](/img/2025-12-12-suru-cursor.jpeg)
 
@@ -115,6 +115,10 @@ Både Kaj och Robert jobbar  för MariaDB där vi lärt oss om 1\) AI-embeddings
 
 Vi jobbar framgångsrikt med deltidsjobbande abiturienter men vill utvidga till universitetsstuderande och forskare. Det finns potential att jämföra Wikipedia med akademisk forskning eller mellan språkversioner – t.ex. beskrivs [Kagalen](https://sv.wikipedia.org/wiki/Kagalen) olika på svenska och finska. Under [SLS 140-årsjubileum](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/) fick vi kontakt till Henrika Tandefelt, historieprofessor vid Helsingfors universitet.
 
+![Projekt Fredrikas deltidsarbetare på julmiddagen 2025](/img/2025-12-julmiddag-02.jpeg)
+
+*I förgrunden är Projekt Fredrikas deltidsarbetare och sommarjobbare (samt verksamhetsgranskare) på julmiddagen 2025.*
+
 ### 5\) KAJ och lokala krafter
 Projektet kunde ha mått bättre av mera lokalhjälp. Vöråborna baxade en bastu till Eurovision i Schweiz, men vi lyckades inte skapa det engagemang kring Wikipedia som vi hoppats på för lokalkunskap och fotografering.
 
@@ -122,7 +126,7 @@ Projektet kunde ha mått bättre av mera lokalhjälp. Vöråborna baxade en bast
 
 För ett par år sedan startade vi Projekt Kateryna som skulle göra det för Ukraina som Fredrika gör för det svenska Finland. Trots lokalt intresse i Ukraina och våra egna försök att skapa intresse i väst, lyckades vi inte hitta lämplig finansiering inom Västerlandet. Vi anser att krigen 2008 i Georgien och 2014 samt 2022 aldrig hade uppstått om det inte var för all okunskap om Ukraina och om Rysslands koloniala förtryck – okunskap som senast nu borde lappas till.
 
-Se Kajs föredragi London på Youtube: [Saving the World by feeding the AI Dragon with unbiased open data / Kaj Arnö @ SOOCon25 London](https://www.youtube.com/watch?v=b1uJsIhAk-4&list=PLzcbpdAwMQ03tjnp59i_WPnXvN7K-IHGg). Projektets hemsida lever vidare vid [projektkateryna.netlify.app](https://projektkateryna.netlify.app).
+Se Kajs föredragi London på Youtube: [Saving the World by feeding the AI Dragon with unbiased open data / Kaj Arnö @ SOOCon25 London](https://projektkateryna.netlify.app/saving-world-with-ai-dragon/). Projektets hemsida lever vidare vid [projektkateryna.netlify.app](https://projektkateryna.netlify.app).
 
 # Vad vill vi göra 2026?
 
