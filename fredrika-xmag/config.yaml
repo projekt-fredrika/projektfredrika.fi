@@ -9,7 +9,8 @@ preserveTaxonomyNames: true
 footnotereturnlinkcontents: "↩"
 hasCJKLanguage: true
 enableEmoji: true
-paginate: 100
+pagination:
+  pagerSize: 100
 buildDrafts: false
 
 permalinks:
