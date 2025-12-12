@@ -45,7 +45,7 @@ Vi förbättrade KAJ:s artikel, skapade sidoartiklar för deras verk (se [navrut
 För mera detaljer se vår [KAJ blog](https://projektfredrika.fi/kaj-pa-wikipedia/) samt projektsidan [Wikipedia:Projekt\_Fredrika/KAJ](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/KAJ).
 
 ![KAJ på Commons](/img/2025-12-12-KAJ-commons.jpg)
-*Bilder på KAJ från innan Bara Bada Bastu finns också Wikimedia Commons nu - tillgänglig för användning över alla Wikipedia språk.*
+*Bilder på KAJ från innan Bara Bada Bastu finns också på Wikimedia Commons nu - tillgänglig för användning över alla Wikipedia språk.*
 
 ![Statistik över KAJ-artiklars visningar](/img/kaj-dagliga.png)
 *Statistik över KAJ-artiklars visningar: svenska (blå) och finska (röd) sköt i höjderna under Melodifestivalen, medan andra skapades och växte inför Eurovision. Tyska (grön) till och med växte efter Eurovision.*
