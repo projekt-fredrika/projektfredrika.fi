@@ -48,10 +48,10 @@ För mera detaljer se vår [KAJ blog](https://projektfredrika.fi/kaj-pa-wikipedi
 *Bilder på KAJ från innan Bara Bada Bastu finns också på Wikimedia Commons nu - tillgänglig för användning över alla Wikipedia språk.*
 
 ![Statistik över KAJ-artiklars visningar](/img/kaj-dagliga.png)
-*Statistik över KAJ-artiklars visningar: svenska (blå) och finska (röd) sköt i höjderna under Melodifestivalen, medan andra skapades och växte inför Eurovision. Tyska (grön) till och med växte efter Eurovision.*
+*Statistik över KAJ-artiklars visningar: svenska (blå) och finska (röd) sköt i höjderna under Melodifestivalen, medan andra skapades och växte inför Eurovision. Tyska (grön) visningar växte även efter Eurovision.*
 
 ![KAJ Mall](/img/kaj-mall.png)
-*Alla artiklar vi skapat om KAJ på svenska, och en navruta för att navigera mellan dem.*
+*Alla artiklar vi skapat om KAJ på svenska i en navruta vi skapat för att navigera mellan dem.*
 
 ## 3\. Finlands författare
 
@@ -85,7 +85,7 @@ För mera detaljer se projektsidan [Wikipedia:Projekt\_Fredrika/Suru](https://sv
 
 ![Jääkäri i SuRu](/img/2025-12-12-suru-jagare.jpeg)
 
-*Ordet [jääkäri](https://kaino.kotus.fi/suomi-ruotsi/?p=qs-article&suru_id=SURU_4daac4a1ef361220e24d5724992a4e76&list_id=1&keyword=j%C3%A4%C3%A4k%C3%A4ri&word=j%C3%A4%C3%A4k%C3%A4ri) är markerat i SuRu med "hist Suom" iom ordets Finland specifika betydelse. I skärmdumpen ser man även ett verktyg vi utvecklat för att visa Suru ordet motsvariga lexem i Wikidata - vilket underlättar ihoplänkning av översättningar i Wikidata.*
+*Ordet [jääkäri](https://kaino.kotus.fi/suomi-ruotsi/?p=qs-article&suru_id=SURU_4daac4a1ef361220e24d5724992a4e76&list_id=1&keyword=j%C3%A4%C3%A4k%C3%A4ri&word=j%C3%A4%C3%A4k%C3%A4ri) är markerat i SuRu med "hist Suom" iom ordets Finland specifika betydelse. I skärmdumpen ser man även ett verktyg vi utvecklat för att visa SuRu-ordets motsvariga lexem i Wikidata - vilket underlättar ihoplänkning av översättningar i Wikidata.*
 
 ![Jääkäri i Wikidata](/img/2025-12-12-suru-jagare-wikidata.jpeg)
 
