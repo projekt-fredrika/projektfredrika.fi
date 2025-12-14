@@ -16,7 +16,7 @@ _build:
 
 # Das Jahr 2025 von Projekt Fredrika – und der Blick auf 2026
 
-*[KI-Übersetzung vom Originalbeitrag auf Schwedisch](/sammandrag-2025-siktet-pa-2026)*
+*[Übersetzung vom Originalbeitrag auf Schwedisch](/sammandrag-2025-siktet-pa-2026)*
 
 Der engste Kreis von Projekt Fredrika versammelte sich am 8. Dezember 2025 zu einem Weihnachtsessen in Tölö, Helsingfors. Der Vorstandsvorsitzende Kaj Arnö hielt die Rede des Abends darüber, was wir 2025 erreicht haben, was wir gelernt haben und was wir für 2026 anstreben.
 

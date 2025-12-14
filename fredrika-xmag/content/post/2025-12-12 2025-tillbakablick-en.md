@@ -16,7 +16,7 @@ _build:
 
 # Projekt Fredrika's Year 2025 – and Sights Set on 2026
 
-*[AI-translation from original post in Swedish](/sammandrag-2025-siktet-pa-2026)*
+*[Translation from original post in Swedish](/sammandrag-2025-siktet-pa-2026)*
 
 Projekt Fredrika's inner circle gathered for a Christmas dinner on December 8, 2025 in Tölö, Helsingfors. Board Chairman Kaj Arnö gave the evening's speech about what we accomplished in 2025, what we learned, and what we're aiming for in 2026.
 

@@ -16,7 +16,7 @@ _build:
 
 # Projekt Fredrikan vuosi 2025 – ja katse vuoteen 2026
 
-*[AI-käännös alkuperäisestä ruotsinkielisestä julkaisusta](/sammandrag-2025-siktet-pa-2026)*
+*[Käännös alkuperäisestä ruotsinkielisestä julkaisusta](/sammandrag-2025-siktet-pa-2026)*
 
 Projekt Fredrikan ydinjoukko kokoontui joulupäivälliselle 8. joulukuuta 2025 Töölössä, Helsingissä. Hallituksen puheenjohtaja Kaj Arnö piti illan puheen siitä, mitä saavutimme vuonna 2025, mitä opimme ja mihin tähtäämme vuonna 2026.
 
