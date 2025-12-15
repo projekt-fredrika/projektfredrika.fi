@@ -24,13 +24,13 @@ Bevor wir eine Zusammenfassung von Kajs Rede teilen, erklären wir, was Projekt 
 
 # Was ist Projekt Fredrika?
 
-Projekt Fredrika verbessert die Abdeckung von Schwedisch-Finnland und Schwedisch in Finnland auf Wikipedia, auf Schwedisch und in anderen Sprachen. Das Projekt ist über Projektseiten auf Wikipedia in mehreren Sprachen organisiert sowie durch den eingetragenen Verein Projekt Fredrika rf. Mehr auf Englisch unter [en:Wikipedia:Projekt_Fredrika](https://en.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), und noch mehr Details auf Schwedisch: [sv:Wikipedia:Projekt_Fredrika](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika).
+Projekt Fredrika verbessert die Darstellung von Schwedisch-Finnland und Schwedisch in Finnland auf Wikipedia, auf Schwedisch und in anderen Sprachen. Das Projekt ist über Projektseiten auf Wikipedia in mehreren Sprachen organisiert sowie durch den eingetragenen Verein Projekt Fredrika rf. Mehr auf Deutsch unter [de:Wikipedia:Projekt_Fredrika](https://de.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika), und noch mehr Details auf Schwedisch: [sv:Wikipedia:Projekt_Fredrika](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika).
 
 Und nun zu Kajs Rede:
 
 # Was wir 2025 getan haben
 
-Die diesjährige Arbeit kann nach unseren Geldgebern aufgeteilt werden: Svenska kulturfonden, Svenska litteratursällskapet i Finland und Harry Schaumans stiftelse in Österbotten.
+Die diesjährige Arbeit kann nach unseren Geldgebern aufgeteilt werden: Svenska kulturfonden, Svenska litteratursällskapet i Finland und Harry Schaumans stiftelse in Ostbottnien.
 
 ## 1. Den KI-Drachen füttern
 
@@ -65,7 +65,7 @@ Für weitere Details siehe unseren [KAJ-Blog](https://projektfredrika.fi/kaj-pa-
 
 ## 3. Finnlands Autoren
 
-Mit Svenska litteratursällskapet arbeiten wir in „Paketen", vier pro Jahr. Dieses Jahr drehten sich alle um die Buchreihe Finlands författare (Finnlands Autoren) – drei Bände mit insgesamt über 6.600 Autoren, die 1809–1916, 1917–1944 und 1945–1980 aktiv waren – veröffentlicht 1981, 1985 und 1993.
+Mit Svenska litteratursällskapet arbeiten wir in vier „Paketen" pro Jahr. Dieses Jahr drehten sich alle um die Buchreihe Finlands författare (Finnlands Autoren) – drei Bände mit insgesamt über 6.600 Autoren, die 1809–1916, 1917–1944 und 1945–1980 aktiv waren – veröffentlicht 1981, 1985 und 1993.
 
 Die Arbeit hatte zwei Phasen. Zuerst bereiteten wir das gescannte Material vor und erstellten das Wikidata-Rückgrat mit traditioneller IT (Python-Skripte). Über 4.200 Autoren wurden mit Wikidata-Objekten verknüpft – die relevantesten Autoren unabhängig von finnischer oder schwedischer Sprache, mit Geburtsdaten und mehreren Zeilen Inhalt im Buch.
 
@@ -87,7 +87,7 @@ Für weitere Details siehe die Projektseiten [Wikipedia:Projekt_Fredrika/SLS-Fö
 
 ## 4. SuRu und Wikidata
 
-Der zweite Zuschuss von Svenska kulturfonden war anders: Verbesserung von Wikidata-Lexemen mit [Stora finsk-svenska ordboken](https://sprakinstitutet.fi/ordbocker/stora-finsk-svenska-ordboken/) (SuRu, Das große Finnisch-Schwedische Wörterbuch). Die Idee kam uns, nachdem wir zuvor Dialektwörter aus [Ordbok över Finlands svenska folkmål](https://sprakinstitutet.fi/ordbocker/ordbok-over-finlands-svenska-folkmal/) (Wörterbuch der finnlandschwedischen Dialekte) in Zusammenarbeit mit [Institutet för de inhemska språken](https://sprakinstitutet.fi/) (Institut für die einheimischen Sprachen) eingetragen hatten.
+Der zweite Zuschuss von Svenska kulturfonden galt einem anderen Ziel: Verbesserung von Wikidata-Lexemen mit [Stora finsk-svenska ordboken](https://sprakinstitutet.fi/ordbocker/stora-finsk-svenska-ordboken/) (SuRu, Das große Finnisch-Schwedische Wörterbuch). Die Idee kam uns, nachdem wir zuvor Dialektwörter aus [Ordbok över Finlands svenska folkmål](https://sprakinstitutet.fi/ordbocker/ordbok-over-finlands-svenska-folkmal/) (Wörterbuch der finnlandschwedischen Dialekte) in Zusammenarbeit mit [Institutet för de inhemska språken](https://sprakinstitutet.fi/) (Institut für die einheimischen Sprachen) eingetragen hatten.
 
 Das gesamte Wörterbuch in [Wikidatas Lexem-Struktur](https://www.wikidata.org/wiki/Wikidata:Lexicographical_data) abzubilden ist überwältigend – das Buch hat über 100.000 Einträge. Wir wählten zwei Bereiche: die häufigsten Nachschlagewörter laut Google Analytics und finnlandspezifische Wörter, die im Wörterbuch mit „Suom" markiert sind (z.B. bergsråd/Bergrat). Ein schwieriger und interessanter Auftrag mit komplizierten Wikidata-Strukturen.
 
@@ -123,7 +123,7 @@ Sowohl Kaj als auch Robert arbeiten für MariaDB, wo wir über 1) KI-Embeddings 
 
 ### 4) Von Gymnasiasten zur Universitätszusammenarbeit
 
-Wir arbeiten erfolgreich mit Teilzeit-Gymnasiasten, wollen aber auf Universitätsstudenten und Forscher ausweiten. Es gibt Potenzial, Wikipedia mit akademischer Forschung oder zwischen Sprachversionen zu vergleichen – zum Beispiel wird [Kagalen](https://sv.wikipedia.org/wiki/Kagalen) (die Kabale) auf Schwedisch und Finnisch unterschiedlich beschrieben. Während des [SLS 140-jährigen Jubiläums](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/) knüpften wir Kontakt mit Henrika Tandefelt, Geschichtsprofessorin an der Universität Helsingfors.
+Wir arbeiten erfolgreich mit Teilzeit-Gymnasiasten, wollen aber auf Universitätsstudenten und Forscher ausweiten. Es gibt Potenzial, Wikipedia mit akademischer Forschung oder zwischen Sprachversionen zu vergleichen – zum Beispiel wird [Kagalen](https://sv.wikipedia.org/wiki/Kagalen) (die Kabale) auf Schwedisch und Finnisch unterschiedlich beschrieben. Während des [SLS 140-jährigen Jubiläums](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/) knüpften wir Kontakt mit [Henrika Tandefelt](https://de.wikipedia.org/wiki/Henrika_Tandefelt), Geschichtsprofessorin an der Universität Helsingfors.
 
 ![Projekt Fredrikas Teilzeitkräfte beim Weihnachtsessen 2025](/img/2025-12-julmiddag-02.jpeg)
 

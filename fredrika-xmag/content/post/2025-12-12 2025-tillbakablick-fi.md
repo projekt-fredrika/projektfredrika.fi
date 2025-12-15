@@ -123,7 +123,7 @@ Sekä Kaj että Robert työskentelevät MariaDB:lle, jossa opimme 1) tekoälyupo
 
 ### 4) Lukiolaisista yliopisto­yhteistyöhön
 
-Työskentelemme menestyksekkäästi osa-aikaisten lukiolaisten kanssa, mutta haluamme laajentaa yliopisto-opiskelijoihin ja tutkijoihin. On potentiaalia verrata Wikipediaa akateemiseen tutkimukseen tai kieliversioiden välillä – esimerkiksi [Kagaalia](https://sv.wikipedia.org/wiki/Kagalen) kuvataan eri tavoin ruotsiksi ja suomeksi. [SLS:n 140-vuotisjuhlien](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/) aikana olimme yhteydessä Henrika Tandefeltiin, historian professoriin Helsingin yliopistossa.
+Työskentelemme menestyksekkäästi osa-aikaisten lukiolaisten kanssa, mutta haluamme laajentaa yliopisto-opiskelijoihin ja tutkijoihin. On potentiaalia verrata Wikipediaa akateemiseen tutkimukseen tai kieliversioiden välillä – esimerkiksi [Kagaalia](https://sv.wikipedia.org/wiki/Kagalen) kuvataan eri tavoin ruotsiksi ja suomeksi. [SLS:n 140-vuotisjuhlien](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/) aikana olimme yhteydessä [Henrika Tandefeltiin](https://fi.wikipedia.org/wiki/Henrika_Tandefelt), historian professoriin Helsingin yliopistossa.
 
 ![Projekt Fredrikan osa-aikaiset työntekijät joulupäivällisellä 2025](/img/2025-12-julmiddag-02.jpeg)
 

@@ -113,7 +113,7 @@ Både Kaj och Robert jobbar  för MariaDB där vi lärt oss om 1\) AI-embeddings
 
 ### 4\) Från abiturienter till Universitetssamarbete
 
-Vi jobbar framgångsrikt med deltidsjobbande abiturienter men vill utvidga till universitetsstuderande och forskare. Det finns potential att jämföra Wikipedia med akademisk forskning eller mellan språkversioner – t.ex. beskrivs [Kagalen](https://sv.wikipedia.org/wiki/Kagalen) olika på svenska och finska. Under [SLS 140-årsjubileum](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/) fick vi kontakt till Henrika Tandefelt, historieprofessor vid Helsingfors universitet.
+Vi jobbar framgångsrikt med deltidsjobbande abiturienter men vill utvidga till universitetsstuderande och forskare. Det finns potential att jämföra Wikipedia med akademisk forskning eller mellan språkversioner – t.ex. beskrivs [Kagalen](https://sv.wikipedia.org/wiki/Kagalen) olika på svenska och finska. Under [SLS 140-årsjubileum](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/) fick vi kontakt till [Henrika Tandefelt](https://sv.wikipedia.org/wiki/Henrika_Tandefelt), historieprofessor vid Helsingfors universitet.
 
 ![Projekt Fredrikas deltidsarbetare på julmiddagen 2025](/img/2025-12-julmiddag-02.jpeg)
 

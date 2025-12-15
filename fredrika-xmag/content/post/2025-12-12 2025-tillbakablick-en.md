@@ -123,7 +123,7 @@ Both Kaj and Robert work for MariaDB, where we learned about 1) AI embeddings th
 
 ### 4) From High School Students to University Collaboration
 
-We work successfully with part-time high school students but want to expand to university students and researchers. There's potential to compare Wikipedia with academic research or between language versions – for example, [Kagalen](https://sv.wikipedia.org/wiki/Kagalen) (the Cabal) is described differently in Swedish and Finnish. During the [SLS 140th anniversary](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/), we made contact with Henrika Tandefelt, history professor at Helsingfors University.
+We work successfully with part-time high school students but want to expand to university students and researchers. There's potential to compare Wikipedia with academic research or between language versions – for example, [Kagalen](https://sv.wikipedia.org/wiki/Kagalen) (the Cabal) is described differently in Swedish and Finnish. During the [SLS 140th anniversary](https://www.sls.fi/sv/evenemang/svenska-litteratursallskapets-140-arsjubileum/), we made contact with [Henrika Tandefelt](https://sv.wikipedia.org/wiki/Henrika_Tandefelt), history professor at Helsingfors University.
 
 ![Projekt Fredrika's part-time workers at the 2025 Christmas dinner](/img/2025-12-julmiddag-02.jpeg)
 
