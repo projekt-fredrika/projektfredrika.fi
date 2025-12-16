@@ -36,7 +36,7 @@ Die diesjährige Arbeit kann nach unseren Geldgebern aufgeteilt werden: Svenska 
 
 Wir erhielten zwei Zuschüsse von Svenska kulturfonden. Der erste Auftrag hieß „Den KI-Drachen füttern" („Mata AI-draken") – sicherstellen, dass ChatGPT, Claude, Gemini und andere LLMs das schwedischsprachige Finnland so gut wie möglich kennen. LLMs nutzen Wikipedia und Wikidata als zuverlässige „Wahrheits"-Quellen, also Informationen, die von einer Gemeinschaft auf Fakten überprüft wurden.
 
-„Den KI-Drachen füttern" bedeutete einfach, Wikipedia mit einer Methodik zu verbessern, bei der wir KI nutzen, um KI zu füttern. Wir bauten Werkzeuge, die Wikipedia-Bearbeitungen basierend auf ausgewählten Quellen vorschlagen. Dies folgte auf [Kajs Präsentation im Herbst 2024](https://projektfredrika.fi/fredrika-matar-ai-draken/).
+„Den KI-Drachen füttern" bedeutete einfach, Wikipedia mit einer Methode zu verbessern, bei der wir KI nutzen, um KI zu füttern. Wir bauten Werkzeuge, die Wikipedia-Bearbeitungen basierend auf ausgewählten Quellen vorschlagen. Dies folgte auf [Kajs Präsentation im Herbst 2024](https://projektfredrika.fi/fredrika-matar-ai-draken/).
 
 ![Kaj hält eine Präsentation](/img/2025-12-mata-ai-draken.jpeg)
 
