@@ -36,12 +36,14 @@
 
 <main>
 
-{{ with .Params.images }}
-  {{ with index . 0 }}
-    {{ with resources.Get . }}
-      <img src="{{ .RelPermalink }}" width="{{ .Width }}" alt="">
-    {{ else }}
-      {{ errorf "Unable to find image %s" . }}
+{{ if ne .Params.showImage false }}
+  {{ with .Params.images }}
+    {{ with index . 0 }}
+      {{ with resources.Get . }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" alt="">
+      {{ else }}
+        {{ errorf "Unable to find image %s" . }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
