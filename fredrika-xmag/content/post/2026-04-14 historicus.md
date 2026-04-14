@@ -1,5 +1,5 @@
 ---
-title: "Historicus föredrag: Hjälp "
+title: "Hjälp Projekt Fredrika mata AI-draken med Finlands historia (föredrag vid Historicus r.f.)"
 url: "/historicus/"
 date: "2026-04-14"
 images: ["/img/historicus.jpeg"]
