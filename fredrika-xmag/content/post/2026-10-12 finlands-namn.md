@@ -104,8 +104,8 @@ hertigdömet och storfurstetiteln, det omstridda "Sverige-Finland" — och
 Fastlandsfinland, som visar att frågan inte är avklarad med 1800-talet utan pågår i
 dagens statistik och myndighetsspråk.
 
-Då var materialet för stort för att vara ett avsnitt i en landsartikel. Den 20 augusti
-bröts det ut till en egen artikel, **[Finlands namn](https://sv.wikipedia.org/wiki/Finlands_namn)**, medan en kortare sammanfattning blev kvar
+I mitten av augusti hade avsnittet vuxit sig för stort för att rymmas i en
+landsartikel. Den 20 augusti bröts det ut till en egen artikel, **[Finlands namn](https://sv.wikipedia.org/wiki/Finlands_namn)**, medan en kortare sammanfattning blev kvar
 i artikeln om Finland. Samma dag uppdaterades motsvarande avsnitt på finska och
 engelska, och materialet fördes också in i den finska artikeln [*Suomen nimet*](https://fi.wikipedia.org/wiki/Suomen_nimet) och i en ny engelsk
 artikel, [*Names of Finland*](https://en.wikipedia.org/wiki/Names_of_Finland).
