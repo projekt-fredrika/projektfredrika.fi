@@ -7,7 +7,7 @@ author: ['Robert']
 categories: ['historia']
 tags: ['wikipedia','begreppshistoria','historia','projekt fredrika']
 toc: false
-showImage: false
+images: ["/img/sf-golf-aland.jpg"]
 draft: false
 _build:
   list: false
@@ -17,6 +17,11 @@ _build:
 
 *Varför heter Finland Finland? Spoiler alert: ingen vet. Så redde Projekt Fredrikas
 historiker ut landets två namns historia.*
+
+<p><small>SF stod för "Suomi–Finland" och AX för Åland. Volkswagen Golf i Mariehamn
+2008. Foto: TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY
+3.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:VW_Golf_I_%C3%85land.JPG">Wikimedia
+Commons</a>, beskuren.</small></p>
 
 Det mesta vi säger om historien bärs upp av ord som vi behandlar som om de låg stilla.
 Land, folk, språk, nation, folkrörelser, koncept. De har sällan legat stilla. Att
