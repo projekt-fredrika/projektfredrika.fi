@@ -44,13 +44,13 @@ förklaringen, som går tillbaka till 1600-talet, var att båda namnen betyder
 "kärrlandet" — *suo* betyder kärr på finska, och *fen* är kärr på äldre nordiska. Den
 är i dag förkastad, på både semantiska och morfologiska grunder.
 
-Och namnet Finland har dessutom flyttat sig. Det betecknade först bara kusttrakten
+Namnet Finland har dessutom flyttat sig. Det betecknade först bara kusttrakten
 kring Åbo, det landskap som långt senare kom att kallas Egentliga Finland. Sveriges
 hela östra riksdel hette officiellt Österlandet, ett namn som användes i officiella
 dokument så sent som 1525. Först därefter tog Finland över den vidare betydelsen.
 Ordet *finnr*, som ligger bakom Finland, betecknade i norskt bruk samerna och i
 svenskt bruk invånarna i sydvästra Finland — en parallell har dragits till det
-germanska ord som ligger bakom *welsh*, *vallon* och *vlach*, där betydelsen var
+germanska ord som gett *welsh*, *vallon* och *vlach*, där betydelsen var
 ungefär "de som inte är vi".
 
 ## Så illa var det förklarat
@@ -76,9 +76,10 @@ sedan hundra år kan inte avgöra det.
 
 ## Vad en historiker gjorde med saken
 
-Pavel Petrov, historiker och deltidsanställd i Projekt Fredrika, tog sig an avsnitten
-i juli. Hans första åtgärd, den 1 juli, var inte att skriva något nytt. Den var att
-sätta markeringen "källa behövs" på det som redan stod där.
+Pavel Petrov, historiker och deltidsanställd i Projekt Fredrika, tog sig an avsnittet
+[Finland#Namn](https://sv.wikipedia.org/wiki/Finland#Namn) i juli. Hans första åtgärd,
+den 1 juli, var inte att skriva något nytt. Den var att sätta markeringen "källa
+behövs" på det som redan stod där.
 
 Därefter följde arbetet: gå till forskningen, skilja de förkastade hypoteserna från de
 levande, redovisa att det finns två konkurrerande förklaringar i stället för att välja
@@ -145,10 +146,15 @@ knappt mer än en ordförklaring. Dess motpart
 tecken. Därtill kommer ett stort antal besläktade artiklar, och begrepp som klargjorts
 på plats i artiklar som handlar om annat.
 
+För att få en överblick skapade vi i september en egen navigeringsruta,
+[Svekomani](https://sv.wikipedia.org/wiki/Mall:Svekomani) — "Svenskhetsrörelsen och
+språkstriderna i Finland" — som samlar alla väsentliga artiklar på ett ställe och visar
+hur de hänger samman. Rutan gör också synligt vad som ännu återstår.
+
 Sammanlagt har Pavel Petrov, Johan Pekanmäki, Valter Finnäs, Samuel Branders och Ida
-Karlgren bearbetat 37 av de 61 artiklarna i [navigeringsmallen Svekomani](https://sv.wikipedia.org/wiki/Mall:Svekomani) "Svenskhetsrörelsen och språkstriderna i Finland", varav åtta har
-skapats från ingenting. De svenska artiklarna har tillsammans växt från omkring 404 000
-till 913 000 tecken. Arbetet dokumenteras löpande på [projektets sida på
+Karlgren bearbetat 37 av rutans 61 artiklar, varav åtta har skapats från ingenting. De
+svenska artiklarna har tillsammans växt från omkring 404 000 till 913 000 tecken.
+Arbetet dokumenteras löpande på [projektets sida på
 Wikipedia](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Historicus).
 
 Det är arbete som kräver historiker med koll på källorna. Att skriva att ett ord kommer
@@ -162,5 +168,10 @@ kapitel hos Svenska litteratursällskapet. Nu är de tillgängliga för den som 
 och för den som ber en AI förklara, eftersom språkmodellerna lär sig just av det som
 står på Wikipedia. Vad som finns där avgör vad de kan svara.
 
-Att Finlands namn nu är ordentligt förklarat, med 140 källhänvisningar, är en liten
-sak. Men det är den sortens liten sak som ett uppslagsverk består av.
+För den som vill gå vidare är allt dessutom klart källbelagt. Varje påstående har sin
+hänvisning, så att den intresserade kan läsa in sig på djupet — i bästa fall med ett
+klick, när källan finns digitalt tillgänglig.
+
+Finlands namn är en liten, enskild artikel på Wikipedia. Men att den nu är ordentligt
+förklarad, med 140 källhänvisningar, är ett stort steg för att förbättra det
+uppslagsverk vi alla läser.
