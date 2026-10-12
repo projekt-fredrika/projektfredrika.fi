@@ -108,12 +108,13 @@ artikel, [*Names of Finland*](https://en.wikipedia.org/wiki/Names_of_Finland).
 Resultatet i siffror:
 
 - **[Finlands namn](https://sv.wikipedia.org/wiki/Finlands_namn)**: 51 223 tecken, **140 källhänvisningar** till 73 olika källor — 46 böcker, 6
-  tidskriftsartiklar och 17 webbkällor. - Kvar i [artikeln om Finland](https://sv.wikipedia.org/wiki/Finland#Namn): en sammanfattning på 4 712
-  tecken med 12 källhänvisningar — tre gånger fler källor än förut, på kortare text.
-  Avsnittet inleds nu med en hänvisning till huvudartikeln, så att den som vill gå
-  vidare hittar dit. - Finska [*Suomen nimet*](https://fi.wikipedia.org/wiki/Suomen_nimet) växte från 4 135 till 21 533 tecken, och avsnittet i
-  *Suomi* från 1 138 till 3 740 tecken med 19 källhänvisningar. - Engelska [*Names of Finland*](https://en.wikipedia.org/wiki/Names_of_Finland), ny
-  artikel: 26 697 tecken.
+  tidskriftsartiklar och 17 webbkällor.
+- Kvar i [artikeln om Finland](https://sv.wikipedia.org/wiki/Finland#Namn): en sammanfattning på 4 712 tecken med 12 källhänvisningar — tre gånger
+  fler källor än förut, på kortare text. Avsnittet inleds nu med en hänvisning till
+  huvudartikeln, så att den som vill gå vidare hittar dit.
+- Finska [*Suomen nimet*](https://fi.wikipedia.org/wiki/Suomen_nimet) växte från 4 135 till 21 533 tecken, och avsnittet i *Suomi* från 1 138
+  till 3 740 tecken med 19 källhänvisningar.
+- Engelska [*Names of Finland*](https://en.wikipedia.org/wiki/Names_of_Finland), ny artikel: 26 697 tecken.
 
 ## Utmärkelsen
 
