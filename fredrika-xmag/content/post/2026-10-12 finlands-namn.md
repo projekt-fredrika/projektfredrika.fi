@@ -1,5 +1,5 @@
 ---
-title: "Begreppshistoria i praktiken: varför heter Finland Finland?"
+title: "Fredrikas begreppshistoria röstad till månadens artikel: Finlands namn"
 slug: "finlands_namn"
 url: "/finlands_namn/"
 date: "2026-10-12"
@@ -15,13 +15,13 @@ _build:
   render: true
 ---
 
-*Så redde Projekt Fredrikas historiker ut landets två namns historia — och artikeln blev
-omröstad till månadens bästa nya artikel på Wikipedia. Spoiler alert: ingen vet.*
+*Varför heter Finland Finland? Spoiler alert: ingen vet. Så redde Projekt Fredrikas
+historiker ut landets två namns historia.*
 
 Det mesta vi säger om historien bärs upp av ord som vi behandlar som om de låg stilla.
-Land, folk, språk, nation, folkrörelser, koncept. De har sällan legat stilla. Att undersöka hur ett begrepp
-har använts — av vem, om vad, och när innebörden sköt i väg — är en egen gren av
-historieforskningen, begreppshistoria.
+Land, folk, språk, nation, folkrörelser, koncept. De har sällan legat stilla. Att
+undersöka hur ett begrepp har använts — av vem, om vad, och när innebörden sköt i väg
+— är en egen gren av historieforskningen, begreppshistoria.
 
 Ordet låter akademiskt, men vinsten är handgriplig: det ger djup. Allt har inte alltid
 varit som det är nu, och det du trodde om en sak visar sig nästan alltid vara mer
@@ -44,14 +44,14 @@ förklaringen, som går tillbaka till 1600-talet, var att båda namnen betyder
 "kärrlandet" — *suo* betyder kärr på finska, och *fen* är kärr på äldre nordiska. Den
 är i dag förkastad, på både semantiska och morfologiska grunder.
 
-Namnet Finland har dessutom flyttat sig. Det betecknade först bara kusttrakten
-kring Åbo, det landskap som långt senare kom att kallas Egentliga Finland. Sveriges
-hela östra riksdel hette officiellt Österlandet, ett namn som användes i officiella
+Namnet Finland har dessutom flyttat sig. Det betecknade först bara kusttrakten kring
+Åbo, det landskap som långt senare kom att kallas Egentliga Finland. Sveriges hela
+östra riksdel hette officiellt Österlandet, ett namn som användes i officiella
 dokument så sent som 1525. Först därefter tog Finland över den vidare betydelsen.
 Ordet *finnr*, som ligger bakom Finland, betecknade i norskt bruk samerna och i
 svenskt bruk invånarna i sydvästra Finland — en parallell har dragits till det
-germanska ord som gett *welsh*, *vallon* och *vlach*, där betydelsen var
-ungefär "de som inte är vi".
+germanska ord som gett *welsh*, *vallon* och *vlach*, där betydelsen var ungefär "de
+som inte är vi".
 
 ## Så illa var det förklarat
 
@@ -77,9 +77,8 @@ sedan hundra år kan inte avgöra det.
 ## Vad en historiker gjorde med saken
 
 Pavel Petrov, historiker och deltidsanställd i Projekt Fredrika, tog sig an avsnittet
-[Finland#Namn](https://sv.wikipedia.org/wiki/Finland#Namn) i juli. Hans första åtgärd,
-den 1 juli, var inte att skriva något nytt. Den var att sätta markeringen "källa
-behövs" på det som redan stod där.
+[Finland#Namn](https://sv.wikipedia.org/wiki/Finland#Namn) i juli. Hans första åtgärd, den 1 juli, var inte att skriva något nytt. Den var
+att sätta markeringen "källa behövs" på det som redan stod där.
 
 Därefter följde arbetet: gå till forskningen, skilja de förkastade hypoteserna från de
 levande, redovisa att det finns två konkurrerande förklaringar i stället för att välja
@@ -116,11 +115,10 @@ Resultatet i siffror:
   *Suomi* från 1 138 till 3 740 tecken med 19 källhänvisningar. - Engelska [*Names of Finland*](https://en.wikipedia.org/wiki/Names_of_Finland), ny
   artikel: 26 697 tecken.
 
-## Månadens artikel på svenska Wikipedia
+## Utmärkelsen
 
-I början av oktober röstades [**Finlands namn**](https://sv.wikipedia.org/wiki/Finlands_namn)
-fram till [bästa nya artikel i augusti 2026](https://sv.wikipedia.org/wiki/Wikipedia:M%C3%A5nadens_artiklar/Arkiv).
-Under den månaden skrevs 404 nya artiklar av 89 skribenter.
+I början av oktober röstades [**Finlands namn**](https://sv.wikipedia.org/wiki/Finlands_namn) fram till [bästa nya artikel i augusti 2026](https://sv.wikipedia.org/wiki/Wikipedia:M%C3%A5nadens_artiklar/Arkiv). Under den månaden skrevs 404 nya
+artiklar av 89 skribenter.
 
 Det som gör utmärkelsen värd att nämna är vem som föreslog artikeln. Det var inte
 någon i projektet, utan en utomstående wikipedian — användaren Paracel63 — som vi inte
@@ -139,28 +137,25 @@ ett aktivt intresse av att fördjupa sig.
 
 Finlands namn är en av många. Under 2026 har Projekt Fredrika haft deltidsanställda
 historiker som arbetat med de centrala begreppen kring språkstriden och
-svenskhetsrörelsen i Finland. [Svekomani](https://sv.wikipedia.org/wiki/Svekomani),
-alltså svenskhetsrörelsen, har växt från 799 till 44 800 tecken — artikeln var tidigare
-knappt mer än en ordförklaring. Dess motpart
-[fennomani](https://sv.wikipedia.org/wiki/Fennomani) har gått från 5 093 till 47 166
-tecken. Därtill kommer ett stort antal besläktade artiklar, och begrepp som klargjorts
-på plats i artiklar som handlar om annat.
+svenskhetsrörelsen i Finland. [Svekomani](https://sv.wikipedia.org/wiki/Svekomani), alltså svenskhetsrörelsen, har växt från 799 till
+44 800 tecken — artikeln var tidigare knappt mer än en ordförklaring. Dess motpart [fennomani](https://sv.wikipedia.org/wiki/Fennomani)
+har gått från 5 093 till 47 166 tecken. Därtill kommer ett stort antal besläktade
+artiklar, och begrepp som klargjorts på plats i artiklar som handlar om annat.
 
-För att få en överblick skapade vi i september en egen navigeringsruta,
-[Svekomani](https://sv.wikipedia.org/wiki/Mall:Svekomani) — "Svenskhetsrörelsen och
-språkstriderna i Finland" — som samlar alla väsentliga artiklar på ett ställe och visar
-hur de hänger samman. Rutan gör också synligt vad som ännu återstår.
+För att få en överblick skapade vi i september en egen navigeringsruta, [Svekomani](https://sv.wikipedia.org/wiki/Mall:Svekomani) —
+"Svenskhetsrörelsen och språkstriderna i Finland" — som samlar alla väsentliga
+artiklar på ett ställe och visar hur de hänger samman. Rutan gör också synligt vad som
+ännu återstår.
 
 Sammanlagt har Pavel Petrov, Johan Pekanmäki, Valter Finnäs, Samuel Branders och Ida
 Karlgren bearbetat 37 av rutans 61 artiklar, varav åtta har skapats från ingenting. De
 svenska artiklarna har tillsammans växt från omkring 404 000 till 913 000 tecken.
-Arbetet dokumenteras löpande på [projektets sida på
-Wikipedia](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Historicus).
+Arbetet dokumenteras löpande på [projektets sida på Wikipedia](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Historicus).
 
-Det är arbete som kräver historiker med koll på källorna. Att skriva att ett ord kommer
-från ett annat är lätt; att veta vilken förklaring som är gångbar i dagens forskning,
-vilken som övergavs för hundra år sedan och vem som övergav den — det kräver att någon
-har läst sig in och kan ange var uppgiften kommer ifrån.
+Det är arbete som kräver historiker med koll på källorna. Att skriva att ett ord
+kommer från ett annat är lätt; att veta vilken förklaring som är gångbar i dagens
+forskning, vilken som övergavs för hundra år sedan och vem som övergav den — det
+kräver att någon har läst sig in och kan ange var uppgiften kommer ifrån.
 
 Och det är där nyttan ligger. Dessa självklarheter har hittills funnits enbart djupt
 inne i expertlitteraturen: i en etymologisk ordbok, i en artikel i Virittäjä, i ett
