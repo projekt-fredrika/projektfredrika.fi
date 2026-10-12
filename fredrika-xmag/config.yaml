@@ -34,7 +34,7 @@ menu:
 params:
   description: "Projekt Fredrika - det svenska Finland på Wikipedia"
   images: ['/img/ProjektFredrika2020_Logo 200x200.png']
-  footer: "&copy; Projekt Fredrika r.f. 2019 - 2022 | [Wikipedia:Projekt Fredrika](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika) | [Twitter @projektfredrika](https://twitter.com/projektfredrika) | [Instagram @projektfredrika](https://instagram.com/projektfredrika) "
+  footer: "&copy; Projekt Fredrika r.f. 2019 - 2026 | [Wikipedia:Projekt Fredrika](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika) | [Twitter @projektfredrika](https://twitter.com/projektfredrika) | [Instagram @projektfredrika](https://instagram.com/projektfredrika) "
   github_edit: "https://github.com/projekt-fredrika/projektfredrika.fi/edit/master/"
   summary_length: 300
   text:

@@ -30,7 +30,7 @@ svar, beroende på vilket Finland som avses — och det går inte att se förrä
 rett ut hur ordet har använts. Sådant står inte i ordböcker. Det måste ställas samman
 ur forskningen.
 
-## Ett ovanligt bra exempel: landets eget namn
+## Ett bra exempel: landets eget namn
 
 Få begrepp ligger finländare närmare än landets eget namn, och få är sämre förklarade.
 
@@ -91,15 +91,13 @@ gränsen för "Finland" gick, och vem som drog den. Att Österbotten hörde till
 var länge oklart: Gustav II Adolf skilde själv på "här" i Finland och "där" i
 Österbotten, och 1695 kallade naturvetaren Olof Rudbeck d.y. Vasa för Österbottens
 huvudstad och Åbo för Finlands. Landskapet låg under Åbo hovrätt ända till 1776, då
-Vasa hovrätt inrättades. Också Åland, Karelen, hertigdömet, storfurstetiteln och det
-omstridda "Sverige-Finland" fick egna avsnitt.
+Vasa hovrätt inrättades.
 
-Och frågan är inte avklarad med 1800-talet. Vad menas egentligen med
-*Fastlandsfinland*? Uttrycket används om Finland utan Åland — det som på Åland kallas
-"Riket" — men det är missvisande, eftersom skärgårdskommunerna i Åboland då räknas som
-fastland. På finska finns *Manner-Suomi* för samma sak, och tidskriften Språkbruk
-rekommenderade 2007 att det hellre översätts med "fastlandet". Det är begreppshistoria
-som pågår just nu, i statistik och myndighetsspråk.
+På vägen reds en rad närliggande begrepp ut, som nu har egna avsnitt i artikeln:
+Österlandet, Norrfinland och Söderfinland, Egentliga Finland, Gamla Finland,
+hertigdömet och storfurstetiteln, det omstridda "Sverige-Finland" — och
+Fastlandsfinland, som visar att frågan inte är avklarad med 1800-talet utan pågår i
+dagens statistik och myndighetsspråk.
 
 Då var materialet för stort för att vara ett avsnitt i en landsartikel. Den 20 augusti
 bröts det ut till en egen artikel, **[Finlands namn](https://sv.wikipedia.org/wiki/Finlands_namn)**, medan en kortare sammanfattning blev kvar
@@ -134,7 +132,7 @@ och 276 på svenska. Det är inga svindlande tal, men de säger något annat än
 En fristående artikel om ett lands namn är inte något man råkar hamna på medan man
 bläddrar — dit kommer man genom att följa hänvisningen från landsartikeln eller genom
 att söka på precis den saken. Siffrorna är med andra ord ett tecken på att det finns
-ett aktivt intresse av att fördjupa sig, inte bara av att slå upp.
+ett aktivt intresse av att fördjupa sig.
 
 ## Begreppshistoria slutar inte med Finlands namn
 
