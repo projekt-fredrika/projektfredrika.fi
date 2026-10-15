@@ -28,12 +28,14 @@ Land, folk, språk, nation, folkrörelser, koncept. De har sällan legat stilla.
 undersöka hur ett begrepp har använts — av vem, om vad, och när innebörden sköt i väg
 — är en egen gren av historieforskningen, begreppshistoria.
 
-Ordet låter akademiskt, men vinsten är handgriplig: det ger djup. Allt har inte alltid
-varit som det är nu, och det du trodde om en sak visar sig nästan alltid vara mer
-mångfasetterat än du antog. Ta frågan hur gammalt Finland är. Den har flera riktiga
-svar, beroende på vilket Finland som avses — och det går inte att se förrän någon har
-rett ut hur ordet har använts. Sådant står inte i ordböcker. Det måste ställas samman
-ur forskningen.
+Ordet låter akademiskt, men vinsten är handgriplig: det ger djup. Alla ord har inte
+använts på samma vis som nu. Enligt historikern Henrik Meinander introducerades ordet
+"finlandssvensk" av studenteliten 1912, men ännu vid vinterkrigets utbrott upplevdes
+det, liksom "finländare", som främmande av många svenskspråkiga. I stället talade man
+om "den svenska folkstammen i Finland", ännu fram till början av 1960-talet. Ta frågan
+hur gammalt Finland är. Den har flera riktiga svar, beroende på vilket Finland som
+avses — och det går inte att se förrän någon har rett ut hur ordet har använts. Sådant
+står inte i ordböcker. Det måste ställas samman ur forskningen.
 
 ## Ett bra exempel: landets eget namn
 
@@ -44,19 +46,19 @@ finska heter det Suomi, och i motsvarande former på de övriga östersjöfinska
 De två namnen har ingenting med varandra att göra — de är till ursprunget obesläktade.
 Och för ingetdera finns någon allmänt accepterad förklaring av var det kommer ifrån.
 
-Det är ett överraskande svar på en fråga som de flesta antar har ett. Den gamla
+Att det inte finns något entydigt svar är överraskande för de flesta. Den gamla
 förklaringen, som går tillbaka till 1600-talet, var att båda namnen betyder
 "kärrlandet" — *suo* betyder kärr på finska, och *fen* är kärr på äldre nordiska. Den
 är i dag förkastad, på både semantiska och morfologiska grunder.
 
-Namnet Finland har dessutom flyttat sig. Det betecknade först bara kusttrakten kring
-Åbo, det landskap som långt senare kom att kallas Egentliga Finland. Sveriges hela
-östra riksdel hette officiellt Österlandet, ett namn som användes i officiella
-dokument så sent som 1525. Först därefter tog Finland över den vidare betydelsen.
-Ordet *finnr*, som ligger bakom Finland, betecknade i norskt bruk samerna och i
-svenskt bruk invånarna i sydvästra Finland — en parallell har dragits till det
-germanska ord som gett *welsh*, *vallon* och *vlach*, där betydelsen var ungefär "de
-som inte är vi".
+Området som namnet Finland syftar på har dessutom flyttat på sig. Det betecknade först
+bara kusttrakten kring Åbo, det landskap som långt senare kom att kallas Egentliga
+Finland. Sveriges hela östra riksdel hette officiellt Österlandet, ett namn som
+användes i officiella dokument så sent som 1525. Först därefter tog Finland över den
+vidare betydelsen. Ordet *finnr*, som ligger bakom Finland, betecknade i norskt bruk
+samerna och i svenskt bruk invånarna i sydvästra Finland — en parallell har dragits
+till det germanska ord som gett *welsh*, *vallon* och *vlach*, där betydelsen var
+ungefär "de som inte är vi".
 
 ## Så illa var det förklarat
 
@@ -95,8 +97,8 @@ omfattande Pavel redde ut är vad orden faktiskt har syftat på under olika tide
 gränsen för "Finland" gick, och vem som drog den. Att Österbotten hörde till Finland
 var länge oklart: Gustav II Adolf skilde själv på "här" i Finland och "där" i
 Österbotten, och 1695 kallade naturvetaren Olof Rudbeck d.y. Vasa för Österbottens
-huvudstad och Åbo för Finlands. Landskapet låg under Åbo hovrätt ända till 1776, då
-Vasa hovrätt inrättades.
+huvudstad och Åbo för Finlands. Landskapet Österbotten låg å andra sidan under Åbo
+hovrätt ända till 1776, då Vasa hovrätt inrättades.
 
 På vägen reds en rad närliggande begrepp ut, som nu har egna avsnitt i artikeln:
 Österlandet, Norrfinland och Söderfinland, Egentliga Finland, Gamla Finland,
@@ -105,10 +107,10 @@ Fastlandsfinland, som visar att frågan inte är avklarad med 1800-talet utan p�
 dagens statistik och myndighetsspråk.
 
 I mitten av augusti hade avsnittet vuxit sig för stort för att rymmas i en
-landsartikel. Den 20 augusti bröts det ut till en egen artikel, **[Finlands namn](https://sv.wikipedia.org/wiki/Finlands_namn)**, medan en kortare sammanfattning blev kvar
-i artikeln om Finland. Samma dag uppdaterades motsvarande avsnitt på finska och
-engelska, och materialet fördes också in i den finska artikeln [*Suomen nimet*](https://fi.wikipedia.org/wiki/Suomen_nimet) och i en ny engelsk
-artikel, [*Names of Finland*](https://en.wikipedia.org/wiki/Names_of_Finland).
+landsartikel. Den 20 augusti bröts det ut till en egen artikel, **[Finlands namn](https://sv.wikipedia.org/wiki/Finlands_namn)**, medan en
+kortare sammanfattning blev kvar i artikeln om Finland. Samma dag uppdaterades
+motsvarande avsnitt på finska och engelska, och materialet fördes också in i den
+finska artikeln [*Suomen nimet*](https://fi.wikipedia.org/wiki/Suomen_nimet) och i en ny engelsk artikel, [*Names of Finland*](https://en.wikipedia.org/wiki/Names_of_Finland).
 
 Resultatet i siffror:
 
@@ -133,20 +135,21 @@ Illustrationen som valdes till artikeln är runstenen U 582 i Söderby-Karl, jus
 stycke Pavel flyttade mellan två avsnitt i slutet av juli.
 
 Under de första trettio dagarna lästes artikeln 563 gånger på engelska, 338 på finska
-och 276 på svenska. Det är inga svindlande tal, men de säger något annat än räckvidd.
-En fristående artikel om ett lands namn är inte något man råkar hamna på medan man
-bläddrar — dit kommer man genom att följa hänvisningen från landsartikeln eller genom
-att söka på precis den saken. Siffrorna är med andra ord ett tecken på att det finns
-ett aktivt intresse av att fördjupa sig.
+och 276 på svenska. Det är inga svindlande tal, men en fristående artikel om ett lands
+namn är inte något man råkar hamna på medan man bläddrar — dit kommer man genom att
+följa hänvisningen från landsartikeln eller genom att söka på precis den saken.
+Siffrorna är med andra ord ett tecken på att det finns ett aktivt intresse av att
+fördjupa sig.
 
 ## Begreppshistoria slutar inte med Finlands namn
 
-Finlands namn är en av många. Under 2026 har Projekt Fredrika haft deltidsanställda
-historiker som arbetat med de centrala begreppen kring språkstriden och
-svenskhetsrörelsen i Finland. [Svekomani](https://sv.wikipedia.org/wiki/Svekomani), alltså svenskhetsrörelsen, har växt från 799 till
-44 800 tecken — artikeln var tidigare knappt mer än en ordförklaring. Dess motpart [fennomani](https://sv.wikipedia.org/wiki/Fennomani)
-har gått från 5 093 till 47 166 tecken. Därtill kommer ett stort antal besläktade
-artiklar, och begrepp som klargjorts på plats i artiklar som handlar om annat.
+Finlands namn är ett av många begrepp som mår bra av att vara väl definierade på
+Wikipedia. Under 2026 har Projekt Fredrika haft deltidsanställda historiker som
+arbetat med de centrala begreppen kring språkstriden och svenskhetsrörelsen i Finland.
+[Svekomani](https://sv.wikipedia.org/wiki/Svekomani), alltså svenskhetsrörelsen, har växt från 799 till 44 800 tecken — artikeln var
+tidigare knappt mer än en ordförklaring. Dess motpart [fennomani](https://sv.wikipedia.org/wiki/Fennomani) har gått från 5 093 till 47
+166 tecken. Därtill kommer ett stort antal besläktade artiklar, och begrepp som
+klargjorts på plats i artiklar som handlar om annat.
 
 För att få en överblick skapade vi i september en egen navigeringsruta, [Svekomani](https://sv.wikipedia.org/wiki/Mall:Svekomani) —
 "Svenskhetsrörelsen och språkstriderna i Finland" — som samlar alla väsentliga
@@ -163,10 +166,11 @@ kommer från ett annat är lätt; att veta vilken förklaring som är gångbar i
 forskning, vilken som övergavs för hundra år sedan och vem som övergav den — det
 kräver att någon har läst sig in och kan ange var uppgiften kommer ifrån.
 
-Och det är där nyttan ligger. Dessa självklarheter har hittills funnits enbart djupt
-inne i expertlitteraturen: i en etymologisk ordbok, i en artikel i Virittäjä, i ett
-kapitel hos Svenska litteratursällskapet. Nu är de tillgängliga för den som googlar —
-och för den som ber en AI förklara, eftersom språkmodellerna lär sig just av det som
+Och det är där nyttan med dokumentationen av begreppshistorien ligger. Dessa
+"självklarheter" har hittills funnits enbart djupt inne i expertlitteraturen: i en
+etymologisk ordbok, i en artikel i Virittäjä, i ett kapitel i en skriftserie
+publicerad av Svenska litteratursällskapet. Nu är de tillgängliga för den som googlar
+— och för den som ber en AI förklara, eftersom språkmodellerna lär sig just av det som
 står på Wikipedia. Vad som finns där avgör vad de kan svara.
 
 För den som vill gå vidare är allt dessutom klart källbelagt. Varje påstående har sin
