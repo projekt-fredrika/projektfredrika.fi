@@ -104,7 +104,8 @@ På vägen reds en rad närliggande begrepp ut, som nu har egna avsnitt i artike
 Österlandet, Norrfinland och Söderfinland, Egentliga Finland, Gamla Finland,
 hertigdömet och storfurstetiteln, det omstridda "Sverige-Finland" — och
 Fastlandsfinland, som visar att frågan inte är avklarad med 1800-talet utan pågår i
-dagens statistik och myndighetsspråk.
+dagens statistik och myndighetsspråk. Det missvisande är bland annat att Åbolands öar
+— såsom det av Fredrika speciellt omhuldade [Nagu](https://projektfredrika.fi/uppslagsverket-nagu/) — räknas till Fastlandsfinland.
 
 I mitten av augusti hade avsnittet vuxit sig för stort för att rymmas i en
 landsartikel. Den 20 augusti bröts det ut till en egen artikel, **[Finlands namn](https://sv.wikipedia.org/wiki/Finlands_namn)**, medan en
