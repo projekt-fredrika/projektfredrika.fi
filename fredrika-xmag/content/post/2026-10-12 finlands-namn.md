@@ -9,10 +9,6 @@ tags: ['wikipedia','begreppshistoria','historia','projekt fredrika']
 toc: false
 images: ["/img/sf-golf-aland.jpg"]
 draft: false
-_build:
-  list: false
-  publishResources: true
-  render: true
 ---
 
 *Varför heter Finland Finland? Spoiler alert: ingen vet. Så redde Projekt Fredrikas
