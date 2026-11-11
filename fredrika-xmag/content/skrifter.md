@@ -9,14 +9,14 @@ toc: false
 
 **Projekt Fredrikas skrifter** är den skriftserie där [Projekt Fredrika r.f.](/om/) ger ut böcker byggda på öppna data och fritt licensierat innehåll. Serien börjar 2027, och namnet kommer av föreningens namn. Skriftserien i sig är kontinuerlig utan gräns.
 
-Tanken är enkel. På Wikipedia, Wikidata och Wikimedia Commons växer det hela tiden fram material om det svenska Finland som är fritt att återanvända, men som sällan läses i någon annan form än en skärm åt gången. Vi väljer ut, redigerar och förbättrar Wikipediaartiklarna, och sätter om det materialet till böcker som går att läsa från första till sista sidan, ställa i en hylla och ge bort. Metoden är beprövad: så gjorde föreningen [Uppslagsverket Nagu](/uppslagsverket-nagu/) år 2019, och det är den vi nu upprepar.
+Tanken är enkel. Vi analyserar och förbättrar artiklarna om det svenska Finland på Wikipedia, Wikidata och Wikimedia Commons tills de håller för tryck, och sätter om dem till böcker som går att läsa från första till sista sidan, ställa i en hylla och ge bort. Artiklarna står samtidigt kvar fria att läsa, använda och redigera vidare. Metoden är beprövad: så gjorde föreningen [Uppslagsverket Nagu](/uppslagsverket-nagu/) år 2019, och det är den vi nu upprepar.
 
 Varje skrift i serien ges ut på två sätt:
 
 * **i tryck**, som en inbunden bok
 * **som fritt nedladdningsbar PDF** här på projektfredrika.fi
 
-Serien har **inget planerat slut och bara önskade kommande delar**. Så länge det finns öppna data och fritt licensierat innehåll om det svenska Finland som förtjänar boksidor fortsätter vi ge ut skrifter. Utgivare är Projekt Fredrika r.f. i självförlag.
+Serien har **inget planerat slut och inget bestämt antal delar**. Så länge det finns öppna data och fritt licensierat innehåll om det svenska Finland som förtjänar boksidor fortsätter vi ge ut skrifter. Utgivare är Projekt Fredrika r.f. i självförlag.
 
 ## Nummer 1: Det svenska Finland på öppen data, Volym I
 
