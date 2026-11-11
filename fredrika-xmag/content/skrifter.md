@@ -18,6 +18,10 @@ Varje skrift i serien ges ut på två sätt:
 
 Serien har **inget planerat slut och inget bestämt antal delar**. Så länge det finns öppna data och fritt licensierat innehåll om det svenska Finland som förtjänar boksidor fortsätter vi ge ut skrifter. Utgivare är Projekt Fredrika r.f. i självförlag.
 
+Projekt Fredrikas skrifter\
+ISSN 3088-0335 (print)\
+ISSN 3088-0343 (online)
+
 ## Nummer 1: Det svenska Finland på öppen data, Volym I
 
 **Det svenska Finland på öppen data – Volym I: Centrala begrepp och artiklar på svenskspråkiga Wikipedia** utkommer 2027 som nummer 1 i serien.
