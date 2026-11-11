@@ -22,7 +22,7 @@ Serien har **inget planerat slut och inget bestämt antal delar**. Så länge de
 
 **Det svenska Finland på öppen data – Volym I: Centrala begrepp och artiklar på svenskspråkiga Wikipedia** utkommer 2027 som nummer 1 i serien.
 
-Boken samlar **61 artiklar från svenskspråkiga Wikipedia** från navrutan [Svenskhetsrörelsen och språkstriderna i Finland](https://sv.wikipedia.org/wiki/Mall:Svekomani), som vi skapat. Artiklarna på Wikipedia har förbättrats under ett år av historieexperter, och har satts ihop till en bok — samma grundidé som bar [Uppslagsverket Nagu](/uppslagsverket-nagu/), men med centrala begrepp i stället för en enda ort som ram.
+Boken samlar **61 artiklar från svenskspråkiga Wikipedia** från navrutan [Svenskhetsrörelsen och språkstriderna i Finland](https://sv.wikipedia.org/wiki/Mall:Svekomani), som vi skapat. Artiklarna på Wikipedia har förbättrats under gångna året av historieexperter, och har satts ihop till en bok — samma grundidé som bar [Uppslagsverket Nagu](/uppslagsverket-nagu/), men med centrala begrepp i stället för en enda ort som ram.
 
 Boken inleds med gästförord av [Henrik Ekberg](https://sv.wikipedia.org/wiki/Henrik_Ekberg), redaktör för Uppslagsverket Finland och huvudredaktör för andra upplagan.
 
