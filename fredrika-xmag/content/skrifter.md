@@ -31,7 +31,8 @@ Boken inleds med gästförord av [Henrik Ekberg](https://sv.wikipedia.org/wiki/H
 * Över 300 sidor
 * Formatet A5
 * Inbunden
-* Upplaga 100 exemplar
+* 100 exemplar i tryck
+* Fritt tillgänglig som PDF
 * Utgivningsår 2027
 
 ### Redaktionsgrupp
