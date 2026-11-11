@@ -2,7 +2,7 @@
 title: Projekt Fredrikas skrifter
 url: "/skrifter/"
 author: Robert
-toc: true
+toc: false
 ---
 
 ## Vad skriftserien är
