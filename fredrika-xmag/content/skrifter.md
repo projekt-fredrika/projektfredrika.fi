@@ -28,7 +28,7 @@ Boken inleds med gästförord av [Henrik Ekberg](https://sv.wikipedia.org/wiki/H
 
 ### Den konkreta boken
 
-* 364 sidor
+* Över 300 sidor
 * Formatet A5
 * Inbunden
 * Upplaga 100 exemplar
