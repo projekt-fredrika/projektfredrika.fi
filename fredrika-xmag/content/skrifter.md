@@ -9,16 +9,16 @@ toc: true
 
 ## Vad skriftserien är
 
-**Projekt Fredrikas skrifter** är den skriftserie där [Projekt Fredrika r.f.](/om/) ger ut böcker byggda på öppna data och fritt licensierat innehåll. Serien börjar 2027, och namnet kommer av föreningens namn — inte av någon tidsgräns.
+**Projekt Fredrikas skrifter** är den skriftserie där [Projekt Fredrika r.f.](/om/) ger ut böcker byggda på öppna data och fritt licensierat innehåll. Serien börjar 2027, och namnet kommer av föreningens namn. Skriftserien i sig är kontinuerlig utan gräns.
 
-Tanken är enkel. På Wikipedia, Wikidata och Wikimedia Commons växer det hela tiden fram material om det svenska Finland som är fritt att återanvända, men som sällan läses i någon annan form än en skärm åt gången. Vi väljer ut, redigerar och sätter om det materialet till böcker som går att läsa från första till sista sidan, ställa i en hylla och ge bort.
+Tanken är enkel. På Wikipedia, Wikidata och Wikimedia Commons växer det hela tiden fram material om det svenska Finland som är fritt att återanvända, men som sällan läses i någon annan form än en skärm åt gången. Vi väljer ut, redigerar och förbättrar Wikipediaartiklarna, och sätter om det materialet till böcker som går att läsa från första till sista sidan, ställa i en hylla och ge bort.
 
 Varje skrift i serien ges ut på två sätt:
 
 * **i tryck**, som en inbunden bok
 * **som fritt nedladdningsbar PDF** här på projektfredrika.fi
 
-Serien har **inget planerat slut och inget planerat antal delar**. Så länge det finns öppna data och fritt licensierat innehåll om det svenska Finland som förtjänar boksidor fortsätter vi ge ut skrifter. Utgivare är Projekt Fredrika r.f. i självförlag.
+Serien har **inget planerat slut och bara önskade kommande delar**. Så länge det finns öppna data och fritt licensierat innehåll om det svenska Finland som förtjänar boksidor fortsätter vi ge ut skrifter. Utgivare är Projekt Fredrika r.f. i självförlag.
 
 <!-- ATT FYLLA I: seriens ISSN (tryckt och ev. elektroniskt). Ansökan är under behandling vid Nationalbibliotekets ISSN-central sedan 11/2026. Skriv in numren här först när de finns — ingen platshållare som ser ut som ett nummer. -->
 
@@ -26,13 +26,13 @@ Serien har **inget planerat slut och inget planerat antal delar**. Så länge de
 
 **Det svenska Finland på öppen data – Volym I: Centrala begrepp och artiklar på svenskspråkiga Wikipedia** utkommer 2027 som nummer 1 i serien.
 
-Boken samlar **61 artiklar från svenskspråkiga Wikipedia**, ordnade i sex grupper. Artiklarna är hämtade ur Wikipedia och satta om till bok — samma grundidé som bar [Uppslagsverket Nagu](/uppslagsverket-nagu/), men med centrala begrepp i stället för en enda ort som ram.
+Boken samlar **61 artiklar från svenskspråkiga Wikipedia** från navrutan [Svenskhetsrörelsen och språkstriderna i Finland](https://sv.wikipedia.org/wiki/Mall:Svekomani), som vi skapat. Artiklarna på Wikipedia har förbättrats under ett år av historieexperter, och har satts ihop till en bok — samma grundidé som bar [Uppslagsverket Nagu](/uppslagsverket-nagu/), men med centrala begrepp i stället för en enda ort som ram.
 
 <!-- ATT FYLLA I: namnen på de sex grupperna, när innehållsförteckningen är låst. Gärna som en punktlista här. -->
 
-Boken inleds med ett gästförord.
+Boken inleds med gästförord av [Henrik Ekberg](https://sv.wikipedia.org/wiki/Henrik_Ekberg), redaktör för Uppslagsverket Finland och huvudredaktör för andra upplagan.
 
-<!-- ATT FYLLA I: ska gästförordets författare nämnas vid namn här? Namnet publiceras inte utan Roberts uttryckliga godkännande. -->
+<!-- ATT KONTROLLERA FÖRE PUBLICERING: Henrik Ekberg är namngiven ovan. Har han gett klartecken till att nämnas publikt? Tillståndsfrågan var obesvarad 11.11.2026, och redigeringskommentarerna på Wikipedia säger därför bara "en yrkesredaktörs kommentarer". Titeln "huvudredaktör för Uppslagsverket Finlands andra upplaga" är kontrollerad mot sv-wiki (tillsatt 2001, utgiven 2003-2007). -->
 
 ### Den konkreta boken
 
