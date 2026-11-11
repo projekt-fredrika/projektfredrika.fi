@@ -59,5 +59,5 @@ Har du ett ämne inom det svenska Finland som du tycker förtjänar en bok byggd
 
 Serien har en förhistoria. [Uppslagsverket Nagu](/uppslagsverket-nagu/) (2019) var Projekt Fredrikas första bok — 288 sidor om en enda ort, i sin helhet byggd på Wikipedia-artiklar, utgiven med understöd av Sparbanksstiftelsen i Nagu. Den visade att det går: att fritt licensierat innehåll som skrivits för en skärm också håller som bok.
 
-Uppslagsverket Nagu är **en prototyp och föregångare, utgiven självständigt utanför Projekt Fredrikas skrifter**. Den gavs ut flera år innan serien grundades, har egna nummer sedan dess och ingår alltså inte i serien. Vi nämner den här för att visa varifrån utgivningen kommer — inte för att utvidga serien bakåt.
+Uppslagsverket Nagu är **en prototyp och föregångare, utgiven självständigt utanför Projekt Fredrikas skrifter**. Den gavs ut flera år innan serien grundades och fick aldrig något serienummer, så den ingår inte i serien. Vi nämner den här för att visa varifrån utgivningen kommer — inte för att utvidga serien bakåt.
 
