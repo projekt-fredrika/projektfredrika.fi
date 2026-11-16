@@ -26,18 +26,22 @@ ISSN 3088-0343 (online)
 
 **Det svenska Finland på öppen data – Volym I: Centrala begrepp och artiklar på svenskspråkiga Wikipedia** utkommer 2027 som nummer 1 i serien.
 
-Boken samlar **61 artiklar från svenskspråkiga Wikipedia** från navrutan [Svenskhetsrörelsen och språkstriderna i Finland](https://sv.wikipedia.org/wiki/Mall:Svekomani), som vi skapat. Artiklarna på Wikipedia har förbättrats under gångna året av historieexperter, och har satts ihop till en bok — samma grundidé som bar [Uppslagsverket Nagu](/uppslagsverket-nagu/), men med centrala begrepp i stället för en enda ort som ram.
+Boken samlar **64 artiklar från svenskspråkiga Wikipedia** från navrutan [Svenskhetsrörelsen och språkstriderna i Finland](https://sv.wikipedia.org/wiki/Mall:Svekomani), som vi skapat. Artiklarna på Wikipedia har förbättrats under gångna året av historieexperter, och har satts ihop till en bok — samma grundidé som bar [Uppslagsverket Nagu](/uppslagsverket-nagu/), men med centrala begrepp i stället för en enda ort som ram.
 
 Boken inleds med gästförord av [Henrik Ekberg](https://sv.wikipedia.org/wiki/Henrik_Ekberg), redaktör för Uppslagsverket Finland och huvudredaktör för andra upplagan.
 
 ### Den konkreta boken
 
-* Över 300 sidor
-* Formatet A5
-* Inbunden
+* 396 sidor, 64 artiklar och 171 bilder
+* Sex kapitel: begrepp och regioner, stat och lantdag, förryskningen, finskhetsrörelsen, svenskhetsrörelsen, språkfrågan
+* Formatet A5, inbunden i hårda pärmar (färdig bok 152 × 215 mm)
 * 100 exemplar i tryck
 * Fritt tillgänglig som PDF
 * Utgivningsår 2027
+
+Det svenska Finland på öppen data, Volym I\
+ISBN 978-952-19711-0-5 (inbunden)\
+ISBN 978-952-19711-1-2 (PDF)
 
 ### Redaktionsgrupp
 
@@ -47,11 +51,11 @@ Kaj Arnö, Samuel Brander, Valter Finnäs, Ida Karlgren, Johan Pekanmäki, Pavel
 
 * Svenska litteratursällskapet i Finland
 * Svenska kulturfonden
-* Stiftelsen Finlandssvensk Bokkultur
+* Stiftelsen Bokkultur
 
 ### Ladda ner
 
-Boken är ännu inte färdig. När den utkommer publicerar vi hela boken som fritt nedladdningsbar PDF här.
+Boken är satt och klar, och utkommer 2027. När tryckupplagan är klar publicerar vi hela boken som fritt nedladdningsbar PDF här.
 
 ## Kommande volymer
 
