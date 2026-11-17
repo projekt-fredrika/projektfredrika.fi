@@ -13,6 +13,8 @@ showImage: false
 
 ![Omslaget till Volym I: baksida, rygg och framsida.](/img/omslag-volym-i-helt.jpg)
 
+Första boken i serien. [Klicka här för att ladda ner som PDF](https://github.com/projekt-fredrika/projektfredrika.fi/releases/download/v1.0.0/Det_svenska_Finland_pa_oppen_data_Volym_I.pdf).
+
 Tanken är enkel. Vi analyserar och förbättrar artiklarna om det svenska Finland på Wikipedia, Wikidata och Wikimedia Commons tills de håller för tryck, och sätter om dem till böcker som går att läsa från första till sista sidan, ställa i en hylla och ge bort. Artiklarna står samtidigt kvar fria att läsa, använda och redigera vidare. Metoden är beprövad: så gjorde föreningen [Uppslagsverket Nagu](/uppslagsverket-nagu/) år 2019, och det är den vi nu upprepar med ämnesexperter.
 
 Varje skrift i serien ges ut på två sätt:
