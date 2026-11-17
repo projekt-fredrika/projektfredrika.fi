@@ -32,7 +32,7 @@ Boken inleds med gästförord av [Henrik Ekberg](https://sv.wikipedia.org/wiki/H
 
 ### Den konkreta boken
 
-* 396 sidor, 64 artiklar och 171 bilder
+* Närapå 400 sidor, 64 artiklar och 171 bilder
 * Sex kapitel: begrepp och regioner, stat och lantdag, förryskningen, finskhetsrörelsen, svenskhetsrörelsen, språkfrågan
 * Formatet A5, inbunden i hårda pärmar (färdig bok 152 × 215 mm)
 * 100 exemplar i tryck
@@ -60,6 +60,16 @@ Boken är satt och klar, och utkommer 2027. När tryckupplagan är klar publicer
 ## Kommande volymer
 
 Fler volymer är planerade. Vi annonserar varje ny skrift här när titel och utgivningsår är klara.
+
+Några möjliga exempel på kommande volymer:
+
+* Finlands historia 1809–1917
+* Finlands militär- och krigshistoria
+* Österbotten
+* Helsingfors
+* Litteratur
+
+Vilka band det blir avgörs av intresse, behov och finansiering. Volym I kunde också ges ut på andra språk.
 
 Har du ett ämne inom det svenska Finland som du tycker förtjänar en bok byggd på öppna data? Hör av dej till [info@projektfredrika.fi](mailto:info@projektfredrika.fi).
 
