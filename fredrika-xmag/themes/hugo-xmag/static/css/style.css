@@ -243,3 +243,25 @@ tr:nth-child(even) { background: #eee }
 .finsvetekniker p {font-family: Vollkorn, Georgia; font-size: 12pt; }
 .finsvetekniker h1 {font-family: Vollkorn, Georgia; font-size: 18pt; }
 .finsvetekniker h2 {font-family: Vollkorn, Georgia; font-size: 14pt; }
+
+figure {
+  margin: 1.5em 0;
+}
+
+/* Stående bokomslag: fullbredd blir orimligt högt */
+figure.omslag {
+  max-width: 420px;
+  margin: 1.5em auto;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 0.5em;
+}
