@@ -3,11 +3,15 @@ title: Projekt Fredrikas skrifter
 url: "/skrifter/"
 author: Robert
 toc: false
+images: ['/img/omslag-volym-i-helt.jpg']
+showImage: false
 ---
 
 ## Vad skriftserien är
 
 **Projekt Fredrikas skrifter** är den skriftserie där [Projekt Fredrika r.f.](/om/) ger ut böcker byggda på öppna data och fritt licensierat innehåll. Serien börjar 2027, och namnet kommer av föreningens namn. Skriftserien i sig är kontinuerlig utan gräns.
+
+![Omslaget till Volym I: baksida, rygg och framsida.](/img/omslag-volym-i-helt.jpg)
 
 Tanken är enkel. Vi analyserar och förbättrar artiklarna om det svenska Finland på Wikipedia, Wikidata och Wikimedia Commons tills de håller för tryck, och sätter om dem till böcker som går att läsa från första till sista sidan, ställa i en hylla och ge bort. Artiklarna står samtidigt kvar fria att läsa, använda och redigera vidare. Metoden är beprövad: så gjorde föreningen [Uppslagsverket Nagu](/uppslagsverket-nagu/) år 2019, och det är den vi nu upprepar med ämnesexperter.
 
