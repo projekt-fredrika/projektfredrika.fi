@@ -32,7 +32,7 @@ Boken inleds med gästförord av [Henrik Ekberg](https://sv.wikipedia.org/wiki/H
 
 ### Den konkreta boken
 
-* Närapå 400 sidor, 64 artiklar och 171 bilder
+* 396 sidor, 64 artiklar och 171 bilder
 * Sex kapitel: begrepp och regioner, stat och lantdag, förryskningen, finskhetsrörelsen, svenskhetsrörelsen, språkfrågan
 * Formatet A5, inbunden i hårda pärmar (färdig bok 152 × 215 mm)
 * 100 exemplar i tryck
@@ -55,7 +55,9 @@ Kaj Arnö, Samuel Brander, Valter Finnäs, Ida Karlgren, Johan Pekanmäki, Pavel
 
 ### Ladda ner
 
-Boken är satt och klar, och utkommer 2027. När tryckupplagan är klar publicerar vi hela boken som fritt nedladdningsbar PDF här.
+Boken är satt och klar, och utkommer i tryck 2027. Hela boken är fritt tillgänglig som PDF redan nu: [Det\_svenska\_Finland\_pa\_oppen\_data\_Volym\_I.pdf](https://github.com/projekt-fredrika/projektfredrika.fi/releases/download/v1.0.0/Det_svenska_Finland_pa_oppen_data_Volym_I.pdf), 11 MB.
+
+Texterna kommer från svenskspråkiga Wikipedia och bilderna från Wikimedia Commons. Boken är licensierad under CC BY-SA 4.0, och får läsas, spridas och bearbetas vidare med angiven källa och samma licens.
 
 ## Kommande volymer
 
