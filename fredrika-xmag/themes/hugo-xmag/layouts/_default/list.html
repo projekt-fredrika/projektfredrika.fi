@@ -4,8 +4,7 @@
 <main class="list">
 {{ $pages := .Pages }}
 {{ if .IsHome }}{{ $pages = .Site.RegularPages  }}{{ end }}
-{{ $paginator := .Paginate (where $pages "Section" "==" "post") }}
-{{ range $paginator.Pages }}
+{{ range where $pages "Section" "==" "post" }}
 <section class="article-list">
   <div class="categories">
   {{ with .Params.categories }}
@@ -41,7 +40,6 @@
 </section>
 {{ end }}
 </main>
-<nav>{{ template "_internal/pagination.html" . }}</nav>
 </div>
 
 {{ partial "footer.html" . }}
